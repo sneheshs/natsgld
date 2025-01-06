@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 570da3112a252424eb74a8c0d8a3b404
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box001 1
+    100004: Box002
+    100006: Box002 1
+    100008: Box003
+    100010: Box003 1
+    100012: Box004
+    100014: Box004 1
+    100016: Box005
+    100018: Box005 1
+    100020: Box006
+    100022: Box007
+    100024: Box007 1
+    100026: Box008
+    100028: Box008 1
+    100030: Box009
+    100032: Box009 1
+    100034: Box010
+    100036: Box010 1
+    100038: Box011
+    100040: Box011 1
+    100042: Box012
+    100044: Box012 1
+    100046: Box013
+    100048: Box014
+    100050: Box015
+    100052: Box016
+    100054: Camera001
+    100056: Camera001.Target
+    100058: Cylinder001
+    100060: Cylinder001 1
+    100062: Cylinder002
+    100064: Cylinder003
+    100066: Cylinder004
+    100068: Cylinder009
+    100070: Cylinder010
+    100072: Cylinder011
+    100074: Cylinder012
+    100076: Cylinder013
+    100078: Cylinder014
+    100080: Cylinder015
+    100082: Cylinder016
+    100084: gas
+    100086: gas001
+    100088: gas002
+    100090: gas003
+    100092: gas2
+    100094: Group001
+    100096: Group002
+    100098: Group003
+    100100: Group004
+    100102: Line001
+    100104: Line002
+    100106: Line003
+    100108: Line004
+    100110: Line005
+    100112: Line006
+    100114: Line007
+    100116: Line008
+    100118: Line009
+    100120: Line011
+    100122: Line014
+    100124: Line015
+    100126: Line016
+    100128: Line017
+    100130: Line018
+    100132: Line019
+    100134: Line020
+    100136: Line021
+    100138: Line022
+    100140: Line025
+    100142: Line026
+    100144: Line027
+    100146: Line028
+    100148: Line029
+    100150: Line032
+    100152: Line033
+    100154: Line034
+    100156: Line035
+    100158: Line036
+    100160: Line037
+    100162: //RootNode
+    100164: Plane001
+    100166: Plane002
+    100168: Rectangle001
+    100170: Rectangle001 1
+    100172: Rectangle002
+    100174: Rectangle002 1
+    100176: Rectangle003
+    100178: Rectangle003 1
+    100180: Rectangle004
+    100182: Rectangle004 1
+    100184: Rectangle005
+    100186: Rectangle005 1
+    100188: Rectangle006
+    100190: Rectangle007
+    100192: VRayIES001
+    100194: VRayIES001.Target
+    100196: VRayIES002
+    100198: VRayIES002.Target
+    100200: VRayIES003
+    100202: VRayIES003.Target
+    100204: VRayIES004
+    100206: VRayIES004.Target
+    100208: VRayLight001
+    100210: VRayLight002
+    100212: VRayLight003
+    100214: VRayLight004
+    100216: VRayLight005
+    100218: VRayLight006
+    100220: VRayLight007
+    100222: VRayLight008
+    100224: VRayLight009
+    100226: VRayLight010
+    100228: VRayLight011
+    100230: VRayLight012
+    400000: Box001
+    400002: Box001 1
+    400004: Box002
+    400006: Box002 1
+    400008: Box003
+    400010: Box003 1
+    400012: Box004
+    400014: Box004 1
+    400016: Box005
+    400018: Box005 1
+    400020: Box006
+    400022: Box007
+    400024: Box007 1
+    400026: Box008
+    400028: Box008 1
+    400030: Box009
+    400032: Box009 1
+    400034: Box010
+    400036: Box010 1
+    400038: Box011
+    400040: Box011 1
+    400042: Box012
+    400044: Box012 1
+    400046: Box013
+    400048: Box014
+    400050: Box015
+    400052: Box016
+    400054: Camera001
+    400056: Camera001.Target
+    400058: Cylinder001
+    400060: Cylinder001 1
+    400062: Cylinder002
+    400064: Cylinder003
+    400066: Cylinder004
+    400068: Cylinder009
+    400070: Cylinder010
+    400072: Cylinder011
+    400074: Cylinder012
+    400076: Cylinder013
+    400078: Cylinder014
+    400080: Cylinder015
+    400082: Cylinder016
+    400084: gas
+    400086: gas001
+    400088: gas002
+    400090: gas003
+    400092: gas2
+    400094: Group001
+    400096: Group002
+    400098: Group003
+    400100: Group004
+    400102: Line001
+    400104: Line002
+    400106: Line003
+    400108: Line004
+    400110: Line005
+    400112: Line006
+    400114: Line007
+    400116: Line008
+    400118: Line009
+    400120: Line011
+    400122: Line014
+    400124: Line015
+    400126: Line016
+    400128: Line017
+    400130: Line018
+    400132: Line019
+    400134: Line020
+    400136: Line021
+    400138: Line022
+    400140: Line025
+    400142: Line026
+    400144: Line027
+    400146: Line028
+    400148: Line029
+    400150: Line032
+    400152: Line033
+    400154: Line034
+    400156: Line035
+    400158: Line036
+    400160: Line037
+    400162: //RootNode
+    400164: Plane001
+    400166: Plane002
+    400168: Rectangle001
+    400170: Rectangle001 1
+    400172: Rectangle002
+    400174: Rectangle002 1
+    400176: Rectangle003
+    400178: Rectangle003 1
+    400180: Rectangle004
+    400182: Rectangle004 1
+    400184: Rectangle005
+    400186: Rectangle005 1
+    400188: Rectangle006
+    400190: Rectangle007
+    400192: VRayIES001
+    400194: VRayIES001.Target
+    400196: VRayIES002
+    400198: VRayIES002.Target
+    400200: VRayIES003
+    400202: VRayIES003.Target
+    400204: VRayIES004
+    400206: VRayIES004.Target
+    400208: VRayLight001
+    400210: VRayLight002
+    400212: VRayLight003
+    400214: VRayLight004
+    400216: VRayLight005
+    400218: VRayLight006
+    400220: VRayLight007
+    400222: VRayLight008
+    400224: VRayLight009
+    400226: VRayLight010
+    400228: VRayLight011
+    400230: VRayLight012
+    2000000: Camera001
+    2100000: 'Material #13'
+    2100002: 'Material #15'
+    2100004: 'Material #8'
+    2100006: 'Material #4'
+    2100008: 'Material #3'
+    2100010: 'Material #7'
+    2100012: 'Material #16'
+    2100014: 'Material #5'
+    2100016: 'Material #2'
+    2100018: 'Material #10'
+    2100020: 'Material #9'
+    2100022: 'Material #23'
+    2100024: 'Material #14'
+    2100026: 'Material #18'
+    2100028: gas
+    2100030: gas1
+    2100032: gas mat
+    2100034: glass
+    2100036: 'Material #12'
+    2100038: glass1
+    2300000: Box001
+    2300002: Box001 1
+    2300004: Box002
+    2300006: Box002 1
+    2300008: Box003
+    2300010: Box003 1
+    2300012: Box004
+    2300014: Box004 1
+    2300016: Box005
+    2300018: Box005 1
+    2300020: Box006
+    2300022: Box007
+    2300024: Box007 1
+    2300026: Box008
+    2300028: Box008 1
+    2300030: Box009
+    2300032: Box009 1
+    2300034: Box010
+    2300036: Box010 1
+    2300038: Box011
+    2300040: Box011 1
+    2300042: Box012
+    2300044: Box012 1
+    2300046: Box013
+    2300048: Box014
+    2300050: Box015
+    2300052: Box016
+    2300054: Cylinder001
+    2300056: Cylinder001 1
+    2300058: Cylinder002
+    2300060: Cylinder003
+    2300062: Cylinder004
+    2300064: Cylinder009
+    2300066: Cylinder010
+    2300068: Cylinder011
+    2300070: Cylinder012
+    2300072: Cylinder013
+    2300074: Cylinder014
+    2300076: Cylinder015
+    2300078: Cylinder016
+    2300080: Line001
+    2300082: Line002
+    2300084: Line003
+    2300086: Line004
+    2300088: Line005
+    2300090: Line006
+    2300092: Line007
+    2300094: Line008
+    2300096: Line009
+    2300098: Line011
+    2300100: Line014
+    2300102: Line015
+    2300104: Line016
+    2300106: Line017
+    2300108: Line018
+    2300110: Line019
+    2300112: Line020
+    2300114: Line021
+    2300116: Line022
+    2300118: Line025
+    2300120: Line026
+    2300122: Line027
+    2300124: Line028
+    2300126: Line029
+    2300128: Line032
+    2300130: Line033
+    2300132: Line034
+    2300134: Line035
+    2300136: Line036
+    2300138: Line037
+    2300140: Plane001
+    2300142: Plane002
+    2300144: Rectangle001
+    2300146: Rectangle001 1
+    2300148: Rectangle002
+    2300150: Rectangle002 1
+    2300152: Rectangle003
+    2300154: Rectangle003 1
+    2300156: Rectangle004
+    2300158: Rectangle004 1
+    2300160: Rectangle005
+    2300162: Rectangle005 1
+    2300164: Rectangle006
+    2300166: Rectangle007
+    3300000: Box001
+    3300002: Box001 1
+    3300004: Box002
+    3300006: Box002 1
+    3300008: Box003
+    3300010: Box003 1
+    3300012: Box004
+    3300014: Box004 1
+    3300016: Box005
+    3300018: Box005 1
+    3300020: Box006
+    3300022: Box007
+    3300024: Box007 1
+    3300026: Box008
+    3300028: Box008 1
+    3300030: Box009
+    3300032: Box009 1
+    3300034: Box010
+    3300036: Box010 1
+    3300038: Box011
+    3300040: Box011 1
+    3300042: Box012
+    3300044: Box012 1
+    3300046: Box013
+    3300048: Box014
+    3300050: Box015
+    3300052: Box016
+    3300054: Cylinder001
+    3300056: Cylinder001 1
+    3300058: Cylinder002
+    3300060: Cylinder003
+    3300062: Cylinder004
+    3300064: Cylinder009
+    3300066: Cylinder010
+    3300068: Cylinder011
+    3300070: Cylinder012
+    3300072: Cylinder013
+    3300074: Cylinder014
+    3300076: Cylinder015
+    3300078: Cylinder016
+    3300080: Line001
+    3300082: Line002
+    3300084: Line003
+    3300086: Line004
+    3300088: Line005
+    3300090: Line006
+    3300092: Line007
+    3300094: Line008
+    3300096: Line009
+    3300098: Line011
+    3300100: Line014
+    3300102: Line015
+    3300104: Line016
+    3300106: Line017
+    3300108: Line018
+    3300110: Line019
+    3300112: Line020
+    3300114: Line021
+    3300116: Line022
+    3300118: Line025
+    3300120: Line026
+    3300122: Line027
+    3300124: Line028
+    3300126: Line029
+    3300128: Line032
+    3300130: Line033
+    3300132: Line034
+    3300134: Line035
+    3300136: Line036
+    3300138: Line037
+    3300140: Plane001
+    3300142: Plane002
+    3300144: Rectangle001
+    3300146: Rectangle001 1
+    3300148: Rectangle002
+    3300150: Rectangle002 1
+    3300152: Rectangle003
+    3300154: Rectangle003 1
+    3300156: Rectangle004
+    3300158: Rectangle004 1
+    3300160: Rectangle005
+    3300162: Rectangle005 1
+    3300164: Rectangle006
+    3300166: Rectangle007
+    4300000: Box001
+    4300002: Box002
+    4300004: Box003
+    4300006: Plane001
+    4300008: Box004
+    4300010: Box005
+    4300012: Line001
+    4300014: Line002
+    4300016: Line003
+    4300018: Line004
+    4300020: Line006
+    4300022: Line008
+    4300024: Line007
+    4300026: Line005
+    4300028: Box007
+    4300030: Box008
+    4300032: Rectangle001
+    4300034: Line009
+    4300036: Box009
+    4300038: Box010
+    4300040: Rectangle002
+    4300042: Rectangle003
+    4300044: Rectangle004
+    4300046: Rectangle005
+    4300048: Rectangle006
+    4300050: Line011
+    4300052: Line015
+    4300054: Line018
+    4300056: Line016
+    4300058: Line019
+    4300060: Line017
+    4300062: Line014
+    4300064: Line020
+    4300066: Cylinder001
+    4300068: Line021
+    4300070: Line022
+    4300072: Box011
+    4300074: Plane002
+    4300076: Box012
+    4300078: Line028
+    4300080: Rectangle007
+    4300082: Line029
+    4300084: Line026
+    4300086: Line027
+    4300088: Line025
+    4300090: Box001
+    4300092: Box002
+    4300094: Box003
+    4300096: Box004
+    4300098: Cylinder001
+    4300100: Rectangle001
+    4300102: Box005
+    4300104: Box006
+    4300106: Box007
+    4300108: Box008
+    4300110: Cylinder002
+    4300112: Rectangle002
+    4300114: Box009
+    4300116: Box010
+    4300118: Box011
+    4300120: Box012
+    4300122: Cylinder003
+    4300124: Rectangle003
+    4300126: Box013
+    4300128: Box014
+    4300130: Box015
+    4300132: Box016
+    4300134: Cylinder004
+    4300136: Rectangle004
+    4300138: Rectangle005
+    4300140: Cylinder009
+    4300142: Cylinder011
+    4300144: Cylinder012
+    4300146: Cylinder015
+    4300148: Cylinder014
+    4300150: Cylinder013
+    4300152: Cylinder016
+    4300154: Cylinder010
+    4300156: Line032
+    4300158: Line033
+    4300160: Line034
+    4300162: Line035
+    4300164: Line036
+    4300166: Line037
+    7400000: Take 001
+    9500000: //RootNode
+    6000828045688606266: Camera001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

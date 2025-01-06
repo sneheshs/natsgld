@@ -1,0 +1,2425 @@
+{
+    "data": {
+        "0146c6d10d3d4ec9b0a5b009677e0eec": [
+            1,
+            914545,
+            915755,
+            "TurnToBackCleanAnimation"
+        ],
+        "019f48ebf9434c08abefd6eb70728b8e": [
+            6,
+            773323,
+            773723,
+            "NEXT"
+        ],
+        "021bea94ba414f27a20a78a76448d0a9": [
+            3,
+            737950,
+            741050,
+            "so we want to put some spices in the soup now"
+        ],
+        "02654294606f42dc9c0f21d564964f4d": [
+            9,
+            765243,
+            804227,
+            "StirringPot"
+        ],
+        "02eb601d9ae349cfb7619f78d1af14b4": [
+            3,
+            569800,
+            570600,
+            "there you go"
+        ],
+        "0358fbd3638746ba8fa3ed3f8e9bfa6a": [
+            9,
+            25784,
+            122502,
+            "BasicMovements"
+        ],
+        "03cf457014d24cbc906c53b2978a3398": [
+            6,
+            240832,
+            241232,
+            "NEXT"
+        ],
+        "03f6a4950c0542d0a45702204e70cc6a": [
+            "3",
+            344960,
+            346620,
+            "now pick up the knife with your left hand"
+        ],
+        "041f0fabb7e54a408133c760c6403179": [
+            1,
+            336225,
+            341306,
+            "NodAnimation"
+        ],
+        "057323ad0a4549d9adc9a48863610ffc": [
+            3,
+            166400,
+            167800,
+            "by the handle, yeah, there you go"
+        ],
+        "06e53e5af0674e28a0f8617f01154fcd": [
+            1,
+            637361,
+            657886,
+            "PutLidOffAnimation"
+        ],
+        "078367a5c55345ebaa01e2e8067d073e": [
+            1,
+            72877,
+            78876,
+            "MoveLeftAnimation"
+        ],
+        "0995fff68e8043eb8381f21f8909fdf2": [
+            1,
+            341306,
+            363192,
+            "CuttingAnimationTomato"
+        ],
+        "0a48430478ec46fa8469bb02263f070c": [
+            6,
+            363192,
+            363592,
+            "NEXT"
+        ],
+        "0a8435d14abe4f378d01e48037dbc632": [
+            3,
+            70670,
+            72150,
+            "um go to your left"
+        ],
+        "0ba008027d704818b4b96e0d02918478": [
+            3,
+            97300,
+            98050,
+            "come here"
+        ],
+        "0cb2a2a82a23499c9922a71a55e401dd": [
+            3,
+            554200,
+            555650,
+            "we're cutting the potato"
+        ],
+        "0d3fceeb28b34e4ea8e4c71739b25fc1": [
+            1,
+            121269,
+            151180,
+            "MoveBackwardAnimation"
+        ],
+        "0dc5600ca0ce48c29da1295b838cba92": [
+            6,
+            274043,
+            274443,
+            "NEXT"
+        ],
+        "0dda579552e543f6b4a55ba148d43524": [
+            6,
+            156067,
+            156467,
+            "NEXT"
+        ],
+        "0f9797dd80894b2389e0564a4f835394": [
+            3,
+            243050,
+            246400,
+            "and you want to take that pot with your right ha, right hand"
+        ],
+        "0v702q2kRqdCplAB3dApL1UUmscsGlgv": [
+            2,
+            909577,
+            913027,
+            "do the dishes"
+        ],
+        "11131f9e9b19423188ec26bde9b3177b": [
+            6,
+            740994,
+            741394,
+            "NEXT"
+        ],
+        "11fa420ab4ba4d61bf3f9334b3f044e9": [
+            9,
+            304186,
+            320017,
+            "CuttingOnion"
+        ],
+        "12c8f25c0b24465a8bff6679721014ae": [
+            6,
+            265282,
+            265682,
+            "NEXT"
+        ],
+        "15802654c844485bb506be2d220be5b2": [
+            3,
+            939600,
+            941400,
+            "ok now turn around"
+        ],
+        "163786917a8b4e71a490df600eae7835": [
+            9,
+            679921,
+            704410,
+            "PanTurnOffGas"
+        ],
+        "18b78faa324541d389cd470906c40f49": [
+            3,
+            777060,
+            778300,
+            "okay turn around"
+        ],
+        "1Uiim3RFk8MPE4lZWdMa7dhS9jcWTHpR": [
+            2,
+            723626,
+            728085,
+            "pick up pan, pour ingredients in pot"
+        ],
+        "1XECX2seLu4Aby0KYg9vW4YzkH5dZgb0": [
+            2,
+            324760,
+            328388,
+            "cut tomato"
+        ],
+        "1a8fec2124274b4faf4742e2b8028472": [
+            9,
+            858280,
+            898722,
+            "PourFromPotToBowl"
+        ],
+        "1b7beadafd46491bbc965e1f8b2607f3": [
+            1,
+            894037,
+            895921,
+            "TurnToFrontServeAnimation"
+        ],
+        "1c5b2236e4b04b219a5402dc6807ed57": [
+            1,
+            922223,
+            923329,
+            "TurnToFrontCleanAnimation"
+        ],
+        "1d85f8e9931b4365b5ad7666d213f18b": [
+            3,
+            159950,
+            162250,
+            "ok, now grab the knife with your left"
+        ],
+        "1e57f4ffebbe497292ce162ae4ac1cd6": [
+            9,
+            727890,
+            765243,
+            "BasilToPot"
+        ],
+        "1f3261d0bae54fe891eddcc3941bc86e": [
+            3,
+            93350,
+            94300,
+            "spin that way"
+        ],
+        "23a4190aac934d4cb50b4bf126e0a2a5": [
+            1,
+            240832,
+            246635,
+            "TurnToBackBasilAnimation"
+        ],
+        "23e8fdacede645cb98adcf121de3d65f": [
+            6,
+            880039,
+            880439,
+            "NEXT"
+        ],
+        "23f9dd73980041cb9c316df1de009e79": [
+            6,
+            657886,
+            658286,
+            "NEXT"
+        ],
+        "24b1af0d5e734a57a0a5f10868d395e5": [
+            1,
+            98502,
+            104661,
+            "MoveForwardAnimation"
+        ],
+        "267c17470cc541078ad32487900685b2": [
+            3,
+            711650,
+            716200,
+            "so we're going to take the ingredients from the pan and put them in the pot now"
+        ],
+        "274d8b87737e425fab61a9cfc9467b6f": [
+            6,
+            564096,
+            564496,
+            "NEXT"
+        ],
+        "276d2d3421bc4d6ab956464851cee6b1": [
+            3,
+            408000,
+            409400,
+            "so pick up them onions"
+        ],
+        "28623dcb334149bca928265a1538152d": [
+            3,
+            581600,
+            584750,
+            "so now we're going to cut the carrot Baxter"
+        ],
+        "2866bd75a2cd43b88cf0e1ccaeb0a2dd": [
+            6,
+            721027,
+            721427,
+            "NEXT"
+        ],
+        "2a2554d3e36348bc9fa03566049444c9": [
+            1,
+            740994,
+            749355,
+            "TurnToBackBasilAnimation"
+        ],
+        "2bbbc05013524215ba7009b141cb2f6e": [
+            1,
+            626117,
+            637361,
+            "TurnToBackBasilAnimation"
+        ],
+        "2d185ef0fc434a82a70ee380d88ecc70": [
+            1,
+            428893,
+            445179,
+            "PourToPanAnimation2"
+        ],
+        "2e0cd1672b5a4230af0b6065542e8263": [
+            1,
+            236232,
+            240832,
+            "NodAnimation"
+        ],
+        "2f88d718c08a47988047da1ae4d5c29d": [
+            3,
+            312650,
+            315130,
+            "so yup"
+        ],
+        "30807909be864a5fa10b3ab54032ebee": [
+            6,
+            109555,
+            109955,
+            "NEXT"
+        ],
+        "30f64da1537d4a1996ce1e4b616db749": [
+            3,
+            271530,
+            274600,
+            "okay, you want to grab that onion in the middle"
+        ],
+        "31a09d90988e44d5abfbee7684fe1a9b": [
+            1,
+            162491,
+            178987,
+            "CuttingAnimationApplePart2"
+        ],
+        "32ab453a2adb4ce5883eb00bd15de1d7": [
+            1,
+            605710,
+            626117,
+            "CuttingAnimationCelery"
+        ],
+        "32ac9037dcaf4cecaa977cdd7b1d6d8e": [
+            3,
+            592400,
+            593250,
+            "there you go"
+        ],
+        "3305d53285984894888d74db1104e50a": [
+            9,
+            898722,
+            899122,
+            "CleanUp"
+        ],
+        "3343f1b4f0c54e168cc6ab248a2802ea": [
+            1,
+            296252,
+            301971,
+            "PickUpCarrotAnimation"
+        ],
+        "35ba7e5812f340818a66148d47b7baa7": [
+            9,
+            615938,
+            644774,
+            "LidOffPour"
+        ],
+        "37591237f2cc4762be270ad487fa5489": [
+            3,
+            393450,
+            396100,
+            "there you go, and now put a little bit in the pan"
+        ],
+        "37a3657a49784bd48959abeae1bcfc3e": [
+            6,
+            336225,
+            336625,
+            "NEXT"
+        ],
+        "3880e357ef244f29a6fbc1ac2b088342": [
+            1,
+            934086,
+            934486,
+            "MoveBackAfterCleanUpAnimation"
+        ],
+        "3943718490d44dffb02bfcf2a6f875aa": [
+            6,
+            385320,
+            385720,
+            "NEXT"
+        ],
+        "3FPsd5OaAhGDPfc3vFGERAPljVHoplZB": [
+            2,
+            601958,
+            605560,
+            "cut celery"
+        ],
+        "3VMsCMaGBWhSDhVyp5oLAiVrmjK4lFjk": [
+            2,
+            877653,
+            880974,
+            "pick up ladle"
+        ],
+        "3a3e5ff8de9845468fcb6c3da75c8be7": [
+            1,
+            832104,
+            833850,
+            "TurnToBackStoveAnimation"
+        ],
+        "3ad9888d601742e0be44a47cd4a7a5c0": [
+            3,
+            278960,
+            282100,
+            "okay, now turn around, you want to place it on the cutting board"
+        ],
+        "3aec05d719af4b2894a4d9f104bcd358": [
+            1,
+            212945,
+            223709,
+            "TurnToBackStoveAnimation"
+        ],
+        "3b99020a37004527a7eb58f5e51ca796": [
+            1,
+            115614,
+            121269,
+            "RotateBaxterRightAnimation"
+        ],
+        "3bfa836c884b46388f54b15e1120c376": [
+            3,
+            450100,
+            451700,
+            "so now pick up the salt"
+        ],
+        "3d5317bbbb4e4ead854a2dd7f83536fd": [
+            3,
+            58550,
+            60550,
+            "is it, what is it, come here"
+        ],
+        "3de64c2807ce467bb125864b0ceeaf60": [
+            3,
+            177450,
+            179100,
+            "ok, cut the apple"
+        ],
+        "3e6b6788bfcd4c7aa247680df2b3e688": [
+            3,
+            207500,
+            209390,
+            "and we're going to boil water Baxter"
+        ],
+        "3efe55b7b0224d649c22713f594bbc56": [
+            6,
+            72877,
+            73277,
+            "NEXT"
+        ],
+        "3u9gZsQulDqWKWRJU0TpQwOU8m2ooiZi": [
+            2,
+            784988,
+            787438,
+            "go to stove"
+        ],
+        "40010c9dd89741a7abfb84dbbfc7f9d9": [
+            6,
+            236232,
+            236632,
+            "NEXT"
+        ],
+        "40ab2f1f4e764a6fbfcb8b1aeaef27da": [
+            "3",
+            107540,
+            109520,
+            "uh spin this way"
+        ],
+        "40dc8196c25f4530b13c5504cf527c7e": [
+            9,
+            597422,
+            615938,
+            "CuttingCelery"
+        ],
+        "410ecc461a1c407189caeb629de32404": [
+            1,
+            246635,
+            265284,
+            "PutLidOnAnimation"
+        ],
+        "412fae06c1a647079f39956a9a5ee177": [
+            3,
+            542900,
+            545600,
+            "pick up the brown thing with your right hand Baxter"
+        ],
+        "416069b3bd444aecb62525f7975b4eb4": [
+            3,
+            359900,
+            363750,
+            "ok so we want to heat up the pan now Baxter"
+        ],
+        "426a4d24803941b2997b7bae4ffa901f": [
+            3,
+            673650,
+            677200,
+            "ok so you want to take the cutting board and dump the ingredients into the pot"
+        ],
+        "43160aecfe9949dc9005c67662f6a398": [
+            "3",
+            399206.8,
+            400906.8,
+            "there you go"
+        ],
+        "43399dad49ac497fa7bdd74d4a56f501": [
+            6,
+            474027,
+            474427,
+            "NEXT"
+        ],
+        "4359c066dc484d408ef18232bd8e7bad": [
+            3,
+            367900,
+            372800,
+            "so now adjust the gas valve that lights the lights the fire underneath the pan"
+        ],
+        "475e0037abb641cfac292359ab6de99a": [
+            1,
+            923329,
+            934086,
+            "PotsToSinkAnimation"
+        ],
+        "4767b7e60e3b496498712267f54c7697": [
+            6,
+            811777,
+            812177,
+            "NEXT"
+        ],
+        "4845a8505aec495b834190a2c63446c8": [
+            3,
+            294800,
+            295950,
+            "and take the carrot"
+        ],
+        "493ee47841774a6ab7279d9f979160d6": [
+            3,
+            339700,
+            341700,
+            "so pick it up with your right hand"
+        ],
+        "4QKr5iOQGXUI1AHrGqHrtufHmFJb7nFL": [
+            2,
+            845315,
+            848367,
+            "remove lid from pot"
+        ],
+        "4ZaRomACjmXir1df141DCAo2ApZktBN8": [
+            2,
+            828782,
+            833102,
+            "turn off pot gas"
+        ],
+        "4a14aedd463044a5aae94cfd61bfd070": [
+            3,
+            503900,
+            507250,
+            "and take that, and then stir the pan, no that's the pot, the pan"
+        ],
+        "4a94877a42724f62b57385c60f50fad1": [
+            6,
+            212945,
+            213345,
+            "NEXT"
+        ],
+        "4bf10c3c88124973ad688abaed2bdb5b": [
+            6,
+            296251,
+            296651,
+            "NEXT"
+        ],
+        "4c35fcb645b44cbd87be2446bdc0d390": [
+            1,
+            151180,
+            156067,
+            "NodAnimation"
+        ],
+        "4c4d94a52b3546929f8b54d42e962c76": [
+            6,
+            585824,
+            586224,
+            "NEXT"
+        ],
+        "4c58c2b304f7493e9f3647bdfa346e49": [
+            3,
+            331000,
+            335750,
+            "so the tomato, the thing on your right, the red"
+        ],
+        "4ca9164001ad44f190157283fb1c488f": [
+            "5",
+            188080,
+            192960,
+            "training completed"
+        ],
+        "4d45594da78448b8a39bc7256253bfd6": [
+            1,
+            84749,
+            89279,
+            "RotateBaxterRightAnimation"
+        ],
+        "4d471d54e3d64b5781f710a4df0866a7": [
+            9,
+            804227,
+            822005,
+            "LidOnSoup"
+        ],
+        "4d667090d95741ecaad3697573be8720": [
+            6,
+            151179,
+            151579,
+            "NEXT"
+        ],
+        "4dac144b6f634f8a980532dacc0ef84d": [
+            9,
+            351766,
+            378251,
+            "PanTurnOnGas"
+        ],
+        "4e5dbada8678498a9ba39b1a4a80d0d8": [
+            1,
+            178987,
+            209148,
+            "CuttingAnimationApplePart3"
+        ],
+        "4qkZY0ioEZApfuDBueZPhRNe0KdO9tsC": [
+            2,
+            360127.00000000006,
+            364242.00000000006,
+            "heat up pan"
+        ],
+        "520a29fa0f8f4004a2f02e70b58dc1db": [
+            3,
+            374800,
+            375500,
+            "there you go"
+        ],
+        "566731dd65f948f4bc60e6246b2b2870": [
+            1,
+            156067,
+            162491,
+            "CuttingAnimationApplePart1"
+        ],
+        "56f67c33cf4740d3b3772291a7f640e1": [
+            6,
+            392200,
+            392600,
+            "NEXT"
+        ],
+        "5708b78df6374b579fe558ef8687f359": [
+            1,
+            833850,
+            848669,
+            "PotStoveOffAnimation"
+        ],
+        "5858d2dd0f4143aba8e54906bace3952": [
+            7,
+            786969,
+            787369,
+            "Baxter_face_normal_blinking"
+        ],
+        "586e82709b0e4e3fa49a90a3044c68da": [
+            3,
+            347250,
+            349050,
+            "there you go, and cut the tomato"
+        ],
+        "58e1ac32470e452b99745de155631f7d": [
+            6,
+            699339,
+            699739,
+            "NEXT"
+        ],
+        "591e7d1428c24b8fa05c751038e22a5c": [
+            1,
+            915755,
+            922223,
+            "PickUpPotPanAnimation"
+        ],
+        "5a406576201348fe9b1372a9d27cc652": [
+            3,
+            337150,
+            338700,
+            "yeah, you want to cut it"
+        ],
+        "5b6f705e1e0d4c3794f47a726782f951": [
+            6,
+            715824,
+            716224,
+            "NEXT"
+        ],
+        "5beb00a4d38247dfb18f82167976eb1d": [
+            6,
+            310656,
+            311056,
+            "NEXT"
+        ],
+        "5c04ac097fb94257b1c1b4816f9f23c0": [
+            6,
+            527364,
+            527764,
+            "NEXT"
+        ],
+        "5c99cdca8e0b4dcfaabccde32fedfae7": [
+            1,
+            267616,
+            274043,
+            "TurnToBackFetchAnimation"
+        ],
+        "5cc3755a22c34f128904ebc4c4f01567": [
+            3,
+            571800,
+            572500,
+            "yup"
+        ],
+        "5cd6527de23e47e5b074251350e64c48": [
+            3,
+            134700,
+            137150,
+            "so uh Baxter go ahead and grab the apple"
+        ],
+        "5cf4dcde69214f899ba7bc581f276385": [
+            6,
+            327223,
+            327623,
+            "NEXT"
+        ],
+        "5d89a036fdf74bbdba519dafbd5eff4f": [
+            1,
+            89279,
+            93478,
+            "RotateBaxterLeftAnimation"
+        ],
+        "5e2af06e39914ac6a4f7e7a4abb226f8": [
+            7,
+            336225,
+            336625,
+            "Baxter_face_normal_blinking"
+        ],
+        "5f03103f0f334c4c849ee7fc66fd60b7": [
+            3,
+            120250,
+            121100,
+            "and go back"
+        ],
+        "5f07a2620c62436d8d2949bfad95f505": [
+            3,
+            640600,
+            645350,
+            "yup the black piece very good now grab it and pick it up now move it to your right and take it off"
+        ],
+        "6415a415b5ad405695f988130f23d7fb": [
+            3,
+            234350,
+            236950,
+            "ok so we're going to put the lid on the pot now Baxter"
+        ],
+        "647c0681aafe4f71b8529d18b69f0111": [
+            6,
+            104660,
+            105060,
+            "NEXT"
+        ],
+        "64ea1ea7945a4e25af4a1b5afd04ea2c": [
+            3,
+            528450,
+            535780,
+            "so the potato, the I guess ovoid uh tan piece on your right"
+        ],
+        "66137d0a385c4b098e91ddaf0aac7844": [
+            1,
+            494237,
+            500035,
+            "TurnToBackStirringAnimation"
+        ],
+        "665e6c227af84e989ad08ba3d59d8a26": [
+            3,
+            391750,
+            392800,
+            "on your left"
+        ],
+        "673be84b3cf2421e8e8a387296962a24": [
+            3,
+            501450,
+            502200,
+            "yup"
+        ],
+        "6824b82fa9994333bab243e351429646": [
+            3,
+            459700,
+            460700,
+            "alright that's enough"
+        ],
+        "68d2b4c3b4c04f468258b66bbef2c043": [
+            3,
+            238300,
+            241600,
+            "so uh you can turn around towards the face the stove"
+        ],
+        "69379b41226b49bbad0df0f42fd6ac55": [
+            6,
+            35094,
+            35494,
+            "NEXT"
+        ],
+        "69511feccc074510a52573b8b5c322f6": [
+            3,
+            426200,
+            431100,
+            "so you want to take your left arm and swipe the onions from the cutting board into the pan"
+        ],
+        "6990ac182b824d3b9d913b4cd63e981a": [
+            3,
+            809400,
+            811950,
+            "alright so you want to place the lid back on the pot"
+        ],
+        "6Ln4o0Gy8EKoZ5TzaWucarMdXvcYRdW2": [
+            2,
+            560421,
+            565972,
+            "place potato on board"
+        ],
+        "6a07b2e50390402bb2922f80bb4f5a76": [
+            9,
+            252582,
+            283507,
+            "PickUpOnion"
+        ],
+        "6a9953c7d7df497aad22e6541e340bbc": [
+            1,
+            445179,
+            451661,
+            "TurnToBackAddSaltAnimation"
+        ],
+        "6b82aab149a6446a9a80453de6809d9f": [
+            3,
+            153990,
+            156150,
+            "so grab the apple with your right arm "
+        ],
+        "6c6de735d4b84336b07c3ccf9968eaf9": [
+            1,
+            889109,
+            894037,
+            "DropLadleAnimation"
+        ],
+        "6e9717d6ab15479bab5bab143519e301": [
+            9,
+            400765,
+            431820,
+            "PourToPan"
+        ],
+        "6ec7aa489d29489ebd28cacb910fe9f7": [
+            3,
+            439850,
+            441950,
+            "ok so we're going to put some salt"
+        ],
+        "6f526411048c4c51ab44bb9d068dd184": [
+            3,
+            622200,
+            625900,
+            "ok so we're going to remove the lid from the uh pot behind you"
+        ],
+        "7159e67a5b174b5b9e24ee4ea38b86ae": [
+            "3",
+            881248,
+            882828,
+            "yes"
+        ],
+        "72828b04ae1b49919623d773271d2b04": [
+            7,
+            773323,
+            773723,
+            "Baxter_face_confused"
+        ],
+        "72867cfe885540068e9e793db6179a6a": [
+            3,
+            573650,
+            574950,
+            "and now cut the potato"
+        ],
+        "72e9e1e25fbc47ab98cac4f2092d2cef": [
+            "3",
+            432140,
+            433760,
+            "that's fine too"
+        ],
+        "72vO5Pri9gMSl4BfEO8XUCPOvJASdWW4": [
+            2,
+            420166,
+            422861,
+            "place onions in pan"
+        ],
+        "74da72afbf2e4c32ba928c2f2e306c8a": [
+            6,
+            468626,
+            469026,
+            "NEXT"
+        ],
+        "74f208dc17b84613a614a4987fb4afc4": [
+            6,
+            60750,
+            61150,
+            "NEXT"
+        ],
+        "7530ab0fbabe4944bd5bff5959db5855": [
+            3,
+            748000,
+            749800,
+            "the bottle on your right side"
+        ],
+        "75a8e8a417574cfc92f2e10dcfd17355": [
+            "3",
+            755900,
+            757200,
+            "just like that"
+        ],
+        "76634cc860b64565a77f4c06e8eea7d3": [
+            3,
+            466050,
+            469700,
+            "is that pepper, ok so we're going to grind some pepper into the pan now Baxter"
+        ],
+        "7686d5643a26494383600593e0fdd96d": [
+            3,
+            308220,
+            310450,
+            "okay, so now we're going to cut the onion"
+        ],
+        "76e84d90919642ae936c0b7d444a29e6": [
+            6,
+            786968,
+            787368,
+            "NEXT"
+        ],
+        "76f6a2e840d2400dbbccec5e7b730083": [
+            3,
+            225650,
+            228450,
+            "yes that, adjust it so you turn on the flame"
+        ],
+        "781b164c8c3d4f9fbf3990b83edf5b41": [
+            3,
+            113450,
+            115700,
+            "and now spin the other way"
+        ],
+        "78dd5f8931e344b7a05872fb4ac6f2b4": [
+            3,
+            288200,
+            293750,
+            "okay, so we're going to put an apple on the cutting board now, or I'm sorry, a carrot on the cutting board now, so go ahead and turn around"
+        ],
+        "796138a7de6444569d6fe48c1e5ca0ce": [
+            3,
+            413950,
+            418200,
+            "oh ok alright then, alright so then go over to the pan behind you"
+        ],
+        "7FxhrsYyQgNvd9oxunhCFuchhu9Ibqr4": [
+            2,
+            497317,
+            501449,
+            "grab spoon"
+        ],
+        "7d71f267946a4be58c8819e1ada9e0c6": [
+            3,
+            479500,
+            482300,
+            "alright, now take the other hand and grind it, there you go"
+        ],
+        "7d95ac17592c4d34a250d9da389f7a3c": [
+            3,
+            780360,
+            781660,
+            "mix the soup"
+        ],
+        "7dc3747f543f4d97938654c52979d3dd": [
+            1,
+            392201,
+            408007,
+            "OiltoPanAnimation"
+        ],
+        "7e18c10b74054a04b3e964a0f72486d2": [
+            3,
+            910050,
+            912200,
+            "so do the dishes uh Baxter"
+        ],
+        "7e35289564e54aa39a40bd482e2018cb": [
+            7,
+            564097,
+            564497,
+            "Baxter_face_normal_blinking"
+        ],
+        "7e86d329bb8c4eb3b925e13bc92a3e78": [
+            1,
+            223709,
+            227954,
+            "PotStoveOnAnimation"
+        ],
+        "7f056eb38a5741b5afdccddbea142d60": [
+            3,
+            862470,
+            866000,
+            "ok so now we're going to scoop some soup into a bowl"
+        ],
+        "7f11bf4e39744e4ba9021f37322c577e": [
+            "3",
+            236993,
+            238093,
+            "okay"
+        ],
+        "7f40fe0c64c241a598a9e8e03a576823": [
+            1,
+            278814,
+            280998,
+            "TurnToFrontFetchAnimation"
+        ],
+        "81b10bb7e1d745d98be71d4ea348c2eb": [
+            3,
+            249400,
+            252350,
+            "and you want to place it on top of that, yup, just like that"
+        ],
+        "81bdd3a290e64ba5b88406e5c5a14558": [
+            3,
+            750400,
+            751250,
+            "there you go"
+        ],
+        "83636fe6519946459eaf9c05b22ee3b7": [
+            3,
+            87800,
+            88900,
+            "spin the other way"
+        ],
+        "83d880af21b1458cbb75849157d7810d": [
+            1,
+            715825,
+            721027,
+            "TurnToPourAnimation"
+        ],
+        "847ddf065cf846818af9896ebe083863": [
+            3,
+            490400,
+            493480,
+            "ok so now we want to stir the pan"
+        ],
+        "84d3c2a1f11949d1af423d813137cb98": [
+            3,
+            845750,
+            848150,
+            "so now we want to remove the lid from the pot"
+        ],
+        "8533a7a0381e4ea39517c89eaf26508a": [
+            1,
+            657886,
+            663433,
+            "PourFromBoardToPotAnimation"
+        ],
+        "85545172d3fc422ca7b9254afdd6f5b5": [
+            3,
+            753250,
+            755100,
+            "and you want to pour some into the pot"
+        ],
+        "864ff3d40d1d470e91e74672320d707e": [
+            9,
+            461065,
+            484703,
+            "TwistPepper"
+        ],
+        "8791a035528841b0b3139837cc835792": [
+            1,
+            566447,
+            585825,
+            "CuttingPotatoAnimation"
+        ],
+        "87b2f0a81cae4dbfb3467cbda3ec4fc5": [
+            7,
+            151180,
+            151580,
+            "Baxter_face_normal_blinking"
+        ],
+        "87e3e4990efb4529b80aa2c1fda56b03": [
+            9,
+            229908,
+            252582,
+            "LidOnWater"
+        ],
+        "882429477756465bb4582cb512f2b3b1": [
+            1,
+            385320,
+            392201,
+            "TurnToBackAddSaltAnimation"
+        ],
+        "89549d78f86e41c89d137ffcfadb90d6": [
+            6,
+            832104,
+            832504,
+            "NEXT"
+        ],
+        "89963718239d4480b094bdb5dc145dc7": [
+            3,
+            216350,
+            223910,
+            "and you see the water on the right side, you want to adjust the uh thing"
+        ],
+        "8aa97ab2f77e4a3eb8562f041a12ea6f": [
+            3,
+            602100,
+            604950,
+            "ok so we're going to cut the celery"
+        ],
+        "8ab93f050dc74f11b8248394b75a5d5d": [
+            1,
+            66118,
+            72877,
+            "MoveBackwardAnimation"
+        ],
+        "8b528f1356ef4f2995407e05a42e4fda": [
+            3,
+            540150,
+            541050,
+            "it's brown"
+        ],
+        "8bd5514f53a64a148812235e872c426b": [
+            1,
+            873851,
+            880040,
+            "MoveToPotAnimation"
+        ],
+        "8cf9bb5334f4462482912fdcda5f7b3a": [
+            6,
+            66118,
+            66518,
+            "NEXT"
+        ],
+        "8d0b0fa16eab4a93847e9803f69adad5": [
+            3,
+            514050,
+            514800,
+            "there you go"
+        ],
+        "8d5008c0d5f54c77a06c3a441153bf8a": [
+            9,
+            283507,
+            304186,
+            "PickUpCarrot"
+        ],
+        "8d6776188c8d4fa4887f8804d0c420f5": [
+            1,
+            60750,
+            66118,
+            "MoveForwardAnimation"
+        ],
+        "8da18fc7b7814b338f902861858ce2b6": [
+            1,
+            280998,
+            292049,
+            "DropOnionAnimation"
+        ],
+        "8e05601785b8419f9e941f8aca06f18b": [
+            6,
+            372875,
+            373275,
+            "NEXT"
+        ],
+        "8e41b7fe5307434d90fc5f0d550e9a00": [
+            1,
+            791262,
+            811777,
+            "StirringAnimation"
+        ],
+        "8e8e87f0f62d437e8526bb8822ec7009": [
+            3,
+            117550,
+            118300,
+            "spin again"
+        ],
+        "925f264d75b44b5bb05f54bec05b9081": [
+            6,
+            445179,
+            445579,
+            "NEXT"
+        ],
+        "939e5445ac0e4a4eae2f69641dd48c3d": [
+            "3",
+            276753.2,
+            278373.2,
+            "yup"
+        ],
+        "93bed10e91c44d56a7531f7098e8f72b": [
+            6,
+            848669,
+            849069,
+            "NEXT"
+        ],
+        "94fcb5f36dd04ea595dfab88b5bd2045": [
+            1,
+            451661,
+            468626,
+            "AddSaltAnimation"
+        ],
+        "9662fc2b2e9546adb27d5a12be6fc9b0": [
+            3,
+            420450,
+            422500,
+            "and we're just going to place the onions in the pan"
+        ],
+        "96a878decc29437f94db5b3431d5998b": [
+            1,
+            35094,
+            60750,
+            "WelcomeAnimation"
+        ],
+        "96b9174e254348f7b123e333792832e7": [
+            1,
+            468626,
+            474028,
+            "TurnToBackAddSaltAnimation"
+        ],
+        "973873b5b015438fbd3260b1b589bcb6": [
+            1,
+            93478,
+            98502,
+            "MoveRightAnimation"
+        ],
+        "9747cf6aa37c4a12af979dbeb3471436": [
+            3,
+            203050,
+            205850,
+            "so Baxter you want to go to the stove behind you"
+        ],
+        "975b7b31560f48c69e196260f6cf77e3": [
+            6,
+            209148,
+            209548,
+            "NEXT"
+        ],
+        "97de820f036849568b82289efb8391b7": [
+            3,
+            77400,
+            78650,
+            "uh now go to your right"
+        ],
+        "9817b7249d3e4e5ab9676d4e554fdcbb": [
+            1,
+            227954,
+            236232,
+            "TurnToFrontStoveAnimation"
+        ],
+        "99b72cf79c3b4db2b97fae2ede8b4819": [
+            1,
+            417610,
+            428893,
+            "TurnFromBoardToPanAnimation"
+        ],
+        "9aa091566710415190cfc7723721167e": [
+            3,
+            404850,
+            407450,
+            "ok now we're going to place our onions in the pan"
+        ],
+        "9b09b01622734bc38fe459189318e22e": [
+            3,
+            689050,
+            692000,
+            "ok so you want to turn off the fire on the pan Baxter"
+        ],
+        "9eeaa25c41bc4c96adbe3f48e1be36ef": [
+            6,
+            451660,
+            452060,
+            "NEXT"
+        ],
+        "9f25f6795a5c452d907ce540afad4008": [
+            1,
+            363192,
+            372876,
+            "TurnToBackStoveAnimation"
+        ],
+        "9f7273cc3b9a420d8c24afa4a3654e98": [
+            1,
+            500035,
+            564097,
+            "StirringPanAnimation"
+        ],
+        "9fe08853905d4ac7a30dcafd81cbbf17": [
+            3,
+            149470,
+            151350,
+            "so Baxter, we're going to cut the apple"
+        ],
+        "9nBePYc8irEzoukLQd9nfuKBeYnhIPH1": [
+            2,
+            640331,
+            646201,
+            "pick up lid"
+        ],
+        "AyRbkGfukK7rM5qZHXI6hlKRYFMPdQww": [
+            2,
+            528171,
+            537311,
+            "reference to potato"
+        ],
+        "EZEAAVH2fpo1pfbu0q82lwgcXR3oLAJT": [
+            2,
+            294237,
+            296535,
+            "take carrot"
+        ],
+        "Ei5FS7dVUyYWPFp5177ZGbJbictxpfbn": [
+            2,
+            809000.9999999999,
+            812812.9999999999,
+            "place lid on pot"
+        ],
+        "GhJIGcH27d6JdYTcvipNzB8FQJWb67fF": [
+            2,
+            292553,
+            294228.99999999994,
+            "turn around"
+        ],
+        "Gzn0SghFOhMOxn6uyd2XYSGvA8fqNfzB": [
+            2,
+            279330,
+            283159,
+            "turn around, place onion on board"
+        ],
+        "HA0pYtXU1Hg0D4iLKy0kyZo8Lfhh7PPh": [
+            2,
+            260051,
+            265923,
+            "turn around, place onion down"
+        ],
+        "HYKzM0hRjsIu8ScYacoyWZHR9vsi35dg": [
+            2,
+            207526.00000000003,
+            210660.00000000003,
+            "boil water"
+        ],
+        "I7ss0s9wiExHFNHF4ZYIXnHIqU0G08jF": [
+            2,
+            503446,
+            508274,
+            "take spoon, stir pan"
+        ],
+        "IsBYUPsPdXdjfKEAx5J8arYDZlAqKAru": [
+            2,
+            621801,
+            626550,
+            "remove lid from pot"
+        ],
+        "IwW2TbUJObaKyP4uIWURrBYEWi4hM19E": [
+            2,
+            394370,
+            396677,
+            "put oil in pan"
+        ],
+        "JlDrR1XI51OrrH3d8x6giwdrZw7b4Lsh": [
+            2,
+            443868.99999999994,
+            447758.99999999994,
+            "put salt in pan"
+        ],
+        "K0Xt8bYduH8Nugf62QKmQhQbrfSW1K2f": [
+            2,
+            407854,
+            410031,
+            "pick up onions"
+        ],
+        "K7QmFCS8W5fykc2153CcVKNMxBhu0swY": [
+            2,
+            524011,
+            527646,
+            "cut potato"
+        ],
+        "KJq7fHusHgc5LqNOnYSlvpXMzWvuP9Ip": [
+            2,
+            862595,
+            867379,
+            "scoop soup into bowl"
+        ],
+        "L5tmYTLPCahnFb0XTGf6XJwyrnOHyZlO": [
+            2,
+            743741,
+            746510,
+            "grab spices"
+        ],
+        "LAW5cs5CtmDzgk2bvpjMu4zmngf36155": [
+            2,
+            449792,
+            453146,
+            "pick up salt"
+        ],
+        "O4D6OV24ET1BOu0VMX4910HrthGKFXxo": [
+            2,
+            243208,
+            247006,
+            "take pot"
+        ],
+        "OyiLCjhPvrvfulVUZG3LRBhyt2kdjh3c": [
+            2,
+            553831,
+            556249,
+            "cut potato"
+        ],
+        "P1dJxAZsS1Zpww4ukeX6V1V1EQ8Bd002": [
+            2,
+            249245,
+            252395,
+            "place lid on top"
+        ],
+        "P7nUu8BPWV80ZLthWyOrisiPDGeW1rn3": [
+            2,
+            940032,
+            942096,
+            "turn around"
+        ],
+        "Q1T4PsfC0MY8UqFHkfe9ALlXLwUjTzGK": [
+            2,
+            287890,
+            292520,
+            "place carrot on board"
+        ],
+        "RNxkKZkZS2aZQB19IiJRINNZz576DJKO": [
+            2,
+            266703,
+            268393,
+            "turn around"
+        ],
+        "VKliFISeeALdalpSeXEultCO5Bk2454R": [
+            2,
+            539770,
+            541488,
+            "reference to potato"
+        ],
+        "VPfthJQ5Cel0CfvrbsEpETyJrhsCkHqJ": [
+            2,
+            780200,
+            782124,
+            "mix soup"
+        ],
+        "WzZcp3MTUa7cNxJvBvG8sNNFl4iFITR6": [
+            2,
+            752810,
+            755336,
+            "pour spices in pot"
+        ],
+        "ZAuftWhcC1QgSNktzondjz4Zm7D9cxH2": [
+            2,
+            216017,
+            229544,
+            "turn on flame"
+        ],
+        "ZJVWj4kh2sNHI9DSrAF9F67ZgL2AsWxZ": [
+            2,
+            479728,
+            482199,
+            "reference to grabbing"
+        ],
+        "ZLCgNPzgMuY4YDS5hSfiytS4KtvxYxnR": [
+            2,
+            777433,
+            779556,
+            "turn around"
+        ],
+        "ZlJRONuZ8AIrNs3MY3essWFgBvJrhQx2": [
+            2,
+            382168,
+            385436,
+            "put oil in pan"
+        ],
+        "ZlsqidKnAUDW88R98BR67lxRv5SbhSbS": [
+            2,
+            344915,
+            347324,
+            "pick up knife"
+        ],
+        "Zpud6nMEtZxhzMpnvUi2w7CkxsRbvjtu": [
+            2,
+            542837,
+            546074,
+            "pick up potato"
+        ],
+        "a0aa1adccd7243db8b954cc41b9e2551": [
+            9,
+            704410,
+            727890,
+            "ShallowPour"
+        ],
+        "a1534ed61e2743fe89b5633700a08778": [
+            1,
+            868355,
+            873851,
+            "PourFromPotToBowlAnimation"
+        ],
+        "a327ff8cd0d24bfdaf5ea123bc3739e7": [
+            1,
+            848669,
+            850496,
+            "TurnToBackBasilAnimation"
+        ],
+        "a388bb685b4349f49546c0f7366922cd": [
+            6,
+            84749,
+            85149,
+            "NEXT"
+        ],
+        "a72a0210c0b84ed6ae6c993f4c670896": [
+            9,
+            839487,
+            858280,
+            "LidOffServe"
+        ],
+        "a7976307eeeb4e4db193ca48ff31f6a8": [
+            3,
+            877330,
+            880200,
+            "alright now pick up the ladle with your right hand"
+        ],
+        "a7ccf7f9d51f4c59aec75db19adf0fb1": [
+            3,
+            173730,
+            174800,
+            "it's this way"
+        ],
+        "a87d0cfefdcf47e88dcaca5dc9bad04c": [
+            3,
+            948350,
+            949650,
+            "look at the stovetop"
+        ],
+        "a99089bd903d4ec8a9bc8915947be0de": [
+            3,
+            49550,
+            50900,
+            "can you be walking forward"
+        ],
+        "aa14413280294c5eb2df8e17744399cd": [
+            6,
+            162490,
+            162890,
+            "NEXT"
+        ],
+        "abe8df3a79d0474f992155f596196818": [
+            9,
+            484703,
+            518972,
+            "StirringPan"
+        ],
+        "ac32fdc463354ecaa287180c42cf0781": [
+            1,
+            372876,
+            385320,
+            "PanStoveOnAnimation"
+        ],
+        "ac599ff5f38c4b00801c09be995642a7": [
+            1,
+            912209,
+            914545,
+            "NodAnimation"
+        ],
+        "ad3ff6e234c4461c9bb1e303da6a7fe3": [
+            1,
+            209148,
+            212945,
+            "NodAnimation"
+        ],
+        "adef317f5bef4cf38f9dc41acde456ed": [
+            3,
+            828950,
+            832270,
+            "ok so we want to, now we want to turn off the gas on the pot"
+        ],
+        "aefa7fab2a484e82b2e529426b05813c": [
+            3,
+            65300,
+            66100,
+            "go back"
+        ],
+        "aelLFbMHBCdTxKkIJZpRUUHjbOKtbfn9": [
+            2,
+            769458,
+            773075,
+            "stir soup"
+        ],
+        "af6fbb7756e14f3b8716503ecf219a8b": [
+            1,
+            811777,
+            813623,
+            "TurnToBackBasilAnimation"
+        ],
+        "b01102e860e849c1a1b2f587d5c7b8c1": [
+            6,
+            292049,
+            292449,
+            "NEXT"
+        ],
+        "b0d540180f104709a3058f6eb164941c": [
+            1,
+            104661,
+            109556,
+            "MoveLeftAnimation"
+        ],
+        "b118a447eddf47ff986564bffbd7ecb4": [
+            1,
+            786969,
+            789414,
+            "NodAnimation"
+        ],
+        "b20ec6a5abf04380b3b8ea54d3b382ec": [
+            1,
+            109556,
+            115614,
+            "RotateBaxterLeftAnimation"
+        ],
+        "b234bf84d0da47b7bbe045c5ba081397": [
+            6,
+            749355,
+            749755,
+            "NEXT"
+        ],
+        "b32c1dc864884280856392019c3d1fa1": [
+            6,
+            93477,
+            93877,
+            "NEXT"
+        ],
+        "b32dc96c2e454f25b5700833f3bbe393": [
+            1,
+            564097,
+            566447,
+            "NodAnimation"
+        ],
+        "b335f949077641e8a1450eed35d57170": [
+            1,
+            663433,
+            676894,
+            "TurnFromBoardToPotAnimation"
+        ],
+        "b342dffe2f314e15b825b3207f6b2df8": [
+            3,
+            743450,
+            746150,
+            "so grab the spices to you on your right"
+        ],
+        "b3bc53b1be684f89b5bf50e33f94e535": [
+            3,
+            342660,
+            344860,
+            "yup, and put it on the cutting board"
+        ],
+        "b45aa375673e47bfba7ea0e83cf6a17a": [
+            6,
+            866553,
+            866953,
+            "NEXT"
+        ],
+        "b55ed1024e3e48c8b27eeb43c1aee470": [
+            3,
+            794050,
+            796550,
+            "yup take the spoon and then stir the pot"
+        ],
+        "b5a2c15202ae4d7a86a05bdb500a2830": [
+            6,
+            691577,
+            691977,
+            "NEXT"
+        ],
+        "b6046c50b2314ff996643df0fa1694ac": [
+            3,
+            389000,
+            391050,
+            "so you want to grab the oil"
+        ],
+        "b7b56ff3ba9948b58cc70bfeab95c902": [
+            1,
+            310656,
+            336225,
+            "CuttingAnimationOnion"
+        ],
+        "b9ddf57cbcdd4b30ae28c56fd9d129d9": [
+            6,
+            428892,
+            429292,
+            "NEXT"
+        ],
+        "baf25529226f431aa36bb55a795c2c69": [
+            "3",
+            700928,
+            702428,
+            "there you go"
+        ],
+        "bc47fa87f9b54403aba7423ab74256b2": [
+            1,
+            850496,
+            866554,
+            "PutLidOffAnimation"
+        ],
+        "bcf7ab4d5f954c2abc23978ed4f467fa": [
+            6,
+            408007,
+            408407,
+            "NEXT"
+        ],
+        "bd02d3e26ad04afa98d027f960b89cf3": [
+            1,
+            813623,
+            820105,
+            "PutLidOnAnimation"
+        ],
+        "bd20c4dd83bd4c98a9d602059cd45b48": [
+            3,
+            169350,
+            172800,
+            "and now move your left arm in towards the apple"
+        ],
+        "bd6b78b0ad194d24938c741b2c392c57": [
+            3,
+            723900,
+            727580,
+            "pick it up and then pour the ingredients into the pot yup"
+        ],
+        "be36b99df1d94ba39958cac450d441c6": [
+            3,
+            560850,
+            567050,
+            "place the brown circle on your left on the cutting board, er I'm sorry, your right there you go ok"
+        ],
+        "bee38dbb28a243a2a86e817dec852c99": [
+            3,
+            260350,
+            265100,
+            "ok so Baxter turn around, we're going to put a guess that's an onion down"
+        ],
+        "c19xLUlu1mO8S1QLPx4VyBvkCyoyL3ZI": [
+            2,
+            425721,
+            432107.99999999994,
+            "take arm, swipe onions into pan"
+        ],
+        "c42ab31db9d74ebbaeabb97b1eb3925c": [
+            6,
+            89278,
+            89678,
+            "NEXT"
+        ],
+        "c4354758b64a4c46a7d7474433686982": [
+            6,
+            417609,
+            418009,
+            "NEXT"
+        ],
+        "c4b9801c168a4b2fa811b2f8e37b50be": [
+            7,
+            527365,
+            527765,
+            "Baxter_face_confused"
+        ],
+        "c602b9bf7a2040df98de02813f773728": [
+            3,
+            324850,
+            327850,
+            "ok so we want to cut the tomato now Baxter"
+        ],
+        "c6d07277e35b4f1cb877115049771425": [
+            6,
+            605710,
+            606110,
+            "NEXT"
+        ],
+        "cc0b19b601144b28a5397c87afef18e7": [
+            6,
+            115612,
+            116012,
+            "NEXT"
+        ],
+        "ccec1a888cea47ef9e05d7fa798cbf79": [
+            3,
+            444100,
+            447150,
+            "we're going to put some salt in the pan now Baxter"
+        ],
+        "d0d3a7691c8d4bec912bc2f172a23b2e": [
+            1,
+            292049,
+            296252,
+            "TurnToBackFetchAnimation"
+        ],
+        "d1ce12feceed409aba7cddd138ab7b08": [
+            6,
+            223709,
+            224109,
+            "NEXT"
+        ],
+        "d2459d8f534d432da62d550f23e6e7d3": [
+            1,
+            721027,
+            740994,
+            "ShallowPourAnimation"
+        ],
+        "d295974b15024bed949e7d328fe6a467": [
+            6,
+            494236,
+            494636,
+            "NEXT"
+        ],
+        "d3635fe61be04c65ac667f7d9e831fc7": [
+            9,
+            644774,
+            679921,
+            "PourFromBoardToPot"
+        ],
+        "d3a245552a5b4618ae54d56077419a9a": [
+            1,
+            866554,
+            868355,
+            "TurnToBowlAnimation"
+        ],
+        "d3e8846f086a4471828d10c7f696a9ea": [
+            6,
+            676893,
+            677293,
+            "NEXT"
+        ],
+        "d3ebed5b24904a44b709e0ebc13c3293": [
+            3,
+            696700,
+            699100,
+            "so adjust the gas valve next to the pan"
+        ],
+        "d54a54f228ba4c72b1532c5b915a8ffa": [
+            1,
+            265284,
+            267616,
+            "NodAnimation"
+        ],
+        "d81a2ba983f34f4a9dd1b3bfca29f8b6": [
+            1,
+            78876,
+            84749,
+            "MoveRightAnimation"
+        ],
+        "d8b202e2f8f24c5eb288b832dea50343": [
+            3,
+            774050,
+            775210,
+            "stir the soup"
+        ],
+        "d8fa96ad685f43339be010f5eff1ea5b": [
+            1,
+            408007,
+            417610,
+            "PourToPanAnimation"
+        ],
+        "d92756d199864550a3cf6447a9f8e447": [
+            1,
+            691578,
+            699340,
+            "TurnToBackStoveAnimation"
+        ],
+        "d9869a230e4a4b538416a0a71fc39cd9": [
+            1,
+            699340,
+            715825,
+            "PanStoveOffAnimation"
+        ],
+        "d988f9c0045c4307a15b128a39b69b71": [
+            "3",
+            90273.2,
+            91533.2,
+            "again"
+        ],
+        "dbb1490845b844aa9754a435bd6f7ab9": [
+            9,
+            183525,
+            229908,
+            "PotTurnOnGas"
+        ],
+        "dbbc872c1a34442da91f3e7b0de559cb": [
+            3,
+            209800,
+            212700,
+            "ok, so you want to go to the stove behind you"
+        ],
+        "dc59fcf63fa54f9c9ad74604a6ed753a": [
+            9,
+            378251,
+            400765,
+            "OiltoPan"
+        ],
+        "dd3129b1b2084d0fa5139b905b3fb2ea": [
+            1,
+            789414,
+            791262,
+            "TurnToBackStirringAnimation"
+        ],
+        "dd758f032f6a4603b64beba78f2a412e": [
+            3,
+            497550,
+            501100,
+            "so go ahead and grab the I guess that's a spoon, with your right hand"
+        ],
+        "de54abc3498c41dcb1d9b660bebfd4d9": [
+            6,
+            137283,
+            137683,
+            "NEXT"
+        ],
+        "deaedeeb5c18455ca993046b4d8c42aa": [
+            9,
+            518972,
+            578014,
+            "CuttingPotato"
+        ],
+        "dec94b2cd0254c7a8e621bd00d233fa9": [
+            3,
+            679500,
+            680250,
+            "there you go"
+        ],
+        "df135d1c41e349f4ace4971862cd5062": [
+            9,
+            320017,
+            351766,
+            "CuttingTomato"
+        ],
+        "e0074394f63743b4a72fb25e49f65c40": [
+            "3",
+            442620,
+            443760,
+            "is it just salt"
+        ],
+        "e04357e2d06040c8930502b8635a7645": [
+            9,
+            122502,
+            183525,
+            "CuttingApple"
+        ],
+        "e28a56300f7349f7873307f1eb7134ce": [
+            "3",
+            556700,
+            557720,
+            "ok"
+        ],
+        "e2a62c7c1d73465fb8fea81f96403e32": [
+            "3",
+            836992,
+            839172,
+            "there you go"
+        ],
+        "e3c7e348792447b1a2584f0bb523c6d1": [
+            3,
+            578950,
+            579700,
+            "there you go"
+        ],
+        "e478c7e5fd1947b7a2472251dc215586": [
+            3,
+            103500,
+            104900,
+            "uh go to your left"
+        ],
+        "e60b0606fa58434f934ef88d954f728b": [
+            1,
+            274043,
+            278814,
+            "PickUpOnionAnimation"
+        ],
+        "e71371dac1c54699b51d0bb6c2081dd9": [
+            6,
+            912209,
+            912609,
+            "NEXT"
+        ],
+        "e7a2316bcd0c4c7b9910f3450c7ccded": [
+            3,
+            382600,
+            385050,
+            "ok so we're going to put some oil in the pan now Baxter"
+        ],
+        "e88d377858fd43418e6c2b97b5fee73f": [
+            3,
+            456750,
+            457650,
+            "there you go"
+        ],
+        "e8b72d952dc54e7fbe0461678ddb3496": [
+            6,
+            626117,
+            626517,
+            "NEXT"
+        ],
+        "e91b01703e8a48abb47003a5a0afa2dd": [
+            1,
+            676894,
+            691578,
+            "PourFromBoardToPotAnimation2"
+        ],
+        "e980ed85f1ec4c3cb95433f5446096a2": [
+            1,
+            474028,
+            494237,
+            "TwistPepperAnimation"
+        ],
+        "e9ea906d409d4e59910eddc64669d40c": [
+            6,
+            178986,
+            179386,
+            "NEXT"
+        ],
+        "eb165fff0f7042528d11f632b9334896": [
+            1,
+            585825,
+            605710,
+            "CuttingAnimationCarrot"
+        ],
+        "ec4cc6195339453abe876fce9b950b09": [
+            6,
+            98500,
+            98900,
+            "NEXT"
+        ],
+        "ec7e00b66ba649fba191bf65bcedfbeb": [
+            1,
+            749355,
+            786969,
+            "BasiltoPotAnimation"
+        ],
+        "edaa146755194e71993e75977f7a47e6": [
+            3,
+            631800,
+            637200,
+            "so go ahead and and touch the handle on the pot lid with your right hand"
+        ],
+        "edd4e550c6124dd1a70a20be8eb0aff0": [
+            3,
+            472400,
+            474500,
+            "so go ahead and grab the pepper with your left hand"
+        ],
+        "ef7b26bcd97f4f049e83cb4235019246": [
+            1,
+            880040,
+            889109,
+            "PourUsingLadleAnimation"
+        ],
+        "ef8f0b7601b94673be61dbc19b234f32": [
+            1,
+            895921,
+            912209,
+            "DropBowlAnimation"
+        ],
+        "f18743254b2f477086210e8868504ca1": [
+            3,
+            524600,
+            527200,
+            "ok so we're going to cut the potato now Baxter"
+        ],
+        "f1899b3395e84839a342ec8946192da7": [
+            6,
+            500035,
+            500435,
+            "NEXT"
+        ],
+        "f32e07dfb06946fba3ccd39ceb270440": [
+            3,
+            769800,
+            772100,
+            "alright now we want to stir our soup"
+        ],
+        "f3306682eefc4524a97e396696b308fd": [
+            6,
+            246634,
+            247034,
+            "NEXT"
+        ],
+        "f52f3fb34cb84b7ca549717cb9cfb7fb": [
+            7,
+            327224,
+            327624,
+            "Baxter_face_confused"
+        ],
+        "f553cd23f2a94d79a0154f4ca89f5e9f": [
+            6,
+            121267,
+            121667,
+            "NEXT"
+        ],
+        "f60f854ca94b41739f02dc6b07e6f573": [
+            3,
+            650580,
+            660030,
+            "ok so you want to put the celery and the potatoes and the carrots in the pot Baxter there you go"
+        ],
+        "f6bebaf80b994021aeb28c1472306b89": [
+            9,
+            578014,
+            597422,
+            "CuttingCarrot"
+        ],
+        "f7969bef4d3841c8b0a1c22bdac15e41": [
+            9,
+            431820,
+            461065,
+            "AddSalt"
+        ],
+        "f83923b2db254990bdbd19327e4a1c9f": [
+            3,
+            719650,
+            721100,
+            "so grab the pan"
+        ],
+        "f882b48e2ece4ab586e46f8806616be4": [
+            "3",
+            816232,
+            817572,
+            "yup"
+        ],
+        "f8bbf1157fd34acb88307f1d70e639f5": [
+            1,
+            301971,
+            310656,
+            "TurnToFrontFetchAnimation"
+        ],
+        "f8lw6ffTMqqBey4bM6G3gC50KREgotMy": [
+            2,
+            581174,
+            585558,
+            "cut carrot"
+        ],
+        "f9093ac0b13948f0b15dced49a3689d5": [
+            6,
+            637360,
+            637760,
+            "NEXT"
+        ],
+        "f9364b0e7e46483cad8b5bd72a1b1e69": [
+            9,
+            822005,
+            839487,
+            "PotTurnOffGas"
+        ],
+        "f9df1b6864d54737bf90aaea8dff5d0b": [
+            6,
+            78876,
+            79276,
+            "NEXT"
+        ],
+        "fMouClXTnYz6L9XTLP3lBsHNcHJBcQrR": [
+            2,
+            696407,
+            700223,
+            "reference to gas"
+        ],
+        "fW7Q8o9Ky3Kc7ElWoc0fDORRcgMKqYGg": [
+            2,
+            388751,
+            393349,
+            "grab oil"
+        ],
+        "fb2c01cf3ba54471aebc39bd2ce32a3f": [
+            3,
+            300950,
+            303350,
+            "okay, and then turn around and put it on the cutting board"
+        ],
+        "fcf7e40a952b48c29208a0f4b3129d4e": [
+            6,
+            341305,
+            341705,
+            "NEXT"
+        ],
+        "fd8f480575974a64b63accbab5bbd830": [
+            1,
+            820105,
+            832104,
+            "TurnToFrontBasilAnimation"
+        ],
+        "fe10b85c0bca408892f73e2cccaf1d04": [
+            3,
+            266130,
+            268000,
+            "okay so turn around"
+        ],
+        "fede55ee33e24da182c5aaa830b57b37": [
+            7,
+            137283,
+            137683,
+            "Baxter_face_confused"
+        ],
+        "ff3a39e9e0c340e794bb66f48580133d": [
+            3,
+            784590,
+            786800,
+            "okay go to the stovetop Baxter"
+        ],
+        "ffc56e2fa45c4883a56343304933794c": [
+            6,
+            25783,
+            26183,
+            "START"
+        ],
+        "gG5DavihGXFAkPYOl8yQ3IgPxElq38AN": [
+            2,
+            650762,
+            658813.9999999999,
+            "put veggies in pot"
+        ],
+        "gaCPj7UszItSDDbsI1q0LFai4Af7fC5s": [
+            2,
+            466246,
+            470161,
+            "grind pepper in pan"
+        ],
+        "hss5Ol44Fa3Z9lahuGiRHoVmbcyYWZbe": [
+            2,
+            711323,
+            716760,
+            "take ingredients from pan, put ingredients in pot"
+        ],
+        "i2ossnU0Nu92tkemcyXDGOSyS6493bVW": [
+            2,
+            300760,
+            304381,
+            "turn around, put carrot on board"
+        ],
+        "iX5bCe6XnfZzS11OmcYAjtCi5A2HrVmY": [
+            2,
+            631525,
+            638527,
+            "touch handle"
+        ],
+        "jRczELgcwMgGT8l5bq4iHyaA6fZ1YDts": [
+            2,
+            234193.00000000003,
+            238160.00000000003,
+            "put lid on pot"
+        ],
+        "ldcOZRKuP80OaCBbHCaGemrpV2PxNZ59": [
+            2,
+            673400,
+            678731,
+            "take board, dump ingredients in pot"
+        ],
+        "mqYNbTHLbH6xnFF0PZzZioQFmDsqsnYg": [
+            2,
+            414881,
+            418425,
+            "go to pan"
+        ],
+        "nl8K4CtqFNXVqkUMlG3VlV085Y0q6NrP": [
+            2,
+            339552,
+            342547,
+            "pick up tomato"
+        ],
+        "oBrnG9GbhUmDvDybTczRNfpHuQn0pd9E": [
+            2,
+            737537,
+            741724,
+            "put spices in soup"
+        ],
+        "p5F3WCpjKIGH71HMh5eqdbLYlmTFvbob": [
+            2,
+            719405.9999999997,
+            721971.9999999999,
+            "grab pan"
+        ],
+        "pEcxx5jWbMYOBgIzE3qX7LSknuKDOkrR": [
+            2,
+            773541,
+            775292,
+            "stir soup"
+        ],
+        "r06wSrjjuEadjirmdseSyDCYcl0UTo9J": [
+            2,
+            947850,
+            949995,
+            "look at stove"
+        ],
+        "rsOWbl2WgFMqvrT0vS7GeC9OG7F0XtvR": [
+            2,
+            367588,
+            373517,
+            "adjust fire"
+        ],
+        "sSSpzzXKNqVFRzrsw1XElxhROldqA8ob": [
+            2,
+            308118,
+            311722,
+            "cut onion"
+        ],
+        "spaHqVUJjXnh6IHLnYbXkwj7BbZRoSH1": [
+            2,
+            747633,
+            750197,
+            "reference to bottle"
+        ],
+        "t8s7ZU9Ofc6Kio9xBCURSY9LthNmehnX": [
+            2,
+            688733,
+            692614,
+            "turn off pan fire"
+        ],
+        "tXgJypVVJW0lUScvgX88KRSIyi4woe66": [
+            2,
+            238995,
+            242213,
+            "turn to face stove"
+        ],
+        "toit6QVgUnz9zqle0BlBPr89celJ64L8": [
+            2,
+            210665,
+            213413,
+            "go to stove"
+        ],
+        "uwOcOZMZiyUcgfEEmSAPI9zWoGz0wDkT": [
+            2,
+            202654,
+            207423,
+            "go to stove"
+        ],
+        "vBl8eUA9sLIZVeq4Ch8Ijo5gxZyfEukJ": [
+            2,
+            793653,
+            796772,
+            "take spoon, stir pot"
+        ],
+        "vZLDQQ1yZW4DWOZaztaLPJP7HpscEUiA": [
+            2,
+            337106,
+            339517,
+            "reference to cutting"
+        ],
+        "wgbSYIYo9Tglx6nJ2qPV7qQ1WcF62XnX": [
+            2,
+            343276,
+            344884,
+            "put tomato on board"
+        ],
+        "xCDnKHq8SaNOKCV0urexJxE02ou3ro8f": [
+            2,
+            347898.99999999994,
+            349642,
+            "cut the tomato"
+        ],
+        "xmyx6zBl7g0DVHix5ffg7DRCLqfYgzJv": [
+            2,
+            490299,
+            494310,
+            "stir the pan"
+        ],
+        "yJEvwUh4jWlduOqD0wL3Mz1uL9s3rCC3": [
+            2,
+            330603,
+            336637,
+            "reference to tomato"
+        ],
+        "yiUADZXfxJw5C266PwsudWP7xcqKCXUH": [
+            2,
+            573578,
+            575335,
+            "cut potato"
+        ],
+        "ylauzhsjsCwDp1X7KvapOyk14vWBb1yN": [
+            2,
+            404562.00000000006,
+            407454,
+            "place onions in pan"
+        ],
+        "z77SE7VYcDYwlNuc7tGMPexz4m9LwaOx": [
+            2,
+            271263,
+            275383,
+            "grab onion"
+        ],
+        "zZFVTS0MZR8y61HYUFSSt1K1hxMDDNn9": [
+            2,
+            472143,
+            474930,
+            "grab pepper"
+        ]
+    },
+    "header": {
+        "date_created": 0,
+        "date_modified": 1632843437940635,
+        "labels": {
+            "action": [
+                2,
+                "#AB092A"
+            ],
+            "emotion": [
+                4,
+                "#0965AB"
+            ],
+            "event": [
+                1,
+                "#874DA1"
+            ],
+            "instructions": [
+                8,
+                "#647687"
+            ],
+            "oz": [
+                6,
+                "#D80073"
+            ],
+            "robotface": [
+                7,
+                "#6A00FF"
+            ],
+            "scene": [
+                9,
+                "#60A917"
+            ],
+            "speech": [
+                3,
+                "#D44A00"
+            ],
+            "status": [
+                5,
+                "#825A2C"
+            ]
+        },
+        "project": "p53",
+        "schema_version": "2.0",
+        "version": 10
+    }
+}

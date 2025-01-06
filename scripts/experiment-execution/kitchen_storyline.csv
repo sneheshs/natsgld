@@ -1,0 +1,143 @@
+/ng/baxter_animation,/ng/baxter_animation_control,/ng/baxter_camera_angle,/ng/baxter_face_animation,/ng/baxter_animation_status,/ng/banner_video
+animation,animation_control,camera_angle,face_animation,wait_status,banner_video
+BasicMovementsAnimation,,front_scene_view_zoom,,,
+,WelcomeAnimation,,,,loadVideo|move_forward
+,MoveForwardAnimation,,,COMPLETED,
+,,,,,loadVideo|move_backward
+,MoveBackwardAnimation,,,COMPLETED,
+,,,,,loadVideo|move_left
+,MoveLeftAnimation,,,COMPLETED,
+,,,,,loadVideo|move_right
+,MoveRightAnimation,,,COMPLETED,
+,,,,,loadVideo|move_turn_right
+,RotateBaxterRightAnimation,,,COMPLETED,
+,,,,,loadVideo|move_turn_left
+,RotateBaxterLeftAnimation,,,COMPLETED,
+,,,,,loadVideo|move_right
+,MoveRightAnimation,,,COMPLETED,
+,,,,,loadVideo|move_forward
+,MoveForwardAnimation,,,COMPLETED,
+,,,,,loadVideo|move_left
+,MoveLeftAnimation,,,COMPLETED,
+,,,,,loadVideo|move_turn_left
+,RotateBaxterLeftAnimation,,,COMPLETED,
+,,,,,loadVideo|move_turn_right
+,RotateBaxterRightAnimation,,,COMPLETED,
+,,,,,loadVideo|move_backward
+,MoveBackwardAnimation,,,COMPLETED,
+CuttingAppleAnimation,,front_scene_view,,,loadVideo|cut_apple
+,,,Baxter_face_confused,,
+,NodAnimation,,Baxter_face_normal_blinking,,show|none
+,CuttingAnimationApplePart1,,,,
+,CuttingAnimationApplePart2,,,STEP DONE 1,
+,,front_right_counter_view,,,
+,CuttingAnimationApplePart3,,,COMPLETED,
+PotTurnOnGasAnimation,,front_scene_view,,,loadVideo|gas_on_pot
+,NodAnimation,,,,show|none
+,TurnToBackStoveAnimation,right_stove_view,,,
+,PotStoveOnAnimation,,,COMPLETED,
+,TurnToFrontStoveAnimation,front_scene_view,,COMPLETED,
+LidOnWaterAnimation,,front_scene_view,,,loadVideo|lid_on_pot
+,NodAnimation,,,,show|none
+,TurnToBackBasilAnimation,right_stove_view,,,
+,PutLidOnAnimation,,,STEP DONE 2,
+,,right_stove_view_zoom,,COMPLETED,
+PickUpOnionAnimation,,front_scene_view,,,loadVideo|fetch_red_onion
+,NodAnimation,,,COMPLETED,show|none
+,TurnToBackFetchAnimation,back_right_counter_view,,,
+,PickUpOnionAnimation,,,COMPLETED,
+,TurnToFrontFetchAnimation,front_scene_view,,COMPLETED,
+,DropOnionAnimation,,,COMPLETED,
+PickUpCarrotAnimation,,front_scene_view,,,loadVideo|fetch_carrot
+,TurnToBackFetchAnimation,back_right_counter_view,,,show|none
+,PickUpCarrotAnimation,,,COMPLETED,
+,TurnToFrontFetchAnimation,front_scene_view,,COMPLETED,
+CuttingOnionAnimation,,front_scene_view,,,loadVideo|cut_red_onion
+,CuttingAnimationOnion,front_right_counter_view,,STEP DONE 8,show|none
+CuttingTomatoAnimation,,front_scene_view,,,loadVideo|cut_tomato
+,,,Baxter_face_confused,,
+,NodAnimation,,Baxter_face_normal_blinking,,show|none
+,CuttingAnimationTomato,,,STEP DONE 2,
+,,front_right_counter_view,,STEP DONE 11,
+PanTurnOnGasAnimation,,front_scene_view,,,loadVideo|gas_on_pan
+,TurnToBackStoveAnimation,left_stove_view,,,show|none
+,PanStoveOnAnimation,,,COMPLETED,
+OiltoPanAnimation,,front_scene_view,,,loadVideo|pour_oil
+,TurnToBackAddSaltAnimation,left_stove_view,,,show|none
+,OiltoPanAnimation,,,COMPLETED,
+PourToPanAnimation,,front_scene_view,,,loadVideo|add_red_onions_tomatoes
+,PourToPanAnimation,,,,show|none
+,TurnFromBoardToPanAnimation,left_stove_view,,,
+,PourToPanAnimation2,,,COMPLETED,
+AddSaltAnimation,,front_scene_view,,,loadVideo|sprinkle_salt
+,TurnToBackAddSaltAnimation,left_stove_view,,,show|none
+,AddSaltAnimation,,,STEP DONE 8,
+TwistPepperAnimation,,front_scene_view,,,loadVideo|grind_pepper
+,TurnToBackAddSaltAnimation,left_stove_view,,,show|none
+,TwistPepperAnimation,,,STEP DONE 12,
+StirringPanAnimation,,front_scene_view,,,loadVideo|stir_pan
+,TurnToBackStirringAnimation,right_stove_view_zoom,,,show|none
+,StirringPanAnimation,,,COMPLETED,
+CuttingPotatoAnimation,,front_scene_view,,,loadVideo|cut_potato
+,,,Baxter_face_confused,,
+,NodAnimation,,Baxter_face_normal_blinking,COMPLETED,show|none
+,CuttingPotatoAnimation,,,STEP DONE 1,
+,,front_right_counter_view,,COMPLETED,
+CuttingCarrotAnimation,,front_scene_view,,,loadVideo|cut_carrot
+,CuttingAnimationCarrot,,,STEP DONE 1,
+,,front_right_counter_view,,COMPLETED,
+CuttingCeleryAnimation,,front_scene_view,,,loadVideo|cut_celery
+,CuttingAnimationCelery,,,STEP DONE 1,show|none
+,,front_right_counter_view,,COMPLETED,
+LidOffPourAnimation,,front_scene_view,,,loadVideo|remove_lid_pot_boil_water
+,TurnToBackBasilAnimation,right_stove_view_zoom,,,show|none
+,PutLidOffAnimation,,,STEP DONE 6,
+,,right_stove_view,,COMPLETED,
+PourFromBoardToPotAnimation,,front_scene_view,,,loadVideo|add_celery_potatoes_carrots
+,PourFromBoardToPotAnimation,,,COMPLETED,show|none
+,TurnFromBoardToPotAnimation,left_stove_view,,,
+,PourFromBoardToPotAnimation2,,,COMPLETED,
+PanTurnOffGasAnimation,,front_scene_view,,,loadVideo|gas_off_pan
+,TurnToBackStoveAnimation,right_stove_view,,,show|none
+,PanStoveOffAnimation,,,COMPLETED,
+ShallowPourAnimation,,front_scene_view,,,loadVideo|pour_pan_veges_pot
+,TurnToPourAnimation,right_stove_view_zoom,,,show|none
+,ShallowPourAnimation,,,COMPLETED,
+BasilToPotAnimation,,front_scene_view,,,loadVideo|sprinkle_seasoning
+,TurnToBackBasilAnimation,right_stove_view,,,show|none
+,BasiltoPotAnimation,,,STEP DONE 4,
+,,right_stove_view_zoom,,STEP DONE 10,
+,,right_stove_view,,COMPLETED,
+StirringPotAnimation,,front_scene_view,,,loadVideo|stir_pot
+,,,Baxter_face_confused,,
+,NodAnimation,,Baxter_face_normal_blinking,COMPLETED,show|none
+,TurnToBackStirringAnimation,left_stove_view,,COMPLETED,
+,StirringAnimation,,,COMPLETED,
+LidOnSoupAnimation,,front_scene_view,,,loadVideo|cover_pot_boil_veges
+,TurnToBackBasilAnimation,right_stove_view,,COMPLETED,show|none
+,PutLidOnAnimation,,,STEP DONE 2,
+,,right_stove_view_zoom,,COMPLETED,
+,TurnToFrontBasilAnimation,front_scene_view,,COMPLETED,
+PotTurnOffGasAnimation,,front_scene_view,,,loadVideo|gas_off_pot_boil_veges
+,TurnToBackStoveAnimation,right_stove_view,,COMPLETED,show|none
+,PotStoveOffAnimation,,,COMPLETED,
+LidOffServeAnimation,,front_scene_view,,,loadVideo|remove_lid_pot_boil_veges
+,TurnToBackBasilAnimation,right_stove_view_zoom,,COMPLETED,show|none
+,PutLidOffAnimation,,,STEP DONE 6,
+,,right_stove_view,,COMPLETED,
+PourFromPotToBowlAnimation,,front_scene_view,,,loadVideo|serve_bowl
+,TurnToBowlAnimation,back_right_counter_view,,COMPLETED,show|none
+,PourFromPotToBowlAnimation,,,COMPLETED,
+,MoveToPotAnimation,right_stove_view,,,
+,PourUsingLadleAnimation,,,COMPLETED,
+,DropLadleAnimation,,,COMPLETED,
+,TurnToFrontServeAnimation,front_scene_view,,COMPLETED,
+,DropBowlAnimation,,,COMPLETED,
+CleanUpAnimation,,front_scene_view,,,loadVideo|clean_up
+,NodAnimation,,,COMPLETED,show|none
+,TurnToBackCleanAnimation,left_stove_view,,COMPLETED,
+,PickUpPotPanAnimation,,,COMPLETED,
+,TurnToFrontCleanAnimation,top_left_scene_view,,COMPLETED,
+,PotsToSinkAnimation,,,STEP DONE 6,
+,,front_scene_view,,COMPLETED,
+,MoveBackAfterCleanUpAnimation,,,,

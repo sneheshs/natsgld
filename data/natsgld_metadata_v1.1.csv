@@ -1,0 +1,1205 @@
+ID,DBSN,PID,SID,AnnotationID,ST,ET,Speech
+1,1,40,0,0f3f3bbac43c47e7b4faef2e9f3c567f,177250,179200,turn on the burner under the water
+2,2,40,1,c74a832406a34061bd01311e836bb6c1,190550,193300,"Baxster, put the lid on the water"
+3,3,40,2,c471c2e7a6c14c668e32fe008270edda,228250,229300,pick up an onion
+4,4,40,3,00413bb390ed41f8bb806db52315709b,234450,237300,turn around and put it on the chopping board
+5,5,40,4,4b345603190e42bd831f71050d488887,253600,254750,pick up a carrot
+6,6,40,5,42385d5d9edf4ea5ac8a5d8ff7c9b7d3,261700,263700,turn around and put it on the cutting board
+7,7,40,6,8f9a8df2149c4d80b653a813c6959ddd,275900,277150,and chop the onion
+8,8,40,7,388b8bdc45c9409885d05888e5a4afe7,288050,289900,"alright Baxster, pick up the tomato"
+9,9,40,8,0a164c7ae03a47f6bb378d4d5e783fc9,292150,293900,Baxster pick up the tomato
+10,10,40,9,f9cb8c694efc4a5a9b4423ea16bac80e,298450,300200,Baxster pick up the tomato
+11,11,40,10,99f8e7cd44564d5dab4af0eddbf06248,303650,305150,now chop the tomato
+12,12,40,11,1ec906554edf4391be2d96e198d26331,321950,326650,now turn on the burner under the uh that saucepan
+13,13,40,12,b15273da601c44eeb13b97f5f3e26fd4,354600,357350,and pour some into the saucepan
+14,14,40,13,811f0bda36764bde90f21c42a54f73af,387200,389400,now dump the vegetables into the saucepan
+15,15,40,14,c194c200b8d14d96876bce706fb82d97,400050,403250,"uh Baxster, go salt the vegetables"
+16,16,40,15,e390f7eca4be46ab85b06be555d46874,436000,438850,and grind some pepper onto the vegetables
+17,17,40,16,d41405bddf3a4f048b0ecb09ac11bb70,451950,454750,"alright Baxster, stir the vegetables with the spoon"
+18,18,40,17,48fde40b5da84522be0f3733ca18c07b,487400,491000,"ok Baxster, pick up the potato and chop it"
+19,19,40,18,95202130249e401f9c56597e9b06eb42,494600,497150,"Baxster, pick up the, pick up the potato"
+20,20,40,19,9ef2dc501a1c48ef8b24414dc8aee2d2,504200,505250,now chop it
+21,21,40,20,612e7fdd102543438b71fcb6d17d8b19,523750,525550,"alright Baxster, pick up the carrot"
+22,22,40,21,fcb2790ecf8b412b88c53a4983fc3884,534400,536540,"Baxster, put down the carrot"
+23,23,40,22,06d8dd5d8cbd45f8a22e024c4ebaa182,550000,557170,"alright Baxster, uh, chop the green onion"
+24,24,40,23,7269af680d1e42bc956a1dd28060a4b0,576350,579550,"alright Baxster, take the lid off the boiling water"
+25,25,40,24,ce07ee532a5b4653981d6c04001067ab,611250,616350,ok Baxster take all the vegetables on the board and put them into the boiling water
+26,26,40,25,ed60921fb4d945dda2e2294e4f57bb18,648450,649250,ok
+27,26,40,26,82c8979a68ac49edb23de8deac96f59e,649650,654050,"Baxster, go to the sauteeing vegetables and turn off the burner"
+28,27,40,27,fda1ab5fb53148eea843b4361282f326,676650,681250,"ok Baxster, pick up the vegetables on the left burner"
+29,27,40,28,29887bd309db454abebd4737d5ee5ef2,681650,684300,and dump them into the boiling water
+30,28,40,29,1284c3edc78b4e5c8bd23e9c7b071f32,721150,723050,now dump them into the boiling water
+31,29,40,30,90f8af3bca1c49c38a240f197d07a4ba,741400,743000,ok Baxster turn around
+32,30,40,31,f5f1f5f310694e77a4c51b431e7bde36,745100,746250,turn around
+33,31,40,32,6095efd8afb944fc93038d5f4db04141,750450,751450,turn around
+34,32,40,33,fa0399f7f5574aecbc9d910ee650550f,756400,757800,pick up the spoon
+35,32,40,34,aca3feb86ab84ab2a388d8c5ef6b5287,758700,760300,and stir pot
+36,33,40,35,76e8fe69175041b0b9b21ae7317e1ac1,782700,785200,now put it onto the pot
+37,34,40,36,4fdec8ff26b249d88252ee9a3e02afeb,805500,807050,now turn off the right burner
+38,35,40,37,1798eded0c5b402ba8b43967abb2cb51,818450,822780,"Baxster, turn around and take the lid off the pot"
+39,36,40,38,d74bde5abb7b47368df1f7e54a63b158,857750,860300,now serve some soup into the bowl
+40,218,45,0,4acda9fd5c2b41eb8aef5dafc0446e7f,229800,232200,turn on the bottom right burner
+41,219,45,1,acfadef6b73b48eba1b312f14fb21b7a,243700,246750,now put the lid on the pot
+42,220,45,2,5126e8fb7b304aa3bbdae3fdb779a5a1,293600,295600,pick up the onion
+43,221,45,3,1b23347795274c0b9d71e0500ee2e26f,323250,324850,pick up the carrot
+44,222,45,4,943032ae97d74ba5a85352e71403b9b4,339050,341750,now we're going to dice the onion
+45,223,45,5,26a41dc3b26b4571aca9f765bfbf595a,357300,359950,now we're going to dice the tomato
+46,224,45,6,b2cfeb2ef35d4a5db3a0d7103684ac9c,362600,364350,cut the tomato
+47,225,45,7,add735ab54034daa97a694ee739501e0,367800,371750,cut the tomato into many small pieces
+48,226,45,8,02f0cde86df745068f29f48345c103a0,375950,378600,so pick up the tomato
+49,227,45,9,847a1e0e516040c8909d3dfc5e5f162c,410150,413400,turn the bottom left burner on
+50,228,45,10,13cd45b09b414c778133047e0bde90e4,425400,429350,now we're going to put oil on the frying pan
+51,229,45,11,af8bc25d353f407cb48e6f4cabfb0c32,473500,477550,and put the vegetables into the pan
+52,230,45,12,f5f83c961a244b15b2cb8dc9b7233fd2,508150,510850,pick up the salt shaker to your left
+53,231,45,13,9c5e1fdd91914c6e80850ff45acf6a1c,531300,533050,pick up the pepper
+54,232,45,14,332afdd6d5254a10a20cac0944084464,551050,555050,now we're going to stir the vegetables in the frying pan
+55,233,45,15,a1b6fb0a3f324e389b5e027585488c53,587200,589950,now you're going to dice a potati
+56,234,45,16,836093e377ff44b993dc74bd82cba25d,591550,595960,now you're going to cut a potato into small pieces
+57,235,45,17,b1cd93ba892d4eb9b92a7d52fed9fc4e,615500,619170,now you're going to cut the carrot into small pieces
+58,236,45,18,dce1e90c288340d48937f33caf1e6603,638650,642450,now you're going to cut the celery into small pieces
+59,237,45,19,37459f6ea8264fd194f0637286c97f18,667600,669800,take the lid off of the pot
+60,238,45,20,7350bb2de25c476ea920f34a3bea2b6e,702000,704700,add the vegetables into the pot
+61,239,45,21,1c4d602e78f64e188e29eccffe9ef057,732650,734750,turn off the bottom left burner
+62,240,45,22,c56b398ac0e74204af81fa2c6694ff95,743550,748700,now you're going to add the vegetables in the frying pan into the pot
+63,241,45,23,01584dd489074eefacdb1b1daab112f0,779750,781350,and pour it into the pot
+64,242,45,24,591cf0ce766942d7b942309ca3ebbbb7,798150,800450,now you're going to stir the pot
+65,243,45,25,fc9cfa6b93c54b31b728b0da3b02eab7,803500,805900,now you're going to mix the pot
+66,244,45,26,25de7784c0a8486788f2eacf8717aaf0,827600,830650,now you're going to put the lid back on the pot
+67,245,45,27,3f0f8ae1b25b46319bcd2c8e39ff751e,851750,855100,"ok, now you're going to turn off the stove"
+68,246,45,28,071415b0a3ee494eb6d6fe9fa8408af9,868250,871150,now you're going to take the lid off of the pot
+69,247,45,29,dc5c979390e44ea6a73d8f8e18e11402,885650,889500,"um, scoop some of the soup into a bowl"
+70,248,49,0,2f9721a86b05450784d3c1b66c400e4b,205150,208800,"alright, so we're going to be turning on one of the burners on the oven"
+71,249,49,1,9b06b479d520447c8062932b1ff7ac92,210450,212350,so go to the oven
+72,250,49,2,95c320b2e20248e1ac218a9ebbbecdd4,214850,219150,and rotate the burner to turn the burner on
+73,251,49,3,9a3169400f214aec82be194ba990afbb,232900,235250,ok so we're going to be putting a lid on the pot
+74,252,49,4,eb003d963f0340abb0edb041924969b1,236850,238250,so go to the oven
+75,253,49,5,fafef2fed2d44e3c8a18cdd712670c8e,240000,243250,"uh grab the pot, the lid, grab the lid"
+76,254,49,6,e159e3e5f6ac4c2a8fedc8c331a2f9c8,245050,249650,"uh lift the lid and put it over the pot with the water in it, there we go"
+77,255,49,7,4d2b69e8c6f44edf92b52823f274dfc4,256500,260300,"ok, uh, so we are putting an onion on the cutting board"
+78,256,49,8,5bbfa27f03994bda92dca2ea42288953,262450,264350,alright so go to the table
+79,257,49,9,61a85a719eb44b8285868320911e1c8e,269450,271950,"oh uh, grab the onion, which is like"
+80,257,49,10,01d14ce26fed431cb3c686e7a1c79d3e,272500,275300,"uh, it's at the front of the table right there, there we go"
+81,258,49,11,3e165f76bd714aef919d6efca23b16fb,275600,280400,and then go back to the cutting board and place the onion on the cutting board
+82,259,49,12,a2386504cf474963a57ec86203f89d57,288350,290900,alright now we are placing a carrot on the cutting board
+83,260,49,13,7948c91daef94b6ca699d9b719964224,295300,296900,uh grab the carrot
+84,261,49,14,098022ce4e6d4d1fa081dddb3fc87386,299350,301200,and lift it up
+85,262,49,15,09e688206e8d40f2b423e186962d5d91,302900,304600,go back to the cutting board
+86,263,49,16,14017d13d8b54d3cadf998026efd265c,313000,315550,ok so now we are going to chop up the onion
+87,264,49,17,b25eba72c49d44f18c9fbdad0da257a4,317950,319050,so grab the knife
+88,264,49,18,de61c22f9bb64c069153663572d1729b,320550,321500,lift the knife
+89,264,49,19,be37e66bdd584c79ae046428cd0f6f4c,322250,325400,"and bring it over and chop the knife, err onion"
+90,264,49,20,33d4f70a72a74818bb73dbe844d57b86,326050,326800,chop the onion
+91,265,49,21,9ca5ebc010454223ac016f53129dee81,333000,335250,ok now we are going to chop the tomato
+92,266,49,22,3ba15c3fc7bd47638eb4e5b9e89d360d,337000,340950,uh we're going to take the tomato and cut the tomato on the cutting board
+93,267,49,23,bda4c182d07f4f9e9e4e2a6e90443d40,343200,345350,so grab the tomato
+94,267,49,24,a2a9454d4b9e4993a2ac3d77b5380a02,346400,349700,"right there yeah, lift the tomato and put it on the board"
+95,268,49,25,a2a9454d4b9e4993a2ac3d77b5380a02,346400,349700,"right there yeah, lift the tomato and put it on the board"
+96,268,49,26,186d27ce2f6b4d40bc4d981998e4912d,350000,351050,grab the knife
+97,269,49,27,186d27ce2f6b4d40bc4d981998e4912d,350000,351050,grab the knife
+98,269,49,28,0c42148027784599bc1b2c95e6a04367,351500,352450,lift the knife
+99,269,49,29,37044f7f200045ff8b9fe925ac1edea4,353000,354950,and cut the tomato
+100,270,49,30,9d3e4db392204ccd9663b636e85590b1,366700,372600,ok so we are going to turn on the burner for the pot on the left
+101,271,49,31,0eb4ee6454cc46a197c46d0ef9e96604,374900,378550,so go to the oven and rotate the burner to turn it on
+102,272,49,32,1830cc50f4d742a9be8cdd8628f4137d,390700,394000,ok now we're going to put some oil in the pot
+103,273,49,33,dbbef95cae9a4fdd880db5eef29144fd,398150,402500,"so grab the oil which is the yellow bottle right there, lift it up"
+104,274,49,34,9a3be1c511aa4ef9a2b0bb36e37d4cde,403000,404750,and pour the oil into the pot
+105,275,49,35,d73b0f4f6dc0413c86438841329b70ad,417700,420750,ok so now we are going to put some onions into the pot
+106,276,49,36,a3f7a2bf00d14f1c938c5353f885be7d,422050,424800,so grab the chopped onions
+107,276,49,37,85b4dcb97edb4b908bd0f026e31a5e0e,425500,427900,"or the entire board, ok, go to the oven"
+108,277,49,38,46a9b8758827421ba3a17c8ee0343c49,431350,434950,"and put the cutting board, err put, take some onions"
+109,277,49,39,99e1b0dfcce44115a77d3a03b16082dc,436300,437650,grab some chopped onions
+110,278,49,40,b98d35f5c5b444b99f32234265772b7d,440850,444800,uh move your hand to grab some onions off of the cutting board
+111,279,49,41,402523527f7f427f965d3e3de6e9a637,459900,462700,ok we are going to add some salt to the pot
+112,280,49,42,fe7354ce1aa64effbbd77bbaab45e12d,467100,471300,"so uh, grab the salt from the right side of the oven"
+113,281,49,43,418f7e8ef96041e2a00ca90262094bde,473100,475600,"uh yes, that one, lift it up and"
+114,281,49,44,08043e3aa5ff44a19161fc771c7b8d52,475950,476950,shake it down
+115,282,49,45,a7592b8868314541b161bed1fc558be1,487850,490250,ok so now we are going to add some pepper to the pot
+116,283,49,46,d7cc311f66f6483d909ea79c608dbf52,493600,495800,so lift up the pepper
+117,284,49,47,a2ffee9e8ca5491cae4a9bf6039171ce,499050,506200,"and then, uh, grab the bottom of it and screw the top, yeah there we go, screw the top to add pepper to"
+118,285,49,48,75a0c9525da54bc6a237e66ff2b0f21c,512650,514750,alright so now we're going to stir the soup
+119,286,49,49,d0883ad1d2864e5b96b5d054e2a97dc5,517250,518550,so
+120,286,49,50,d9f8015ba3ae497d8c19d8d3ce3c9316,519250,522150,"uh take the spoon, that's right here"
+121,287,49,51,7e22edc0ba724942abfa201ad4af791c,523700,524650,lift it up
+122,288,49,52,ebec7c14fd684591974032d8ef69d145,527400,529100,uh this pot over here
+123,289,49,53,548a699661cc45f79a5b1d7758b2fb29,531250,535870,"there we go, and move it around in the bowl"
+124,290,49,54,9182f24de6144e869177c986f07bfb55,547550,549850,ok so now we are going to chop some potato
+125,291,49,55,ba71e5ffd82442ee93e55bb145b1e6a5,551300,553500,uh we're going to cut the potatoes
+126,292,49,56,65e36c4a341544ac94f6de5dab32606d,554900,556650,so grab the potato
+127,293,49,57,910c6b88b8a64176b949086ec2570e00,557600,559050,put it on the cutting board
+128,294,49,58,88d4e6f7813e4489bca28d822523a784,559950,561100,uh grab the knife
+129,294,49,59,dff2ceb6ca304dbd9dba5d9fdfe03241,562350,564950,lift it and chop the potato
+130,295,49,60,32008eb961d64978998e19201e79c71a,574900,576950,ok so now we're going to cut the carrot
+131,296,49,61,5e2530c6e76b44d08409d2ad07f30ac9,579500,580950,so grab the carrot
+132,296,49,62,1df58fc4ee964159975f3db27c955ada,581500,582950,place it on
+133,296,49,63,9f9b3688a2bf4aa3ba01b0e659261e65,583900,585200,oh grab the carrot
+134,297,49,64,deef82af768e40089657cc3f0aa09e72,589950,591250,grab the carrot
+135,298,49,65,37fa69b90dd24e7aa7717337f41f6a4a,592400,594400,and place it on the cutting board
+136,299,49,66,2baa87daebbe4813a3919dbe82f7bea1,603250,604900,uh hold the carrot
+137,300,49,67,b0b26a6d78d749a28e6803e54d3ed010,607350,611700,"it's it's on the left side of you, it's orange, it's long, uh"
+138,301,49,68,62fd461afd4d4f17a89a1df02182a6e7,617500,619700,alright so now we're going to cut the celery
+139,302,49,69,051f522bec4e43919e1e4f66b4218307,621500,623250,yeah celery so grab the celery
+140,302,49,70,048fff24680c47c6b85968e07070c00b,623450,625600,"place it on the cutting board, grab the knife"
+141,302,49,71,3d77f0d1138b4f44a994dcd8f65eaa13,626000,629130,and cut the celery
+142,303,49,72,6c1ec481843b4d378310938eb40a1994,637350,640100,ok so now we're going to take the lid off of the pot
+143,304,49,73,2e8e8427440a443b949d8680abf8a3f0,641250,642550,so go to the oven
+144,304,49,74,f69e7d0143734067858db7a4dd17c8cc,643000,645200,and grab the lid
+145,305,49,75,e4cc74d0bf6948199c18d622c21abf1d,646750,649550,and lift the lid off of the pot
+146,306,49,76,a1cda49f61024c9881449c65384bc4ed,652000,652950,and put it down
+147,307,49,77,3d309b9abc4346878587e953130f61d9,664000,669150,"ok so now we will add the potatoes, celery, and carrots to the water"
+148,308,49,78,b972bfe8ecf644d496e661c4c6f70c83,672650,674100,so grab the cutting board
+149,308,49,79,5860e36e98fe4d1f88fbd8ab880327a4,675200,676600,go to the oven
+150,309,49,80,2d122c51ce20423b9fc20e540592c917,679350,682650,and add these ingredients to the water
+151,310,49,81,0a228bfe79c34b7ba0f230f28272a431,695050,698350,ok now we're going to be turning off the burner on the pot
+152,311,49,82,2104d519030349c9b0908c3d390f5995,700850,706250,"so go to the left and turn off the burner where the onions and tomatoes are, not the one with the water"
+153,311,49,83,3bee0ba800b24ec99d573b1acfb588cc,709050,709750,SPEECH
+154,312,49,84,de337d46567842ba88cb8eec9280033f,719150,725050,"alright so now we are going to be adding the onions and tomatoes to the uh, water"
+155,313,49,85,8e1cc01487934f55b0d6e7d814c2d27d,727350,728850,so take the pot on the left
+156,313,49,86,c4e4530327814612896959b466341423,731200,734400,"lift it up, and put the ingredients into the water"
+157,314,49,87,d20ff7f8bf3046dd8edb13cc1134d0f4,745600,748900,"alright, now we'll be adding some spices to the water"
+158,315,49,88,9cb0f19a733448c7b8584e0ca8298cbe,751200,753700,uh so take the spice container on your right
+159,315,49,89,b334dae436e04a52be0e6eb6c297c91e,755350,756300,lift it up
+160,315,49,90,bcee47f989f84aff96e9da6276d4b4cb,756600,758150,and add it to the water
+161,316,49,91,cf93efed01ff47af9f1264be2e03cff1,776150,778350,alright now we're going to stir the water
+162,317,49,92,4ed7ff7170524d9ab526252829ca66a4,779500,781750,uh stir the pot with all the ingredients in it
+163,318,49,93,893d4208445343d98be0a948048702f1,784150,785500,so go to the oven
+164,318,49,94,acdede2c88464af49df2015909f14705,786250,787800,grab the spoon
+165,318,49,95,541ea42379754571a44ef6c841e9e3e5,788150,791420,lift it up and stir the ingredients
+166,319,49,96,ef3d90f97c66408689cf4c36ed985899,805000,808150,alright now we are going to put the lid onto the pot
+167,320,49,97,7a86cd5b521445a380b208d8b3105802,810150,814700,"so grab the lid, lift it up, and place it on the pot"
+168,321,49,98,0cbf6f64bea948db8d2e144a6f1d0991,832350,836050,"oh ok, so we're going to turn off the burner on the pot"
+169,322,49,99,6ad63c72e26d48ff9b54b6366992d1a5,840100,840950,there we go
+170,323,49,100,b2b2d5b97c064f17a1da04eb9c6ace4d,848550,851400,alright we are going to take the lid off of the pot
+171,324,49,101,fbfd0fd27c8a4f12bfcdc34cfe31c12c,854900,857300,"so grab the lid, lift it up"
+172,324,49,102,a95128f562f34a0a83b72f6d10bd4569,858550,859700,and place it down
+173,325,49,103,52677caf73f14ab2b1a1f9ae02b6f2c1,869700,872650,ok so we're going to put the soup into a bowl
+174,326,49,104,bf35802b95604a53a7e12455755e5e7b,876150,877650,so grab the bowl
+175,327,49,105,585d4b306f6e473db0ba5a14460a7846,878750,879700,lift it up
+176,328,49,106,585d4b306f6e473db0ba5a14460a7846,878750,879700,lift it up
+177,328,49,107,43fc856a510e421ba1677e57f3490e2a,881300,883220,bring it over to soup
+178,329,49,108,43fc856a510e421ba1677e57f3490e2a,881300,883220,bring it over to soup
+179,329,49,109,7ca39afe24454d83a3d4ef1f8c69b839,883290,885650,"grab the ladle, which is in the back"
+180,330,49,110,a67f1f2cae354fbdb211fdb79b11d3e2,886550,888100,it's the big spoon in the back
+181,331,49,111,3c6d77862fb04ee48d5ecd0fbae80f91,889800,891900,"lift it up, and"
+182,332,49,112,3c6d77862fb04ee48d5ecd0fbae80f91,889800,891900,"lift it up, and"
+183,332,49,113,90b61bfca1944f5e84fb75fc07dbc9cc,892690,895500,"get some soup, and place it into the bowl"
+184,334,49,114,9c77d7694a8e4456873bf06173ecdd54,917600,921130,alright now we are going to put the dishes into the sink
+185,335,49,115,06232db482334af088067d7dc700fcb7,923850,925250,so go to the oven
+186,336,49,116,550eebd0eed942d1bcb270b3e286ad53,927400,928950,"ok, so grab the pot"
+187,336,49,117,c70f7e222fee454db8213d108bdafaff,929600,930500,lift it up
+188,336,49,118,da243ea86ca34c62939c94205d19863a,931500,932950,and put it into the sink
+189,337,49,119,ecda620d6dd7409c86dec5f11d924793,946400,949500,"what's the word, uh grab the towel"
+190,145,51,0,8b38eaffefd74624ad9c8811837cfad0,171050,173250,"ok, so"
+191,145,51,1,1100731f6bbc43d6bbedde14eb6ce1f8,174150,176750,we're going to boil some water
+192,145,51,2,8b560a98a34e4ce2aea19b61d6abd13d,177100,178500,pot on the stove
+193,146,51,3,21075395897e4d5597a9abc8623140b8,181450,183800,so got to the stove
+194,147,51,4,f4fe977afdd64b338f6a84ee9e9f9d61,187350,190200,turn on the fire if it's not already on
+195,148,51,5,a38a51c0290c4eecb31d8987904989f2,200900,204300,we're going to cover the pot that's on the stove
+196,148,51,6,d42bae479a384ac5a10c05bc6bb5d11d,205250,206650,so grab the lid
+197,149,51,7,d42bae479a384ac5a10c05bc6bb5d11d,205250,206650,so grab the lid
+198,150,51,8,dfec97681238462a942df54ff53a05f2,211150,212950,"grab the lid, right there"
+199,151,51,9,a7315a205c2d4b7d9b7c72f0e2c1486e,215433,218093,"and put it on, yes"
+200,152,51,10,6db6ca72e023401db11d5e4792bffe94,226750,229600,we're going to bring an onion to the cutting board
+201,153,51,11,3ff44a77c9654d4287b8987127b91279,231550,232850,so grab the onion
+202,154,51,12,e13b6dbd505c47d587aed7edc457fb76,237650,239450,the onion is right in front of you
+203,154,51,13,64c748c0ceac4e2d9cbfe687e75fabad,241250,243000,right in there
+204,154,51,14,970f5ef80b924d37945edab145986c37,243420,244760,yes
+205,155,51,15,1638a14df5d44fc6a6f95e9b1a1fd258,254100,257100,we're also going to bring carrots to the cutting board
+206,156,51,16,f952322e94584f36b3e3dc494b822f3c,260700,262000,grab the carrot
+207,156,51,17,e84bfa4a3ec547fcb846cb8141a40593,262207,263547,right there
+208,157,51,18,ec9961c7934447a08799cd4207e90c1e,274150,276700,we're going to chop the onion
+209,159,51,19,f8e331f14ce74834b447d4f46b870ffa,292250,294750,now we're going to chop a tomato
+210,160,51,20,3cf2891b0084405da5148e9b2aa4adf3,296400,300600,the tomato is red and brown and right there
+211,162,51,21,11a117ad25cd4b68ab4aa4da4d80bdb0,324950,329400,"go to the stove, we're going to turn on the heat under the pan"
+212,163,51,22,03dadbff9999406a812a6486c407d829,333950,335600,turn on the fire
+213,164,51,23,41785635820541c4a36671c420bb25f1,346600,349600,we're going to put some oil in the saucepan
+214,165,51,24,aad49a3ae1364f79b699bb70ef11b304,353900,355300,so grab the oil
+215,167,51,25,0a37371dd4ff447fa1321c69f256efac,370600,374700,bring the onions and tomatoes to the saucepan
+216,168,51,26,e8ff9342338d4919babbc050a2849935,382250,383800,go to the stove
+217,169,51,27,345f1e4c3d5b4923a883944090ea2118,386950,389300,"and put them in the saucepan, the pan"
+218,170,51,28,b932e641246c4b669f42aba55a266ac3,401850,408580,"we're going to salt the saucepan, the tomatoes and onions in them"
+219,171,51,29,7056206f19d241fdb1d3b879fd466f6c,411200,412850,so grab the salt
+220,173,51,30,11947b29b3ef4c3fb32543d6de9592aa,428900,431700,now we're going to put pepper in the saucepan
+221,174,51,31,40b5a0c0d64542768710ceedfc6daaec,436700,437900,grab the pepper
+222,176,51,32,626b9f2499ec43f5b024a92e67b126d2,456350,459450,we're going to stir those ingredients
+223,177,51,33,f4be1cab723b4a17b77956b1d865d1c9,461600,463150,in the pan
+224,177,51,34,1629206600904bf9ac8d9ecfc6f187d5,463550,465300,"so grab the spoon, grab the spoon"
+225,178,51,35,1629206600904bf9ac8d9ecfc6f187d5,463550,465300,"so grab the spoon, grab the spoon"
+226,179,51,36,0aceff68e0ab4952b0dece1841b24238,467750,469450,and bring it over to the pan
+227,181,51,37,7f939f23b2ee445f81166e36aa919c40,491200,494000,we're going to chop the potato
+228,182,51,38,7222aa5facf0483881e0adbada52603f,497450,501900,"the potato, it's right there on the countertop"
+229,183,51,39,244daf6c6a2c42d887a67ef2f64d8199,502500,504650,it's like a light brown color
+230,184,51,40,339db4e5d3294d73a65a55c4be66c9d1,506850,510100,it's right next to the carrot and apple
+231,185,51,41,ecffca4ef7a94e978153cdd69a94391d,511450,513400,we're going to cut a potato
+232,186,51,42,ca69b4fd209a4abdac51335038d86503,533250,535800,we're going to cut the carrot
+233,187,51,43,ea2a8841000d4fdb9877170644f2fb62,552700,554700,we're going to cut the celery
+234,188,51,44,df4eb612f9184c58bac78da217eeab3f,577350,581700,"go to the stove, we're going to take off the lid from the pot"
+235,189,51,45,36a8b063539a43c5a407485664d308eb,585150,586500,grab the lid
+236,189,51,46,5b99f033ddb041a296665c9cc4e13652,587050,588550,and take it off the pot
+237,190,51,47,5ff483788f004d77a7860795be61ea2c,595200,597700,so we're going to take the lid off the pot
+238,191,51,48,96592c40c6804f138c84e2c6f8d729d1,615250,620520,"bring the celery, the carrots, and the potatoes to the pot"
+239,192,51,49,aa47cfbd91eb4e8c9c48f2c4b18163e2,631350,633500,and put them in the pot
+240,193,51,50,f528e3b2bb164a70908d82bf317a2afa,651000,656350,bring the pan to a simmer
+241,194,51,51,8adc03b938874158ada033693ecabcd3,663600,671430,we're going to keep cooking the onions and the tomatoes until they're steaming
+242,196,51,52,c1dd80e912a14e93bb9f13092793f851,674350,677900,"oh turn off the fire on the, yeah there you go"
+243,197,51,53,632fdf5b71f149589db3e344dbdc775b,695700,699550,we're going to put the contents of the pan into the pot
+244,198,51,54,65afd70d2c7749c3aa6d851fd9ac9f95,703900,705700,so take the pan
+245,199,51,55,341305ef153147bab3029deaad97d6a2,709200,711400,and put the contents in the pot
+246,200,51,56,9352254c59a345fcb6a1ab7aab8db7d2,720150,722900,and add spices to the pot
+247,201,51,57,4728640279f445ff8d3b09b1c66f849b,726300,729350,"so grab the spice container, right there"
+248,203,51,58,da195468f8a54583974630344bfb5821,750500,753480,we're going to mix the pot
+249,204,51,59,e118461d472f4ffe9a7440a0346aa1bb,755400,758800,we're going to take a spoon and mix the pot
+250,206,51,60,07dbf331ddbb41d7ba0037795f9d71ea,782200,784850,we're going to put the lid back on the pot
+251,208,51,61,3ac4fa011543458e993a79b11c926ce3,800350,802000,turn the fire off
+252,209,51,62,93a4870c10fa4d9594c99b0108068006,816650,818600,take the lid off the pot
+253,210,51,63,b5a13916955742a19b5130a8af8cc891,836900,838900,we're going to serve the soup
+254,210,51,64,8c47a5be6c0541fc84bc075aaf55b411,839500,840300,so
+255,211,51,65,a533648d68ba446abf9ac8447d408744,841600,842950,grab a bowl
+256,212,51,66,64bac3c7c48a4df8ac0e309e05395436,846150,847500,and a spoon
+257,213,51,67,b410b73f8c71460e9a8b3f957347045f,850850,852150,and the ladle
+258,214,51,68,8daa5a8e4f2a4cc2a3aea7df4e2434a9,857250,859930,and serve the soup into bowl
+259,215,51,69,fe94997db3954b64ae7a4511df722c17,882950,884850,we're going to start cleaning up
+260,216,51,70,1c24a987a42d4171b3bdec9423a4c207,885750,892840,so take the pot and the pan and the spoons and put them into the sink
+261,217,51,71,dbf78cf523f345589f80526e0babee69,917650,920150,also grab the spoons that we used
+262,217,51,72,41b405af9e0f4763803dd14f836a2418,921250,923250,so the spoon and the ladle
+263,217,51,73,a1638fab9d35453a884083e900c39625,924100,926370,and we're going to put those in the sink as well
+264,338,52,0,3e8590f5ebb142c4853a292734c5148f,166100,169100,"ok Baxter, can you turn on the stove"
+265,339,52,1,b3ed87c8110844f397c235d90c0d280c,232660,233750,can you turn
+266,340,52,2,e1b89c5491ee477cacf7252a6db15ca2,234850,236800,"yeah, ok, can you"
+267,340,52,3,f4fafee248eb4c5e8526d3391940c3fe,238430,240100,"turn, turn on the stove"
+268,341,52,4,61b78d3817274562beac6d7695f162a1,252850,254400,ok can you turn again to the stove
+269,342,52,5,04dada1ad7414d70973a54064ace7298,257200,258400,can you turn this way
+270,342,52,6,e6b2cb212984424f95c2d543cf6cec55,258940,260600,towards the stove
+271,343,52,7,ff00db8202bf41ef8add534146e7da9d,265950,268850,ok now pick up the lid and put it on the pot
+272,344,52,8,cfd02acf6a0b430fb28f52413ec78ae2,282550,287350,"ok Baxster we're going to chop an onion, can you turn behind you"
+273,345,52,9,cfd02acf6a0b430fb28f52413ec78ae2,282550,287350,"ok Baxster we're going to chop an onion, can you turn behind you"
+274,346,52,10,129ba831701d42659cbafc46f4dcd1b4,292300,294050,ok can you pick up the onion
+275,347,52,11,733fd0edb89047d3a6c3c472349e9e5e,303800,305350,ok now pick up the knife
+276,349,52,12,dc6f605a89a9490782db60ca74dd2998,308330,310210,oh we're getting a carrot never mind
+277,349,52,13,71f29852048a429b8c1b976f4de4a97e,310400,311800,uh can you turn around
+278,350,52,14,b158a9b83a5d4bfba7b5f405b09c6a33,316050,317750,ok now pick up the carrot
+279,351,52,15,9a02f00493d3420cab60a5d1878753f7,332600,335900,"ok we're going to chop the onion now, can you pick up the knife"
+280,352,52,16,7fe4f1074ee94460a05366eb0988f85b,348600,350850,ok we're going to chop the tomato
+281,353,52,17,91da5738dd0e43388ba355af8ae994d8,354100,357300,we're going to chop the red vegetable right there
+282,354,52,18,2053fd9b829943dca099c2e6feefc99d,362900,364500,ok so pick up the tomato
+283,355,52,19,fe2cf9eda7374df4bfe7a8455f45f685,386050,392250,"ok we're going to turn on the stove, and again, so turn towards there you go"
+284,356,52,20,1d31fc223d514a2a99682143b8a5eb24,394150,396860,ok now turn on the stove
+285,357,52,21,22d6b36a6ec149aea2b7985e92142177,407700,411100,"ok, now we're going to pour, pour oil in the pan"
+286,358,52,22,ccc3519c10744bf78b0861d88e99f5d2,416000,417300,so pick up the oil
+287,359,52,23,74df5c2445434c4a8fb6bc8ff2f8c0b0,430950,435150,"ok now we're going to put the onions in the pan, so pick up the chopped onions"
+288,360,52,24,f54851b4114e458687d4a750aa36d60d,443450,445300,ok now bring it over to the pan
+289,361,52,25,fb6678b16ebd43aab6ef6687f270af4c,449100,450750,put the vegetables in the pan
+290,362,52,26,1ee7923d29d8440db5b5e867802ee622,462400,467400,"ok, now we're going to put spices in the pan, so turn back over to the pan"
+291,363,52,27,1059e3261b9c4125a197d9c8076c4a1a,471700,473650,pick up the spices and shake it in the pan
+292,364,52,28,7a6e32e017f645c5be3b4d75205f8161,488500,490650,ok now we're going to grind the pepper
+293,364,52,29,9b62b3187dfa4ad6bfa14e5d731e0704,490690,492750,"so turn, turn, there you go"
+294,365,52,30,2ec64cd121a34d64b11dba67e7eb6083,494050,495950,pick up the pepper grinder
+295,366,52,31,44fd445adae54a86acd209bef064ae8c,515000,517300,ok now we're going to mix the vegetables
+296,367,52,32,1f90eba395cc4e0a872267cc99a60b5a,521650,523150,can you pick up a spoon
+297,368,52,33,e6dc3e9b73d644eab0bdd6315ad4ecb3,547150,550350,"ok now we're going to cut the potato, can you pick up the potato"
+298,369,52,34,d7f6c02494fe4df485f4ffc62e71a8c7,551660,555700,"the uh, it's the brown vegetable, it's an oval shape"
+299,370,52,35,d8d0266ba498421e8d03ecaeeee2f256,576250,579500,"ok now we're going to chop the carrot, can you pick up the carrot"
+300,371,52,36,b208244c94ef48fba968e0fa961904fe,585500,586750,pick up the carrot
+301,373,52,37,c0ef813a18a24b7a8de4dc31c7ba0afc,591400,594300,take the orange vegetable and put it on the cutting board
+302,374,52,38,ec3f7f315e5345f78cf2d0b21a2bfd61,598700,601700,"grab the orange vegetable, you're hovering right over it"
+303,375,52,39,5dd41d823a7f41439013c30d6898ac8b,602300,603310,pick it up
+304,376,52,40,b42bcde49ded46068150273c5f032bc2,604150,608230,clench your fist and pick up the vegetable
+305,377,52,41,0116e51def5346bc8fa371fd8b5ac723,614200,618150,"uh, can you pick up the celery, we're going to chop the celery"
+306,378,52,42,0116e51def5346bc8fa371fd8b5ac723,614200,618150,"uh, can you pick up the celery, we're going to chop the celery"
+307,379,52,43,1cfc9cffe19e43e2882f02713700cd57,635600,640250,"ok now we're going to remove the lid from the boiling pot of water, so can you turn over to the stove"
+308,380,52,44,2b3ab70c7f824bc2957b69fb309145d7,641600,642950,take the lid off the pot
+309,381,52,45,5fc3ca2490554b1eb38e1295c1ea292d,657900,662100,ok now we're going to put the vegetables we just chopped in the pot of water
+310,382,52,46,5bb4451b836d41bfaaf6823323226c12,672250,674000,put the vegetables in the pot
+311,383,52,47,ec253580f2004075aa224de21eefb5e2,689950,694600,ok now we're going to turn on the heat on the pan
+312,384,52,48,aa5a31608eae41b0a37a9904d10c9689,696050,697300,can you turn off the heat
+313,385,52,49,86d24ad10e5c4d8391ef916a119f6143,708100,713000,"ok now we're going the vegetables in the pan into the pot, so turn over to the stove"
+314,386,52,50,461cd3ed2d364542bf2bf674c5bc46c9,714700,717400,pick up the pan and put the vegetables in the pot
+315,387,52,51,b4d6bad9ac66490fb128ab6bec43d01b,731350,733850,ok now we're going to add spices to the pot
+316,388,52,52,06f2b4c0ce224789b33b661de120fdf6,736700,738950,pick up the spice and shake it in the pot
+317,390,52,53,98bb70f909584a478156b2ec177c8aa9,764500,766400,can you turn over to the pot
+318,391,52,54,52c2dea1d2eb49a2a72faeaa9071866c,768650,769930,turn this way
+319,392,52,55,e7fe8f5fdbfa465196dc98455cc25938,775600,778200,move your body in this direction
+320,393,52,56,9351707a106c4e6aabcef04cdc1fe5f0,779150,780450,turn behind you
+321,394,52,57,dbee82b2768b436bb7d6428a0e1cdc3f,781900,785050,"the pot is behind you, the red container"
+322,395,52,58,c4fb7aa99d434eaea3794b78c44f8a15,807050,809550,ok now we're going to put the lid back on the pot
+323,396,52,59,2b3a2e63e3bc4bb6b340d00612e3fe8e,826300,829170,ok now we're going to turn off the heat on the stove
+324,397,52,60,93033026898246a4be4e425641e2f584,841500,843600,ok now we're going to take the lid off the pot
+325,398,52,61,c9e0e61a1ef646c5b03d84c13f9232e6,861200,867760,"ok now we're going to serve the soup, so we're going to spoon the soup out of the bowl, uh, the pot"
+326,399,52,62,caec65fb77c548ecb91da6116ee938c8,877100,878550,can you grab the ladle
+327,400,52,63,52ac290c59dd4c63b9f917a171287d16,914450,916250,ok now we're going to clean up
+328,401,53,0,9747cf6aa37c4a12af979dbeb3471436,203050,205850,so Baxter you want to go to the stove behind you
+329,402,53,1,3e6b6788bfcd4c7aa247680df2b3e688,207500,209390,and we're going to boil water Baxter
+330,402,53,2,dbbc872c1a34442da91f3e7b0de559cb,209800,212700,"ok, so you want to go to the stove behind you"
+331,403,53,3,dbbc872c1a34442da91f3e7b0de559cb,209800,212700,"ok, so you want to go to the stove behind you"
+332,404,53,4,89963718239d4480b094bdb5dc145dc7,216350,223910,"and you see the water on the right side, you want to adjust the uh thing"
+333,404,53,5,76f6a2e840d2400dbbccec5e7b730083,225650,228450,"yes that, adjust it so you turn on the flame"
+334,405,53,6,6415a415b5ad405695f988130f23d7fb,234350,236950,ok so we're going to put the lid on the pot now Baxter
+335,405,53,7,7f11bf4e39744e4ba9021f37322c577e,236993,238093,okay
+336,406,53,8,68d2b4c3b4c04f468258b66bbef2c043,238300,241600,so uh you can turn around towards the face the stove
+337,407,53,9,0f9797dd80894b2389e0564a4f835394,243050,246400,"and you want to take that pot with your right ha, right hand"
+338,408,53,10,81b10bb7e1d745d98be71d4ea348c2eb,249400,252350,"and you want to place it on top of that, yup, just like that"
+339,409,53,11,bee38dbb28a243a2a86e817dec852c99,260350,265100,"ok so Baxter turn around, we're going to put a guess that's an onion down"
+340,410,53,12,fe10b85c0bca408892f73e2cccaf1d04,266130,268000,okay so turn around
+341,411,53,13,30f64da1537d4a1996ce1e4b616db749,271530,274600,"okay, you want to grab that onion in the middle"
+342,412,53,14,3ad9888d601742e0be44a47cd4a7a5c0,278960,282100,"okay, now turn around, you want to place it on the cutting board"
+343,413,53,15,78dd5f8931e344b7a05872fb4ac6f2b4,288200,293750,"okay, so we're going to put an apple on the cutting board now, or I'm sorry, a carrot on the cutting board now, so go ahead and turn around"
+344,414,53,16,78dd5f8931e344b7a05872fb4ac6f2b4,288200,293750,"okay, so we're going to put an apple on the cutting board now, or I'm sorry, a carrot on the cutting board now, so go ahead and turn around"
+345,415,53,17,4845a8505aec495b834190a2c63446c8,294800,295950,and take the carrot
+346,416,53,18,fb2c01cf3ba54471aebc39bd2ce32a3f,300950,303350,"okay, and then turn around and put it on the cutting board"
+347,417,53,19,7686d5643a26494383600593e0fdd96d,308220,310450,"okay, so now we're going to cut the onion"
+348,418,53,20,c602b9bf7a2040df98de02813f773728,324850,327850,ok so we want to cut the tomato now Baxter
+349,419,53,21,4c58c2b304f7493e9f3647bdfa346e49,331000,335750,"so the tomato, the thing on your right, the red"
+350,420,53,22,5a406576201348fe9b1372a9d27cc652,337150,338700,"yeah, you want to cut it"
+351,421,53,23,493ee47841774a6ab7279d9f979160d6,339700,341700,so pick it up with your right hand
+352,423,53,24,b3bc53b1be684f89b5bf50e33f94e535,342650,346600,"yup, and put it on the cutting board, now pick up the knife with your left hand"
+353,423,53,25,586e82709b0e4e3fa49a90a3044c68da,347250,349050,"there you go, and cut the tomato"
+354,424,53,26,586e82709b0e4e3fa49a90a3044c68da,347250,349050,"there you go, and cut the tomato"
+355,425,53,27,416069b3bd444aecb62525f7975b4eb4,359900,363750,ok so we want to heat up the pan now Baxter
+356,426,53,28,4359c066dc484d408ef18232bd8e7bad,367900,372800,so now adjust the gas valve that lights the lights the fire underneath the pan
+357,427,53,29,e7a2316bcd0c4c7b9910f3450c7ccded,382600,385050,ok so we're going to put some oil in the pan now Baxter
+358,428,53,30,b6046c50b2314ff996643df0fa1694ac,389000,391050,so you want to grab the oil
+359,428,53,31,665e6c227af84e989ad08ba3d59d8a26,391750,392800,on your left
+360,429,53,32,37591237f2cc4762be270ad487fa5489,393450,396100,"there you go, and now put a little bit in the pan"
+361,430,53,33,9aa091566710415190cfc7723721167e,404850,407450,ok now we're going to place our onions in the pan
+362,431,53,34,276d2d3421bc4d6ab956464851cee6b1,408000,409400,so pick up them onions
+363,432,53,35,796138a7de6444569d6fe48c1e5ca0ce,413950,418200,"oh ok alright then, alright so then go over to the pan behind you"
+364,433,53,36,9662fc2b2e9546adb27d5a12be6fc9b0,420450,422500,and we're just going to place the onions in the pan
+365,434,53,37,69511feccc074510a52573b8b5c322f6,426200,431100,so you want to take your left arm and swipe the onions from the cutting board into the pan
+366,435,53,38,ccec1a888cea47ef9e05d7fa798cbf79,444100,447150,we're going to put some salt in the pan now Baxter
+367,436,53,39,3bfa836c884b46388f54b15e1120c376,450100,451700,so now pick up the salt
+368,437,53,40,76634cc860b64565a77f4c06e8eea7d3,466050,469700,"is that pepper, ok so we're going to grind some pepper into the pan now Baxter"
+369,438,53,41,edd4e550c6124dd1a70a20be8eb0aff0,472400,474500,so go ahead and grab the pepper with your left hand
+370,440,53,42,847ddf065cf846818af9896ebe083863,490400,493480,ok so now we want to stir the pan
+371,441,53,43,dd758f032f6a4603b64beba78f2a412e,497550,501100,"so go ahead and grab the I guess that's a spoon, with your right hand"
+372,442,53,44,4a14aedd463044a5aae94cfd61bfd070,503900,507250,"and take that, and then stir the pan, no that's the pot, the pan"
+373,443,53,45,f18743254b2f477086210e8868504ca1,524600,527200,ok so we're going to cut the potato now Baxter
+374,444,53,46,64ea1ea7945a4e25af4a1b5afd04ea2c,528450,535780,"so the potato, the I guess ovoid uh tan piece on your right"
+375,445,53,47,8b528f1356ef4f2995407e05a42e4fda,540150,541050,it's brown
+376,446,53,48,412fae06c1a647079f39956a9a5ee177,542900,545600,pick up the brown thing with your right hand Baxter
+377,447,53,49,0cb2a2a82a23499c9922a71a55e401dd,554200,555650,we're cutting the potato
+378,448,53,50,be36b99df1d94ba39958cac450d441c6,560850,567050,"place the brown circle on your left on the cutting board, er I'm sorry, your right there you go ok"
+379,449,53,51,72867cfe885540068e9e793db6179a6a,573650,574950,and now cut the potato
+380,450,53,52,28623dcb334149bca928265a1538152d,581600,584750,so now we're going to cut the carrot Baxter
+381,451,53,53,8aa97ab2f77e4a3eb8562f041a12ea6f,602100,604950,ok so we're going to cut the celery
+382,452,53,54,6f526411048c4c51ab44bb9d068dd184,622200,625900,ok so we're going to remove the lid from the uh pot behind you
+383,453,53,55,edaa146755194e71993e75977f7a47e6,631800,637200,so go ahead and and touch the handle on the pot lid with your right hand
+384,454,53,56,5f07a2620c62436d8d2949bfad95f505,640600,645350,yup the black piece very good now grab it and pick it up now move it to your right and take it off
+385,456,53,57,426a4d24803941b2997b7bae4ffa901f,673650,677200,ok so you want to take the cutting board and dump the ingredients into the pot
+386,457,53,58,9b09b01622734bc38fe459189318e22e,689050,692000,ok so you want to turn off the fire on the pan Baxter
+387,458,53,59,d3ebed5b24904a44b709e0ebc13c3293,696700,699100,so adjust the gas valve next to the pan
+388,459,53,60,267c17470cc541078ad32487900685b2,711650,716200,so we're going to take the ingredients from the pan and put them in the pot now
+389,460,53,61,f83923b2db254990bdbd19327e4a1c9f,719650,721100,so grab the pan
+390,461,53,62,bd6b78b0ad194d24938c741b2c392c57,723900,727580,pick it up and then pour the ingredients into the pot yup
+391,462,53,63,021bea94ba414f27a20a78a76448d0a9,737950,741050,so we want to put some spices in the soup now
+392,463,53,64,b342dffe2f314e15b825b3207f6b2df8,743450,746150,so grab the spices to you on your right
+393,464,53,65,7530ab0fbabe4944bd5bff5959db5855,748000,749800,the bottle on your right side
+394,465,53,66,85545172d3fc422ca7b9254afdd6f5b5,753250,755100,and you want to pour some into the pot
+395,466,53,67,f32e07dfb06946fba3ccd39ceb270440,769800,772100,alright now we want to stir our soup
+396,467,53,68,d8b202e2f8f24c5eb288b832dea50343,774050,775210,stir the soup
+397,468,53,69,18b78faa324541d389cd470906c40f49,777060,778300,okay turn around
+398,469,53,70,7d95ac17592c4d34a250d9da389f7a3c,780360,781660,mix the soup
+399,470,53,71,ff3a39e9e0c340e794bb66f48580133d,784590,786800,okay go to the stovetop Baxter
+400,471,53,72,b55ed1024e3e48c8b27eeb43c1aee470,794050,796550,yup take the spoon and then stir the pot
+401,472,53,73,6990ac182b824d3b9d913b4cd63e981a,809400,811950,alright so you want to place the lid back on the pot
+402,473,53,74,adef317f5bef4cf38f9dc41acde456ed,828950,832270,"ok so we want to, now we want to turn off the gas on the pot"
+403,474,53,75,84d3c2a1f11949d1af423d813137cb98,845750,848150,so now we want to remove the lid from the pot
+404,475,53,76,7f056eb38a5741b5afdccddbea142d60,862470,866000,ok so now we're going to scoop some soup into a bowl
+405,476,53,77,a7976307eeeb4e4db193ca48ff31f6a8,877330,880200,alright now pick up the ladle with your right hand
+406,477,53,78,7e18c10b74054a04b3e964a0f72486d2,910050,912200,so do the dishes uh Baxter
+407,478,53,79,15802654c844485bb506be2d220be5b2,939600,941400,ok now turn around
+408,479,53,80,a87d0cfefdcf47e88dcaca5dc9bad04c,948350,949650,look at the stovetop
+409,480,54,0,78b7d1b7b02d4ff18fec9ab0be41c1e2,203800,206650,go to the stove and turn it on 
+410,482,54,1,d5b7d2725f044c28b33df292dc0701ea,212000,216150,"um turn on the stove, turn around"
+411,483,54,2,a97edae3577d4259a35365aba05f3b81,216673,218013,yeah
+412,483,54,3,1f8d87de38504f17b4675f047fc02d99,218450,220600,and then turn on the stove
+413,484,54,4,befabc8164c24ec38903d68e7853964b,237350,238700,turn around
+414,484,54,5,6f9e253d7dd347cebade885fb469284b,239900,245150,towards the stove and put the um lid on the pot
+415,485,54,6,bf5d2b0f91cd41caa021b92d6dda85e3,251850,254250,cover the pot with the lid
+416,486,54,7,3985ae77d60d4867ad41922f8afe24d1,255950,257200,turn around
+417,487,54,8,4a08cfdbeae04c17995320055c659e7c,258800,261900,then take the lid of the pot and put it on the pot
+418,488,54,9,4ff162a2f0334bcdb013193ded9fb3b7,275500,278250,grab an onion and place it on the cutting board
+419,489,54,10,d5aea2f7fe50465db4be3855215a7e17,286950,288350,grab the onion
+420,490,54,11,b79074f452aa4a9d82000725552f3201,305000,306200,turn around
+421,490,54,12,607c5548c338474a960fdd2337c4c46e,308100,309350,and grab a carrot
+422,491,54,13,634481ed3ba9494a8fc3790abed4a220,311800,312550,carrot
+423,492,54,14,b1985c9a57754153be81cd7ee7557210,316950,318450,bring it to the cutting board
+424,493,54,15,afd59092b76e45f6873a30e6b8329d57,325920,327650,uh take the knife
+425,493,54,16,d5fe5babc4cf425782a75fccd29001fd,328100,330050,and dice the onion
+426,494,54,17,fc5a1dd71efb4ff3986229e73693578e,343600,345400,take the tomato
+427,494,54,18,53d3a4d0cf8a4466b1adacea502df365,345900,347200,and dice it
+428,495,54,19,c4c30250b34f4839900b03a183fdd6f3,349200,351200,dice the tomato
+429,496,54,20,e4e22f499a9943e5a5faddbfe444c622,358150,359900,grab the tomato
+430,497,54,21,64872385d0cf485ca834d884d5a9bd8b,362250,363700,and grab the knife
+431,498,54,22,4f958a142f194efba7f45d384a96df95,364250,365300,and dice it
+432,499,54,23,62b18a991e184f7ea8f7657fc7652706,379000,380200,turn around
+433,500,54,24,db33ed66fc1447bc9d7ab45bac64441a,382500,387150,go to the yeah and turn on the stove where the pan is 
+434,501,54,25,e3c2f525875440a08f8dcaaf44954ea4,395900,397000,turn around
+435,502,54,26,6defb645d9e24449af09f4bf668d706f,398120,400500,then grab the olive oil
+436,503,54,27,a6600a05b22e467c8f70116389b9dbf3,402750,404600,grab the olive oil
+437,504,54,28,db8e53c2ef544ef7925ff4d2515cc40a,405750,407450,and pour it into the pan
+438,505,54,29,7232026248eb4e22bc0c4b61a3485127,417250,421150,grab the chopped um vegetables
+439,505,54,30,6d08d8812c034325b8060bec8d7d69e0,421350,422950,and put them on the pan
+440,506,54,31,ad3a1c3ee4e6439e97ed4677424226b2,427870,429500,then turn around
+441,507,54,32,a96a53292c454cb09f81b3224ab24eb1,431300,432600,put them into the pan
+442,508,54,33,c2519df84e2f4448ab38713308afd79a,444950,446100,turn around
+443,509,54,34,ad8ae5962f2443e78ba8bf349ab35670,447850,449250,and grab the salt
+444,509,54,35,2c62024155364c9686321cb3ff870b55,449950,451150,grab the salt
+445,510,54,36,2c62024155364c9686321cb3ff870b55,449950,451150,grab the salt
+446,511,54,37,1a42e8d5a8f44eab870b152839b2d735,453200,454700,and put salt in the pan
+447,512,54,38,a23f4c32ce8e4438855ad0ebd56ea988,456750,458610,???
+448,513,54,39,eb553e06252a4a8ba4e1b069a33ec641,464300,465400,turn around
+449,514,54,40,e484831ef78044668b77106e92b16912,466700,468700,grab the pepper
+450,514,54,41,9c5906733088496e9b42441dfe8e60f5,468850,470850,and grand the pepper into the pan
+451,516,54,42,84b2c8e50eb34b30a1d1e0fe277a229a,486400,487600,turn around
+452,517,54,43,81adde7268d44f37bbb77a15dddd3139,489900,491500,grab the spoon
+453,518,54,44,80218d5ca06c4067bc0510987c153f97,492500,495200,and start mixing the vegetables together
+454,520,54,45,868474b45bf1433ba013250b90011a6e,514250,515800,grab the potato
+455,521,54,46,58ed4865151a4594a4735850d334f627,517450,518750,chop the potato
+456,523,54,47,f5ebbb66c751408bac68dbadb9c98806,539450,540950,chop the carrot
+457,525,54,48,337f534c3aff4d24bb40dba9abd50f99,556200,557450,chop the celery
+458,526,54,49,70b3faf90f0d41238993632c86d8df2b,576050,577350,turn around
+459,527,54,50,00d84b666f4d40e79d4395aed001d72b,579350,581600,remove the lid from the pot
+460,528,54,51,6de1db72b56941b6b17e572de4a80d17,594200,597150,grab the um vegetables
+461,529,54,52,26054a636cb948bcb494837e19216da2,599050,600800,and then put them into the pot
+462,530,54,53,ada2d5f903ae4b7b8faa65e63413d73b,608150,609600,put them into the pot
+463,531,54,54,0e00d49ef5714cdbbbd926836f2f5a34,622450,623650,turn around
+464,532,54,55,a66d37acd63240ef8bda4ebf480674a3,625440,630400,and then turn off the um stove with the pan
+465,533,54,56,3279b7232b084a74b019b1a8fc9aaf75,640200,641400,turn around
+466,534,54,57,48e75ca76f144ca3a10ca2ea15d47d37,643390,647750,and then grab the pan and put it into the um
+467,534,54,58,62b90d75f9364dd99837f810b61be53b,648900,650600,put it into the uh
+468,534,54,59,247e596642fe460ba2eb3843e074041f,651550,654700,"the bowl, get off the pan yeah"
+469,535,54,60,7b8f67e3a40848859ae811c21b108d2f,656832,658452,there you go
+470,535,54,61,9cd236453d7746d8a5cb7f410827cdee,658940,660920,put it into the other pan
+471,536,54,62,9cd236453d7746d8a5cb7f410827cdee,658940,660920,put it into the other pan
+472,537,54,63,e832895df6b04d30abf71d29eb2ed619,666600,667750,turn around
+473,538,54,64,3356c79fc6a7429ca4d15a99c45e5f2a,669800,673850,and put the spices into the pan
+474,540,54,65,a7bc3c7262604288afd5ab1a4d0998da,692100,693150,turn around
+475,541,54,66,01335ed0591341539e690d045a7310d4,695200,696300,turn around
+476,542,54,67,576adafeba1748398b95227ec582e1e5,697600,700350,take the spoon and mix the vegetables
+477,543,54,68,7ee646e0fc6540848e045a4b95592358,722800,725650,put the lid on the pan
+478,544,54,69,c99e5bfbbd5649f6a0ac0ca1deec2d83,739950,741450,turn off the stove
+479,545,54,70,b8b9222fe6b24bfeaa176861d2aa62a9,753700,755350,take the lid off the pan
+480,546,54,71,957447bf78074038ad61ce1b55115e2d,769350,772050,grab a bowl and serve yourself soup
+481,547,54,72,409b57cd485b46d2981a4befb0142cd9,776750,777800,with a spoon
+482,548,54,73,794a0a33a6774886baca2619168236a1,783900,785500,serve yourself soup
+483,548,54,74,b3925a5116394289a2d5b73bb2e669db,785950,787850,"with a spoon, or with a yeah"
+484,548,54,75,d6257bc19c2a457c949c48eab7808051,789050,790000,the ladle
+485,549,54,76,06f2bfaa1ffa4b8db74f8a3365f621b8,816600,818800,put the dishes in the sink
+486,550,54,77,1266791deaf84115ab276628cd764ab9,841000,844900,grab the spoons and put the in the sink too and wash the plates 
+487,551,54,78,158e97fa9f8f49389210da111e0b4053,848150,849350,turn around
+488,552,54,79,eddeaefca8344b0c8347772fcb86e85b,852250,853800,wash the dishes
+489,553,55,0,d545f1edf0d2431895d52af7e89ce3bd,218300,219750,go to the stove
+490,554,55,1,671d8e566083456c9698450f7a9c0c90,223850,225850,uh turn on the fire
+491,555,55,2,831857b0129b44d982c771318a6416a4,228400,229450,turn around
+492,556,55,3,eba8c035d32c455a98a5f2e189c57a05,232350,235050,um turn the knob for the stove
+493,557,55,4,087b12cb1dc349fb88da62e02a3debab,245500,246450,turn around
+494,558,55,5,19efeee951a044a0b7ff9bd70fb608bb,251900,253200,grab the lid
+495,559,55,6,a5b61cd4f3664cf6b5d598628ba01040,266650,268200,uh turn around
+496,560,55,7,0cf67b188d4147ae8f504ace9ef4df37,276500,278400,uh take the onion
+497,561,55,8,0d6b829406134c66b6fcda6e2dfc5351,281000,283800,take the small vegetable
+498,562,55,9,1441abe901844be1982cb908c7f93708,299100,300150,turn around
+499,563,55,10,25619ae635ef4cf4ad23f0be4a62fe5a,304950,306400,grab the carrot
+500,564,55,11,43aedd4be4a14a11999b8ab718b7f834,320450,321650,grab the knife
+501,565,55,12,37e9b40e742048d1ab42c44d43137e87,338150,339550,grab the tomato
+502,566,55,13,0d3b569733bc4939bafd70d16d05b0b4,341550,343500,pick up the red vegetable
+503,567,55,14,8c46f23f732343b882a4d07d40d2b66d,346500,348400,grab the vegetable closest
+504,568,55,15,f3932d5da96d4d6fb4ede691f0d8f446,355800,357700,pick up that vegetable
+505,569,55,16,4404e689fcc24e649f4afb1ca019e777,364900,367600,pick up the red round vegetable
+506,570,55,17,55e60df210f842b5a8e18d9c9e84e313,383550,385150,take the tomato
+507,571,55,18,0a9c7b6cb33348568ea8bb26f7fa09bf,402050,404300,pick up the closest vegetable
+508,572,55,19,ed8473af6432456cbc87666bda7fa728,430400,431400,turn around
+509,573,55,20,151c4a9f08ed4497b760dd118b72e300,436750,438200,turn on the fire
+510,574,55,21,44583e0967ff4c5ea53d564b4f6092d2,449150,450200,turn around
+511,575,55,22,503ea26778fc44f7a224d343d62f5169,454550,456600,pick up the oil
+512,576,55,23,961831cf6f4a490d83e58587a08feef8,457050,461650,uh grab the bottle
+513,577,55,24,1ab84a51e4cd44fb9063790f01a6b659,467050,468950,grab the bottle on your left
+514,578,55,25,747c817366a34026be0a43c0e9e663fe,482200,483650,pick up the onions
+515,580,55,26,062e8a1551bf4d7ea109bc1a83534924,497200,498250,turn around
+516,581,55,27,9c03fa2dca0947169843d66651c0eaeb,502450,503800,place it in the pot
+517,582,55,28,95c18b0cbed040008304c47ee81abfb2,506300,508150,put the vegetables in the pan
+518,583,55,29,d5bba84b802743588d446f401ab9f434,517600,518650,turn around
+519,584,55,30,5fbed814cbda4174a98b92d8f839855d,522900,526250,pick up the light colored salt shaker
+520,585,55,31,9998e337573748ecb2a994e4a6ad5312,540250,541200,turn around
+521,586,55,32,dc29621e6b264d49850bab9b396e7493,544100,545100,turn around
+522,587,55,33,a66982b442ab4e07a5d285ce9d144a39,549400,552550,pick up the dark colored pepper shaker
+523,588,55,34,4c910fcf56ae42afbb9c5e907afedd1c,568650,569750,turn around
+524,589,55,35,d6f1d16cad9e4193a12ebea2fd6f898b,574100,575800,pick up the spoon
+525,590,55,36,932d375a63d54419b644078930872174,599700,601200,pick up the potato
+526,591,55,37,1a35d3a75e8f4713b85505319d58cb29,604100,608400,take the wide brown vegetable
+527,592,55,38,29cf837ad340472c89008805cc39866e,612000,614600,pick up that brown vegetable
+528,593,55,39,ce377e3f68c540ed9b58dba001358e32,633200,634800,pick up the carrot
+529,594,55,40,3f457a5ab4db46b8bb74d4a38c54cadd,650700,652300,pick up the celery
+530,595,55,41,b12b3aa3d73c4ff4aada44b28237b43f,669000,670100,turn around
+531,596,55,42,929d36ee1a0a42f7b6aa3dfc5f180b3d,673000,674150,turn around
+532,597,55,43,623f839030af4b269c9110c09d0f9b72,677800,679800,take the lid off the pot
+533,598,55,44,05f8e7d3dd0d4effb47775e9b377f3e9,691550,693050,take the vegetables
+534,599,55,45,b1d3b29721e14cf386eb2518ab9ead16,703300,705100,put the vegetables in the pot
+535,600,55,46,1d8f997905d54107b8e59fcdd0d57544,710450,712750,slide the vegetables into the pot
+536,601,55,47,f8a79bfc049c4b83b4b6e3f081f5e644,723400,724400,turn around
+537,602,55,48,22ea280ea4c1410a917552376188c822,726800,727850,turn around
+538,603,55,49,77ed7249c850493f849b09f209235dd5,730100,731800,turn off the fire
+539,605,55,50,1a061f9c380742ff9a0218fa0c694fc0,746700,747800,turn around
+540,606,55,51,0be8125a40424856ba187c05da705e28,751350,752850,pick up the pan
+541,607,55,52,45395c959d3d4aa0a00bd6160cf738ce,767550,768700,turn around
+542,608,55,53,57d213613b754ba49f680da79b5714c5,772250,774450,grab the spices on the right
+543,609,55,54,6d837752827141c7a85c68573c852fd4,794850,795950,turn around
+544,610,55,55,d5bea8069667481eaa43dd03a056f481,797450,798500,turn around
+545,611,55,56,536eecd93fab485b96735af0479269dc,802950,804300,turn around
+546,612,55,57,997733d20cf6435db4d375fa17972e35,806470,808100,face this direction
+547,613,55,58,eef6a48bafe945babf6cbe399f9a51ca,828400,829500,turn around
+548,614,55,59,5af414186a9e43f4b3de6e4b79b88c7e,844650,845800,turn around
+549,615,55,60,4250b30d06bb4675ab31955feee91a6d,850600,851800,face this way
+550,616,55,61,f7c798b873c44f56a979032450617bc0,865500,866600,turn around
+551,617,55,62,5b3d406975c4447ea5d515ca9888bc0b,870300,871950,face this way
+552,618,55,63,d3bebbb853c34c7a9348bcb67a23bf9b,885400,886550,turn around
+553,619,55,64,23ef09562d8e4caaa2d035fd69474777,901400,903100,pick up the ladle
+554,620,55,65,18ef2cee6391416ba49b68c657bb9958,931050,932100,turn around
+555,621,55,66,b2ab94ef72374062a74935623105d39d,936250,938050,turn this way
+556,622,55,67,3baef7b84a3c4b4f962d537564d8bc8a,941850,943300,pick up the pot
+557,623,55,68,83bce2e47d2446f6966e6f0cd2f33c30,982150,983700,wash the pot
+558,624,56,0,f038d3fd74264644873b758bcc23d263,307800,308750,ok
+559,624,56,1,5ba5cb9556464b0e8368342dc3102e1d,309350,312000,turn back
+560,625,56,2,5ba5cb9556464b0e8368342dc3102e1d,309350,312000,turn back
+561,625,56,3,a1fd389b3f234fe6bd4b533e17e125d0,312950,314050,turn to the left
+562,626,56,4,8bb2ebf1e326429aa6f8828b82d76e8c,320900,322650,turn on the stove
+563,627,56,5,7965464829b44ac9aee93f72d0c6f71e,332200,334150,um turn on the stove
+564,628,56,6,0b3d525894ec4a51bf2cbaa5656e1b44,357000,360100,boil water
+565,629,56,7,b27a9be3a02447ce82f7e0e6e8a208c4,370400,372000,turn on the stove
+566,630,56,8,43544b264baf48ffa1e247efa6e57dac,380400,382450,put the pot on the stove
+567,631,56,9,59a2c1fb5a9249b28184ecef1fe533ca,390050,391700,turn on the stove
+568,632,56,10,b9441d45c26e43deaf6a9251d3f124e4,410300,412650,put the cover on the pot
+569,633,56,11,b83e3c98b44c4a5dadd034564f081fb2,422100,423600,pick up the cover
+570,634,56,12,c866375ea3e849fdaef03c48e505e756,427350,430300,pick up the top of the pot the 
+571,635,56,13,2fc5fe44bb3a40da8074b0b0ac7fc433,444200,445700,cover the pot
+572,636,56,14,8146f677aa3e40fe9514be37f3f17570,447950,450650,cover the pot on the stove
+573,637,56,15,72281068ad7a4e97b1cd053abaf8934b,463000,467100,find the pot find the cover of the pot
+574,638,56,16,fa0294d6f61f4dea90b24830d07565db,469700,472200,put the cover on the pot
+575,639,56,17,65ebd5b9c5d94668a354189c8b787600,490950,492400,get the onion
+576,640,56,18,9b0e0d07c5b14e0d8fe94ff159e09bd5,501050,502600,pick up the onion
+577,641,56,19,d5f1cf50479b43be85b818874b24d0c6,506850,508550,put it on the cutting board
+578,642,56,20,f11f1e341c6b4d3686363f4417914707,520400,521850,pick up the carrot
+579,643,56,21,fe892447c91e4d2ea8cd531245055549,528400,529650,pick up the carrot
+580,644,56,22,16456bbd638e45ea84157563017d4ad8,545100,546600,cut the onion
+581,645,56,23,b5c696c16ca749e899c5bb02400f2ebf,561450,563650,um cut the tomato
+582,646,56,24,379ba4269be44b91a7e7a48880567396,568100,569600,pick up the tomato
+583,647,56,25,8eea3de13f55414eb9261455537c3421,573950,575550,pick up the tomato
+584,648,56,26,35afc3065b6844a9805a841d70d5348d,583500,585100,find the tomato
+585,649,56,27,9a257a4e64d14e4bac9d39f64ce3f257,597200,598800,cut the tomato
+586,650,56,28,2fe395992001452f901c8b4165aa0cf6,606100,607650,pick up the tomato
+587,651,56,29,10b6ab2e26b94319a71170bc9cdfb0bc,610900,613150,put the tomato on the cutting board
+588,652,56,30,e4d12a49faca4ec58d5c229742f1c5fb,639700,641900,find the frying pan
+589,653,56,31,62413663e7594e68bef0a1cd5ee77869,644750,646150,turn on the stove
+590,653,56,32,d3e9e0fb7a5b4e59b7350970d9fcce88,646600,647850,for the frying pan
+591,654,56,33,d6d5adf0638a4430b740cab771f4a919,660300,663000,pour oil into the frying pan
+592,655,56,34,c960ed0cb7c740238a0cc76a158660c4,667850,669500,pick up the oil
+593,656,56,35,1c6c55eff65c4d0ca5b1c09d8f13b38a,687250,690250,put the onions into the frying pan
+594,657,56,36,d5a11d4c577546b4b6e9b20d9447a853,694450,695750,pick up the onions
+595,658,56,37,2d04254756ea49049fa1826e0f23d00f,702450,704350,put them in the frying pan
+596,659,56,38,3aea2e0236ac415ea8e6a4c8d708e505,708700,711750,put the onions and tomatoes into the frying pan
+597,660,56,39,d21e5dc502dd4f4b942e246ec0b40a9a,716850,718850,put them into the frying pan
+598,661,56,40,3e7d026f5cc543678a27b276b9767a0a,735050,736550,pick up the salt
+599,662,56,41,356d139ed03c410783a82f28eed2415a,740230,742660,put salt into the frying pan
+600,663,56,42,05ac7c3761c2441a9e0409781daff1aa,745820,748560,pick up the salt
+601,664,56,43,c1179538802745739dfdecadfba4dcb5,764450,768950,"um put pepper into the frying pan, find pepper"
+602,665,56,44,014d2fba1458419a82f9414d3333ee98,771750,772950,pick up the pepper
+603,666,56,45,d83caad648924013ad0d0d897a4e045f,793050,794750,go to the frying pan
+604,667,56,46,e5f7883ef62a41c4be6e6244f2d43ef0,798300,800450,mix the vegetables
+605,668,56,47,50809fe3c63b49818a40a06cead67f95,827450,828900,cut the potato
+606,669,56,48,73324d2fbf1241d9b5bac609cdd6828e,833050,834600,cut the potato
+607,670,56,49,4d114f3ad44b46abafc63d68c08beae9,838350,840000,pick up the potato
+608,671,56,50,7b0172dc3386408d9178bc7baf4ca8d4,841900,843300,cut the potato
+609,672,56,51,bb9eec322e634c97af00507e80603ff9,859250,860750,pick up the carrot
+610,673,56,52,48d4af7bd99c42b597c5a1a6b16954c1,864100,865250,cut the carrot
+611,674,56,53,c78bacac0d4b4cfeac1d545839879109,876900,878600,pick up the celery
+612,675,56,54,4d88dd5b636c446b9d2b05a7724378ea,880550,882050,pick up the celery
+613,676,56,55,9919959eac07448299ae477e880c940f,899050,900500,find the pot
+614,677,56,56,4381c7a647784edf9af54e9a92886caa,902700,903950,go to the pot
+615,678,56,57,a8e78be7162a4fd292444e7806d25929,906350,907650,open the pot
+616,679,56,58,348388f2947241e0980cf6ef94cd3564,925550,928700,pick up the celery carrots and potatoes
+617,680,56,59,a6319af6ab1e4a6d828cf16920ab8b74,933650,935100,go to the pot
+618,681,56,60,b481627c1aef44df83370cd3c52aafbb,935750,937400,pour it into the pot
+619,682,56,61,aa973741728a4d15ad94c15d02233a3c,950850,952550,go to the frying pan
+620,683,56,62,feee4f0266164f6abc4124cffdfa2000,954200,956250,turn the stove off
+621,684,56,63,9093ec8abe87448aad9cceb47ed6a2de,967450,969450,pick up the frying pan
+622,685,56,64,d9e40aa803604e6a8c579c70c0bd190b,973100,975450,pout it into the pot
+623,687,56,65,461d98c0075a4b26b77d170140f94a31,1000050,1003550,pour it into the pot
+624,688,56,66,aba1627fc3d34b33bf962c70a793ae47,1023550,1024900,go to the pot
+625,688,56,67,3f3a8900aa1b47bf811ea9df125223e9,1025150,1027200,stir go to the pot
+626,689,56,68,3f3a8900aa1b47bf811ea9df125223e9,1025150,1027200,stir go to the pot
+627,690,56,69,fc8b97038e7c4413a48f2d68b1ca59d6,1028950,1030450,find the pot
+628,691,56,70,c981be1286c2458c9398f2f183c916fb,1034650,1036150,stir the pot
+629,692,56,71,2eaf7157ded143a5b27398ec9180c206,1061250,1063350,put the cover on the pot
+630,693,56,72,b759deaaeb1545ffb4ca56f080e9b606,1089200,1090750,turn the stove off
+631,694,56,73,5ea8f5cdbafc4ccc97ae30019337846b,1105550,1107900,take the cover off the pot
+632,695,56,74,625a3bcd121d4063ae50a45f9c7a2228,1123750,1125250,get a bowl
+633,696,56,75,3bf16177cf94446d9ac6aef8304215ab,1127800,1130100,put the soup into a bowl
+634,697,56,76,01d10cea0fba4846bf234287eba379dc,1133200,1134550,pick up the bowl
+635,698,56,77,db57b0104efa4f1989c976fffa2a2f1c,1141950,1143650,pick up the ladle
+636,699,56,78,d5d8baf62d5943089e1f93e69a753619,1144950,1148050,put the soup into the bowl
+637,700,56,79,96c93dbc4dea459ab90c98e6b47894e8,1181250,1182300,clean up
+638,701,56,80,58a4bbdd5bab41428975f4df67fe499f,1211850,1214150,put the spoon into the sink
+639,702,56,81,1ea216e45b2e4d9883977154fcfa76ea,1216250,1217950,wipe the counter
+640,703,56,82,81cfef8216be4e218a0a3ac49defcc4c,1219950,1221900,wipe the counter
+641,704,57,0,fdfa2e6d31544d97aed0e48ca5eb44f7,245050,246850,Baxter let's boil some water
+642,705,57,1,5c16a809232044d5a4742da2ff1cce81,250600,252000,go turn on the stove
+643,706,57,2,2a55e2f763064f28860dadb5936ac308,256450,257900,turn on the stove Baxter
+644,707,57,3,609e2a8438b34b1db6330848a4e1a1aa,263100,264200,turn on the gas
+645,708,57,4,c270918e1c624637b399ac7d2a2d872a,275750,277150,put the lid on the pot
+646,709,57,5,80f4687f6a214066af5f662102e77649,280750,281900,go to the stove
+647,710,57,6,4c768c95f7e543dfa7b28fd5860519a0,285400,287150,take the lid and put it on the pot
+648,711,57,7,7ca5b6e2d8dd4986bd87d0fc72c31eef,301700,303100,let's get an onion Baxter
+649,712,57,8,53116631a02943bbbb0c9c0ad2367133,310500,312500,take the onion and bring it to the cutting board
+650,713,57,9,b5b82f4d3cb947c5ab174c53220a2fba,328500,330100,Baxter let's get some carrots
+651,714,57,10,067f5b2f95a74f9c8256af62713cdf35,334550,336750,grab a carrot and bring it back to the cutting board
+652,715,57,11,f73b3678f88a4b5391647ecf531a9228,348300,349750,let's cut an onion Baxter
+653,716,57,12,67771d88c6d647e0a1fd0e43bdeec1e7,363450,364500,cut a tomato
+654,717,57,13,7522b21b168944e0b87a0fc989482ee3,366780,368600,let's dice some tomato
+655,718,57,14,c2412bdca23745dfa9ec4508de2b39e5,377350,379450,take the tomato and put it on the cutting board
+656,719,57,15,e570dc3ab39247a6be3ee3863abefe45,396800,398200,let's go over to the stove
+657,720,57,16,31962c2ee6664e53afe7a1b88bc3d2c0,402450,404750,turn the gah gas on for the saucepan
+658,721,57,17,a14c66b5733b4951b93dc9c81d84ed65,414700,416300,let's go back over to the stove
+659,722,57,18,311e8f9f97ce45e98de875b23ecabc18,419900,421500,pour some oil in the pan
+660,723,57,19,78cc638ead19476087af240ff6f5c893,424000,425900,take the oil and put it in the pan
+661,724,57,20,98ff8c6e665d42b990dd2229370645c1,439300,441300,let's take the onions and put them in the pan
+662,725,57,21,cbd91919ab2d4bccaf1f27ab428ef95d,449700,450800,let's go to the stove
+663,726,57,22,07ca64bbaf274a0b93b1649f4f893aeb,455300,457260,put the vegetables in the pan
+664,728,57,23,0d8899d3b8ce470aa465e6ebe6cac537,472300,473550,let's go to the stove
+665,729,57,24,7d16820f9b624042891c79baa380a1c7,478050,479400,salt the vegetables
+666,730,57,25,775b586e81a341178238ed71d68417bb,495450,496600,back to the stove
+667,731,57,26,9d8397518fb54653835d5186362ce233,501100,502250,put some pepper in
+668,732,57,27,0288827c2ede460fa7e567b3b96928b0,519150,520300,back to the stove
+669,733,57,28,6c860d00ce104b5c8dcd164ba668b0c1,525350,527350,take the spatula and stir the vegetables
+670,734,57,29,c83cfd21ee6c46b5a46e39c891eea295,550950,552150,cut the potato
+671,735,57,30,9a1c5a418d2246d08c0e837b9b46766e,554450,556500,take the potato and put it on the cutting board
+672,736,57,31,0a8028065578415fbf64c1915b866d9c,561300,562550,dice the tomato
+673,737,57,32,d5cf02266a554f5b97f4863dcc180c8a,566450,568100,take the brown vegetable
+674,738,57,33,f5374c290e1f48f38294de24ec4f7e0e,576750,579050,"Baxter, dice a potato"
+675,739,57,34,6f11793151134e9caeffc8fa185c44a3,599440,601420,chop up a carrot
+676,740,57,35,29c546665bc648ce9c9c7e7d79b838f7,619250,620300,cut celery
+677,741,57,36,71eb3a7ba7c64702a8cc7473c22994d8,639550,640850,go over to the stove
+678,742,57,37,1b382cf20af24cd0a7502886921a3625,645500,647100,take the lid off the pot
+679,743,57,38,9bef29f1e8ee49d0ac3c8042c3168587,650200,651800,take the lid off the pot
+680,744,57,39,3fcc7ad42fff48b193ea27c930a5b3de,665400,667300,take the vegetables over to the stove
+681,745,57,40,4f68b41b06b64ebca0e4ae9deec29a6e,676600,678350,put the vegetables in the stove
+682,746,57,41,2517deff7bfa47179cd40fefede7dd1b,681600,683350,put the vegetables in the water
+683,747,57,42,1e62ea1ff4504a948c2e651d5bf7d3cf,695700,697000,go over to the stove
+684,748,57,43,f09b6f58b9e34b56bf17cc5524023f65,701300,702950,turn off the gas on the left
+685,749,57,44,27af5bf029eb46ed85996c896c5b1b5a,713250,714550,go back to the stove
+686,750,57,45,886d2baac64b4efab1bcd0ebc9238f92,717900,720800,take the contents on the pan and put them in the pot
+687,751,57,46,a442d54029084e2f999f37fc4a2c9fe5,738500,739750,go over to the pot
+688,752,57,47,297b60349e164e95bf8b4db5fe7baccd,743850,745050,season the pot
+689,753,57,48,0504b79ff765444db66e77df55448bd5,767600,768750,back to the stove
+690,754,57,49,618bf20fe65947b4a3c66adb2cf1b788,770750,772000,back to the stove
+691,755,57,50,f8067df04f8146e9a49e978d44ee6706,774350,775750,go over to the stove
+692,756,57,51,6a5187988386497eaf00efab937aef6f,798000,799450,put the lid back on the soup
+693,757,57,52,2733d05ec5574381add81ef372dda709,815000,816600,turn off the gas on the soup
+694,758,57,53,0050b668f82f40108b04f9baf949e7d6,830550,831850,take the lid off the soup
+695,759,57,54,49a28174498e44009c242903708c35f5,847650,849000,put some soup in a bowl
+696,760,57,55,21d22cd7bf9342fca4aa65ad524a4899,861050,862750,pour the soup into the bowl
+697,761,57,56,ecbe3eb3731c470fae3ce4b37aef5636,868750,869800,grab a spoon
+698,762,57,57,875df2d780eb41f98d490a4b3597af99,871900,873050,grab the spoon
+699,763,57,58,a5b516d36ae3471d8ac8acd6313e3d4f,899200,901000,take the soup over to the sink
+700,764,57,59,084d879f806b46c39ae57ca62a5595d7,929350,930400,clean the dishes
+701,765,57,60,6faa0da0c0e64840befd72c321712b71,936650,937700,clean the dishes
+702,766,58,0,f6da3c6de646424d97f37fbca1046daa,264700,268600,uh Baxter turn around and turn on the stove
+703,767,58,1,85841d57dcfa47a48d97eb63db0a5644,271850,273100,turn to your right
+704,768,58,2,e20eb5d61afe431fb7f3a1376daf446b,274807,276707,Baxter turn to your right
+705,768,58,3,6cc89f3062ba4c2d90a9bc304eec6e3c,277550,279150,and turn on the stove
+706,769,58,4,835e358d329345d789d1c23828772303,282100,284150,Baxter turn on the stove
+707,770,58,5,63b44ae85c88409299d99a01c9958337,288400,290200,ok turn to your right
+708,771,58,6,ffcf7d2dcdb7496c8536df1f1c2c9fbb,292550,294350,and turn the stove on
+709,772,58,7,6a09406481bc494f80193cf49882367f,306650,311000,Baxter put the top of the pot onto the pot
+710,773,58,8,bf09ebb979ad453bb8fb68f5d7633d2a,315750,319000,Baxter turn to your right and put the top of the pot on
+711,774,58,9,20fa34589a2748e1960a84fd597dc7e2,334700,337850,Baxter turn around and get the onion
+712,775,58,10,ce1c6d814133454fa2aa53f84ed7d524,340600,342000,Baxter turn around
+713,776,58,11,da9955379c4343e7ae73569bfbed4b93,346950,350550,"the onion is next to the apple, grab the onion"
+714,777,58,12,54d38d4f56ae41529b3eb6737e91c70a,368250,371000,Baxter turn around and get the carrot
+715,778,58,13,0c3c1cc572e74893a117705ea78ab90e,377150,379800,"the carrot is to your right, grab the carrot"
+716,779,58,14,2d91485bccf4470f8ff0931cf26435ff,392500,396350,Baxter cut the onion into small pieces with the knife
+717,780,58,15,0f40bd375b30420fa3a0d4726cf2a09f,411050,414450,Baxter cut the tomato into small pieces with the knife
+718,781,58,16,a1f3b35828af488eab9181627c40c92d,417200,420100,Baxter pick up the tomato to your right
+719,782,58,17,9d059895a541498eb4691f9d8d260dfd,426350,431300,pick up tomato to your right and the knife to your left and cut the tomato
+720,784,58,18,1303f648843c4ea8a2eb40730bfb40fa,446750,452650,Baxter turn around and turn on the stove under the pot oh under the pan
+721,785,58,19,b4dd778564e5415c893349af244122da,458300,460350,turn on the stove under the pan
+722,786,58,20,5326c3b5971c41648c5cadd991f26729,473400,477700,Baxter turn around and pour the oil into the pan
+723,787,58,21,d3cbb7a097324355b4f506558638fda3,488400,490300,Baxter find the oil
+724,788,58,22,97212915c5674915810ee8b1113259db,505350,509300,Baxter grab the onions pieces and put it into the pan
+725,789,58,23,5fbc7f2ef01c48ed89647823c2a5c5b4,517400,520650,turn around and put only the onions into the pan
+726,790,58,24,857c6db96906409dbd314887323c956d,525200,527250,put the onions into the pan
+727,791,58,25,b7161837cf81434b8a0a752e98df7cb5,530200,532650,"the far onions, the square box"
+728,792,58,26,ca6d8049afa74a4f8d353eb58d40420e,545000,548050,Baxter turn around and put the salt
+729,792,58,27,1decf7d139c348d68b350d7fb14586b9,548490,550700,shake some salt into the pan
+730,793,58,28,d10628b1a3d440c39b1ea83cf0e4e76e,555060,557150,salt in on your right
+731,793,58,29,5e73ac8c449d4285ab6fc54ba160a32f,559450,560750,grab the salt
+732,793,58,30,bb87d82a2aeb41698b32a91b36c4eb76,561832,563492,oh I guess that's also salt
+733,794,58,31,159465783ee44893bf408b4831188fea,574800,578050,Baxter turn around and grab the pepper
+734,794,58,32,5163709c819a49b193822c49088e5cfb,578500,580900,and grind the pepper into the pan
+735,795,58,33,c25338d41f964429bed4e9973cc39621,582800,584150,pepper's on your left
+736,797,58,34,541134f64f164abdb23d5b7438975340,588050,589800,grind the pepper
+737,798,58,35,00d00d5268e14f19b127857b7d37b335,605750,616950,ok Baxter grab the grab the big spoon uh from behind you and I guess scoop up some of the soup
+738,798,58,36,477cedfa17c74d13b8631d250580d7ff,617450,620100,or mix it mix the soup stir the soup
+739,799,58,37,6136c98308d54923a95649a70f57fd86,626450,628100,the big spoon is on your right
+740,800,58,38,897dadb8736c4f82aeabdc256efd80e7,629200,630250,and then stir it
+741,802,58,39,743cf203744b47c6980d53e866738cdd,651520,657750,ok Baxter grab the potato next to you on your right and grab the potato on your right
+742,803,58,40,d950a94431e34e6fa1c8164aae12194b,659450,663800,Baxter grab the potato it's next to the apple on you right
+743,803,58,41,9faf2db26dde453ca6a94e3cc56a1fc1,663950,665400,and cut the potato
+744,805,58,42,67a58c25dbdc4e7b85456006173f4fdf,684250,687150,ok Baxter now cut the carrot into pieces
+745,806,58,43,d9c33b9728004c2e9dfe5e943dd92952,696090,698300,you can grab the carrot with
+746,806,58,44,254c4186cd0545b7aabf292ddd21a084,698488,699788,yeah
+747,807,58,45,ce9b2056ccef43b5b172c9b7578a508e,701300,704300,grab the carrot from the bottom of the carrot maybe try
+748,808,58,46,96d48b869abe47d4966994990b928289,708250,712250,Baxter grab the carrot from the bottom of the carrot pick it up
+749,809,58,47,b43286fbee6841c585de9072474bdb6b,715750,718150,Baxter grab the carrot
+750,809,58,48,e632aa15eae747409e347bc042f7f7a3,719100,721050,hold the carrot Baxter
+751,810,58,49,e632aa15eae747409e347bc042f7f7a3,719100,721050,hold the carrot Baxter
+752,811,58,50,ad0b17be474949f5ad1f7c526ebc7c8e,724250,726350,Baxter pick the carrot straight up
+753,812,58,51,72c41247588742ee9311ea1009c1b55e,733000,738700,uh believe that's celery uh Baxter grab the celery behind the apple
+754,812,58,52,0bf049e2c7f34f719f55c43892f784cc,739450,740900,pick up the celery
+755,813,58,53,0bf049e2c7f34f719f55c43892f784cc,739450,740900,pick up the celery
+756,815,58,54,346c7ebc54004f0f8e2359d404baab22,759100,764400,Baxter turn around and take the top of the pot off of the pot
+757,817,58,55,e298bbd000c440a5bdaaff1231c9be43,783900,791500,Baxter take your take the things that are cut in front of you and pour them into the pot
+758,818,58,56,66638755a27e42869958b80e98254e58,802500,804100,pour them into the pot
+759,819,58,57,d6f8097fde814f9b89560d21aa8fdfed,805900,808400,Baxter put the things into the pot
+760,820,58,58,f7efd5abe970442495055c84e893e47e,821500,824750,Baxter shut off the heat below the pot
+761,820,58,59,e77d575b322848adb1359538e6dc93aa,825950,826950,of the pan
+762,821,58,60,adab4002588d446c802037f684815b6a,829350,832150,shut the heat off below the pan on your left
+763,822,58,61,4be49eec065c47709fc8a6c0548ec0fa,843000,849300,Baxter pour the pour the contents of the pan into the pot
+764,823,58,62,db5a6136b5bb484aabcf1d1fb7bf0054,853500,856600,pour the contents of the left into the right
+765,824,58,63,6ffb379fe30d480fb12fa4a2241a0589,857750,860500,pour the pan into the pot
+766,825,58,64,cddb0ad7dd8e4be89c22ef784355c1b8,877700,885550,Baxter use the seasonings uh on the counter and pour them into pour them into the pot on your right
+767,826,58,65,8ce77a5f5d4544a0807128c445cc84e9,888400,889350,and pour them in
+768,827,58,66,6926094f6afd42b9aabe041346515e95,907850,910700,Baxter stir the pot
+769,827,58,67,5ad5e0e9e4074929af7b493c91794ea3,910900,912950,with ah with a spoon
+770,827,58,68,67a21a3e510c42af82c51ef15b5435dd,913250,914150,behind you
+771,828,58,69,f42012acad49458691462850a190f921,914950,919050,Baxter turn around and use the big spoon to stir the pot
+772,830,58,70,c09c6f28602446b481826fafe06e89eb,941450,943750,Baxter put the top of the pot back on
+773,831,58,71,67d901084f81446885e36d7a8032ad4b,959200,962100,Baxter turn off the heat under the pot
+774,832,58,72,5155d9148cdc4b8a866f74921444a17f,973550,975650,Baxter take off the top of the pot
+775,833,58,73,94a35de51bb44a32a749d97bf6b980b1,993050,994950,Baxter grab a bowl
+776,833,58,74,bc10a349f63b4b579e3ce4022e1eefcf,995400,997900,and put some soup into the bowl
+777,834,58,75,1fff2226d9284036a2e53a8b66dd71aa,1007500,1010850,use the use the ladle the spoon all the way back
+778,835,58,76,3d5833ff03d240418b7c096dcf1848b9,1013050,1016050,and pick up some soup and put it into the bowl
+779,836,58,77,8b8244171fae43e8ba370d8267240f31,1039650,1044650,Baxter take the take the lid off of the pot and put it into the sink
+780,837,58,78,8a2a65d450584f27b9870aaff7d6a74e,1045350,1046600,start to clean up
+781,838,58,79,78634c14cda3491f93eba6c35c8709d7,1072500,1073250,Baxter
+782,838,58,80,9963aaf382cb45658ea2241bc0f8b13c,1076100,1078050,maybe wash the dishes
+783,839,59,0,bad63c4576d041c483a3be671ee780a5,263650,265400,Baxter go to the stove
+784,840,59,1,8254eea75f2f4831b94433e725969b03,267800,270050,uh Baxter turn around
+785,841,59,2,eb7c541c190d4c63884c855f4f72b7f0,271200,275100,and move to the stove cause we're going to boil water
+786,842,59,3,eb7c541c190d4c63884c855f4f72b7f0,271200,275100,and move to the stove cause we're going to boil water
+787,843,59,4,a175219d72e0437591475476dddca381,279750,281350,ok so turn around
+788,844,59,5,35bef084001747d389ce3cb557f500db,296050,300350,ok Baxter we're going to put a lid onto the pot
+789,845,59,6,ee83548442e34750bd92531c0b44c708,304050,305150,so turn around
+790,846,59,7,42238ca2da734ebfb363c00417647de7,308550,309600,grab the lid
+791,846,59,8,8fbe8b60873f422e94eb8e7452dfa3f8,310200,311250,with your right hand
+792,847,59,9,7d7f036249fe4b8c8d7546b96ff9b2b0,325300,327300,ok Baxter we're going to grab an onion
+793,848,59,10,5092d032c8bd4f3da7eded99b620f562,337300,340300,grab the vegetable closes to you
+794,849,59,11,9a3a646afc7d4a1aaba540da1db9cdc6,358950,361200,ok we're going to put the onion back
+795,850,59,12,523ac1b09e1647499f1f0c3b49c7babf,363950,364700,so
+796,850,59,13,982055fb915244c19626f23c784d20de,366250,367750,grab the onion
+797,850,59,14,7a3f5aec2eb24c93b65f1bbdfd098115,367760,369150,"I mean, put it back"
+798,851,59,15,9b8f86b680664c92865098f84138ca0a,369750,371850,or grab a let's grab a carrot actually
+799,852,59,16,dcf92871371d425282f284d152bc0571,377900,379450,the vegetable all the way on your right
+800,853,59,17,d1a0af9c35c84f76bfa09a86b3d60a4a,395200,396900,ok we're going to cut the onion
+801,854,59,18,025564e5c7f04a0ca0adb18b889ba58e,412050,413600,ok we're going to cut a tomato
+802,855,59,19,7c9b0f21bf3f4029afd0c89785e546f7,417700,419100,um grab a tomato
+803,856,59,20,5db24cb61bac4d3fb28e5210122a280c,424980,427050,um forget what I said
+804,856,59,21,1fea3022b21f46879222aafc19164589,427200,429400,let's we're going to grab a tomato
+805,856,59,22,b8d76404273248198298177d2d33f833,430050,430900,so
+806,857,59,23,790c5ffa902244dba135b09841e776fb,435800,439300,ok so with your right hand grab the red fruit closest to you
+807,858,59,24,e6c7b47afc064d72a996f7721cd2fc29,462000,463650,um go to the stove
+808,859,59,25,23e70996d08143bb820834b45f454ba7,464550,467050,and we're gonna turn on the pan
+809,860,59,26,6834bb23d10148dbb908043a01dbc40f,472850,474800,turn on the burner under the pan
+810,860,59,27,bb910e4331514695b92513eae3125e50,475950,479030,bottom left corner of the stove
+811,861,59,28,34f974bbe91d427dbacaf847fcb48a4d,491100,493200,you're going to put oil into the pan
+812,862,59,29,0bde691d6b54446e93e43b3d6376b2c9,498850,500700,grab the bottle closest to you
+813,863,59,30,29d1aab9e09240fcb7c2783a410add42,514900,516750,you're going to place onion into the pan
+814,863,59,31,b709b277d89e4b7a9a9d0c6a5075bb16,517300,519400,and the tomatoes as well
+815,864,59,32,9dc1f6dc2ce14e598bb0568089025769,526450,527650,place it into the pan
+816,865,59,33,cdcfc9c37a0e41b6b55a3d22770099cd,530550,534900,put the onion and tomatoes into the pan from the cutting board so turn around
+817,866,59,34,1daa8382000a4e6da7c51e20a26a9251,540150,543600,um tilt the pan over the tilt the cutting board over the pan
+818,867,59,35,3d3c55676fd047bd8b79d6aa94bad3ef,558350,561100,uh add seasoning into the pan
+819,868,59,36,ec3f03611d5e4107b9efdfd426e4a3dd,566250,568150,grab the container on your right side
+820,869,59,37,84e7d0159e1f4caa8572ab4f42878a83,585450,587000,put pepper into the pan
+821,870,59,38,b9eafb5925b94709ac9a37545edd9416,592550,594900,grab the container and twist it over the pan
+822,871,59,39,977f764fe8374e7d8b227ca31bd588e8,617150,619050,mix the pan with a spoon
+823,872,59,40,566827916dfa4c1391373b49175cb74a,623930,625500,grab a spoon
+824,874,59,41,4daa3779528b4bdfb3c0ca27a25c2053,633400,634650,wrong container
+825,875,59,42,908bbe5982e54b47b06a1807f71a0cc2,650020,651900,you're going to cut a potato
+826,876,59,43,d615ff02b35c4f17a7e18f3581232d5d,654650,656000,so grab a potato
+827,877,59,44,243804cc8e28451cb2ca0b115d482a87,657750,659750,grab the brown vegetable
+828,878,59,45,9d40dc72eb654a0d9efc2ea82c34ede9,665950,667500,forget what I said
+829,879,59,46,9585e61c4ae448c39aea261fea0d75c4,670250,672050,so grab the potato
+830,879,59,47,9a770bf91aa14de8aff015f1839884cd,672750,673650,first of all
+831,880,59,48,c694b02c9d7743a0a1d253cfd91564b8,680450,683900,grab the brown spotted vegetable near to your right
+832,881,59,49,69149726850a4660be31d5106def78a9,707800,709400,cut half of a carrot
+833,882,59,50,c7b9a60e42c241d4a7838b8ae5c077b5,731320,736110,alright grab the green vegetable next to you with your right hand
+834,883,59,51,5ee2fb723792446fb14bb8a4a0acb911,737500,739800,and cut the green vegetable
+835,884,59,52,b5b92214359b4075884b0adee150a7c3,757900,759800,take the lid off of the pot
+836,885,59,53,63e916134b8f4e90ac9e657bd734b967,765060,766800,remove the lid from the pot
+837,886,59,54,8c053e53624a4a988226b4ad450180aa,787250,789700,put everything what we've cut into the pot
+838,887,59,55,3fb29dc3306442f5aa9dddf447aa5fda,800500,802100,tilt that into the pot
+839,888,59,56,3a14bb9842224293aff0c87c3faf4a5b,816000,819050,"turn off the burner under the stove, under the pan"
+840,889,59,57,f8f6758fd473460984bb4e251913e660,821050,823000,turn off the bottom left burner
+841,890,59,58,ff170456fc2342fc86494891b9e62851,835900,837850,dump the pan over the pot
+842,891,59,59,80ce0ea314c8470a90e5bee9118004e3,842900,843950,grab the pan
+843,891,59,60,eaa5feaa6a8d4af88f468f9106d50b2d,844350,845900,and dump it over the pot
+844,892,59,61,e0a94f8a6a114c3fa03f33ae170ff814,856650,858150,add seasoning to the pot
+845,893,59,62,5c8599abc87d45dd880b06f09c59cea2,863250,866800,grab the seasoning to your right and put it over the into the pot
+846,894,59,63,6886ea5ddf7945808d5a90ac70266cc8,888250,890150,using the spoon stir the pot
+847,895,59,64,add41f8231dc42eb93f0fc098afd1dbd,892200,893750,grab the spoon behind you
+848,896,59,65,01677be770b8491aa37f0a6b6ec5ae71,918350,921450,turn around and place the lid over the pot
+849,897,59,66,9aeb404e52c64ce79309c77fe4178673,939050,941250,turn off the bottom right stove burner
+850,898,59,67,c87d21bf9bcb469a98cdce69b00192b6,954650,956350,take off the lid from the pot
+851,899,59,68,3cb2d2040f5e4d76a340a7825f8c432a,974450,977550,pour some of the contents of the pot into a bowl
+852,900,59,69,bf9c1c7197f04b548acc53984a10fa8c,991900,993000,grab a ladle
+853,901,59,70,bec61c971c574323a5f42bd09f74b94f,1031900,1034100,put all the dishes into the sink
+854,902,59,71,be4e9ea79c2e481db7c6d1be47488487,1058300,1059800,put the bowl into the sink
+855,903,59,72,ae749af179c0479ab7198284d48a3c84,1062000,1063400,or wipe the counter
+856,904,59,73,fe40c94d510c40458654a8f2977f6ec9,1067200,1068600,put the spoons into the sink
+857,67,60,0,3643358685e6445186efce8723915399,264967,269067,can you twist the knob to turn on the stove
+858,68,60,1,c11e00e099bf412fac686ff44e4862b0,294500,296750,can you take the lid and put it onto the pot
+859,69,60,2,1ef52afbe2b1424389d7e538a79d20b9,314300,316750,Baxter you're going to pick up an onion
+860,70,60,3,950c3abe1d7b42d08e4cbbb5641cb883,365250,367850,can you pick up the carrot and take it to the cutting board
+861,71,60,4,d7cbe270987a459ba1bb7d7f085c97e4,381200,382850,Baxter you're going to cut an onion
+862,72,60,5,5045de7f98e346ea988400e01690a2bc,397350,398900,Baxter can you cut the tomato
+863,73,60,6,31d0a8ba349b4965ab3254e5d519128b,401150,403100,Baxter you're going to be cutting a tomato
+864,74,60,7,2910e16a3d464eed9d1f02ec8d3bf19f,407050,408750,Baxter can you pick up the tomato
+865,75,60,8,229f5ecb2afb410d8479647222115b11,415700,417500,Baxter please pick up the tomato
+866,76,60,9,c599a2d8796542499a4ad479e2c31772,442200,444100,twist the knob to turn on the stove
+867,77,60,10,4e445891dfe7487d85189ce53a6689d2,467210,469890,can you pick up the oil and pour it into the pan
+868,78,60,11,9f8749d6a6624f8f9c566042be9f42fc,505090,508780,Baxter tilt the board into the pan
+869,79,60,12,530cf97d13eb4d57b87acfda3a98bc47,520600,525180,Baxter can you pour salt into the vegetables
+870,80,60,13,206eac4651124ce5b5dcae5e243f175c,580850,585920,can you pick up the pepper and then grind the pepper into the pan
+871,81,60,14,1eeb8b0e32764b1db49ec6227c580f38,611450,613350,and stir the vegetables with it
+872,82,60,15,adbf4ca522c44ad88b0263948035c7f5,634540,637770,Baxter can you pick up a potato
+873,83,60,16,91235e40b56e469ba0528d73d30d9ac3,641100,643150,Baxter you're going to be cutting a potato
+874,85,60,17,6077975ccd0145299e61765d6f284fe2,679768,682188,Baxter can you cut the celery
+875,86,60,18,a721dccd9af6410f91f012b8949c76af,707220,709440,please take the lid off the pot
+876,87,60,19,e3e88550db024953a94898e96405114c,736850,739110,can you pour the vegetables into the pot
+877,88,60,20,6d5c0fff4fde47f18ed33651a1c38c7c,761890,764000,can you turn the
+878,88,60,21,754a30398d18456bbd22c686f062e6e0,764968,767828,can you turn the stove on for the pan
+879,89,60,22,f5cd3c274469406490236b3763a16ffa,792700,794050,and pour it into the pot
+880,91,60,23,03011bfd8cbc46ba8c471688fccd16d9,831712,835132,Baxter can you stir the pot
+881,92,60,24,b143b12533a44ce09fca87a025ad5b42,841900,844560,Baxter you're stirring the pot
+882,93,60,25,28676acd21394e6993dd200be4f2be9d,867400,868850,can you cover the pot with the lid
+883,95,60,26,98449587dedb4ea2b181f5aa9191c88a,901180,903680,Baxter take the lid off the pot
+884,96,60,27,85f4a6d700ce4dabad0339899da7ecec,938790,941550,Baxter can you take the lad ladle
+885,905,61,0,786f559a42514216bd2f955bcf2e8dde,205800,208000,Baxter can you boil water
+886,906,61,1,ba75fe4811af4a509723d8aadc7a93dd,212100,214250,can you turn the stove on
+887,907,61,2,e697d408dbfd487db735df1589ec03f8,219950,222230,turn the knob on
+888,908,61,3,96e093eb87fe4e819793c53754019d35,232770,235700,and can you put a lid on the pot
+889,909,61,4,23698946bf6449b897494d216094f803,238900,243180,can you get a lid and put it on the pot
+890,910,61,5,c7a3aa6956044399a459025167384a68,243900,245300,pick up the lid
+891,911,61,6,0cd16ff18b3d432895148751891a3913,246400,248000,and put it on the pot
+892,912,61,7,a5428f5fb9f34a719eff828e3aa386ae,258100,259800,can you get an onion
+893,913,61,8,ca9efa777be94288a99e058d85dea4b9,268650,272550,"the onion is right in front of you, can you pick it up"
+894,914,61,9,ca9efa777be94288a99e058d85dea4b9,268650,272550,"the onion is right in front of you, can you pick it up"
+895,915,61,10,ea59895e2a764349b21662312d20fffd,289150,290650,can you get a carrot
+896,916,61,11,973a78d6cceb45f592d31b20f0cdad7d,296200,299050,the long orange carrot can you pick it up
+897,917,61,12,9f18e29d7c934c76b44c9f686d9ae80c,313200,315100,can you cut the onion
+898,918,61,13,c73e86249e644526b393c28822b33a6c,329050,331000,can you cut the tomato
+899,919,61,14,dbb89df599bc45b6a03b0695b435d4b5,332300,335450,can you cut the tomato
+900,920,61,15,d324a3aa55914b78bbaf136939a88d7e,339150,343350,can you pick up the tomato the red tomato
+901,921,61,16,4755c7ce9ebd4e2db9fcdfd2b17de00b,362350,367050,can you turn on the stove under the frying pan
+902,922,61,17,27f9797959004357ab680316a2529867,371400,373350,can you turn on the stove
+903,923,61,18,e6aef8f8cd03403eb3e7469a205487d4,384850,387900,can you put oil in the frying pan
+904,924,61,19,abc30bbaf5b944e48bb3e2a3bb19b234,396200,398100,can you pick up the oil
+905,924,61,20,0bc55a47ab7940f480bcde372c022b34,399270,401500,and pour some in the frying pan
+906,925,61,21,9d2741c5a5ba414a9d7ee7d8a9bb6b23,415400,419250,can you put the onions and tomatoes in the frying pan
+907,926,61,22,ac48ecc16243467c970e76de469029f3,425180,427750,and put them in the frying pan
+908,927,61,23,02f4577c21204e60a0fe027d4a8360ef,432350,434410,dump them in
+909,928,61,24,1e0ec698192346c496a557ce236dbd74,446850,449750,can you add salt to the frying pan
+910,929,61,25,7b1ecf9a2b294c0da9b86962401657ba,453250,454000,salt
+911,931,61,26,195eeb3c0ede49f1b88e3b67f3c6bb6a,471150,474200,can you grind pepper into the frying pan
+912,932,61,27,fb9ce7ac62614688a23ea7483c43f740,479000,480600,grind the pepper
+913,933,61,28,ec55ed1573dd4ea48b6c8cc6b3e57ba1,498350,501050,can you stir the frying pan
+914,934,61,29,e81cacf9560a46828910c858084dc97e,504900,507350,can you pick up the spatula
+915,935,61,30,7119b4497d694e7380ece9e6795fe77d,510370,512730,and stir the
+916,935,61,31,7da2bfc9f8124a7696b14ff6bb7249a3,512950,517640,uh stir the onions and tomatoes in the pan
+917,936,61,32,4ef00166f865458c8fd50275a4cbff8a,530750,532800,can you cut the potato
+918,937,61,33,d5df90bc220242879003f3c5ec71dc7a,535400,538200,can you cut the potato
+919,938,61,34,c7648f25182c449789e432c46982062f,556550,559000,can you cut the carrot
+920,939,61,35,aab4ac78666546a69ad56f1d6d64a3bd,575450,577800,can you cut the celery
+921,940,61,36,822d8beeea674643b7ab3643dd862d4d,594850,598300,can you take the lid off of the pot
+922,941,61,37,a4ea2a30567b40a98d2b1cfe21ff60a7,600550,602000,remove the lid
+923,942,61,38,cd752348681144cca858ffbffe23b364,622300,628600,can you add the celery and the potatoes and the carrot to the pot with water
+924,943,61,39,75fe0c3733c9433c995f626242897178,636850,638790,and dump it in
+925,944,61,40,0ba524517ae042fa87a11a488535e17c,652200,656650,can you turn off the stove under the frying pan
+926,945,61,41,52939f55755c499f8aa55e2b451eb5cc,660250,664050,under the pan with the onions and tomatoes turn it off
+927,946,61,42,130bb7e01ed94940a886de776283acec,673040,678250,and can you add the frying the stuff in the frying pan to the pot
+928,947,61,43,2868425238d84b909cca9fc994b9433f,682000,684100,can you pick up the frying pan
+929,948,61,44,71c5fa495eb54386ae458db3e41543c7,687250,689000,and dump it into the pot
+930,949,61,45,66a31f67784e4fab82e7468da38c9a31,702450,705000,can you add spices to the pot
+931,950,61,46,59d197349cf94a38b27f51c04eb92a15,708950,711650,uh the spice by your right hand
+932,950,61,47,b4e4d5a8331746d6bd875708c086cd6f,712600,714350,can you shake it into the pot
+933,951,61,48,916ad434c26e46c4a893a24dc8c3b58c,733200,735000,can you stir the pot
+934,952,61,49,75925708c7d84738a3e819a8ff0c8398,736650,740750,can you pick up a spatula and stir the pot
+935,953,61,50,696798774f02449bb3b02662c1998325,762700,765150,can you put a lid on the pot
+936,954,61,51,2f873cae49a04649ba29e916d75ca56e,780700,782600,can you turn off the stove
+937,955,61,52,9aeac1d992d14bdfa08ed703ef5fb6f1,795150,797000,can you remove the lid
+938,956,61,53,d32b51b2ac5843b1adbea4cc42cd61fa,812350,815300,can you serve some soup in a bowl
+939,957,61,54,c20a009b659f4834b8a6f1678cbfd9e3,827100,828800,can you pick up the ladle
+940,958,61,55,1ad79aacbb8e46058021944b25395e62,860750,863350,can you put the dishes in the sink
+941,959,61,56,8186d286547746e1bf7308766632f877,888350,890150,can you put the bowl in the sink
+942,960,61,57,2a910b7bd6264e0784696c46496c99fd,893900,896550,can you put the bowl in the sink
+943,961,61,58,d0527022ca424f14bb6b2317a9d399c6,902800,904750,can you wipe down the table
+944,962,61,59,22a9b958885e466ea3bc935c461a1f13,908590,912500,Baxter can you wipe down the table
+945,963,62,0,0d124e719f3643bda23df6c545746736,201850,204050,we're going to turn on the stove
+946,964,62,1,7c22821298c744f19dcc843184774bc5,207050,208750,so go to the stove
+947,965,62,2,3d651148df36410cb023072e45be7491,210700,212400,go back to the stove
+948,966,62,3,9f76e99ca7154e01818ce4610cd8484e,215950,217600,and turn it on
+949,967,62,4,fda649ad1e2048d686d4576f4d22eb3f,228800,231800,ok go back we're going to put the lid on the stove
+950,968,62,5,49e1444f8ac0448796f076b71fe095c1,232850,234950,so go back to the stove
+951,969,62,6,e8bdb22904cc4bc0b30c3e9a69a7c4dd,237300,238600,pick up the lid
+952,970,62,7,d5bb56cda1b542eaa06283cd06099a02,240450,241550,put it on the pot
+953,971,62,8,cce96928d88846cab33a74f69fd3526d,250600,253000,ok so we need to get the onion
+954,972,62,9,21fd072c76fd4ccdbd30756a83cef55a,255400,257350,so turn around
+955,973,62,10,cbcb000be01c44c9800d4b08b7a2c7ce,260400,261800,um grab the onion
+956,975,62,11,1e239f11531d4ebf8e9fc4191aa98fea,276100,277600,now we need the carrot
+957,976,62,12,8463b669ac5547fbb3e8d6ce56023149,282113,284013,it's over here
+958,976,62,13,1f82f9d8408a48548168afc4e257d6ed,285550,287400,grab the carrot bring it back
+959,977,62,14,ee7586c4142a49d68a7929017f9e02be,294700,297150,now we need to cut the onion
+960,979,62,15,ebcd5cb70da44623baff607301c5bae3,309400,311350,now we need to cut the tomato
+961,980,62,16,4ea6fce3dff24517b1217bccd042e9db,313900,315250,cut the tomato
+962,981,62,17,f42a3df561264e569698818fb817a583,316450,317800,slice the tomato
+963,982,62,18,7de8fcfdc9a241429e9dd9842cc8e8a1,322700,326400,ok we have to slice the tomato with the knife and the tomato
+964,983,62,19,c73efa49ade8408ba85923207085bfca,329600,331050,so pick up the tomato
+965,984,62,20,c6ec6bbc30094bf2be33e0a83190d8ba,334000,335050,pick up the knife
+966,985,62,21,f77c598752e44503999a638ae425e89c,336300,337800,and slice the tomato
+967,986,62,22,f9b7164fecec40a79f2b05c2a7763fbd,350300,352600,ok we have to turn on the stove
+968,987,62,23,db9d117e0a9a4200aa7c2bc4d928f299,357450,358950,turn on the stove
+969,988,62,24,c696fcf7b487418e9fd08bd94dbac2d8,361900,364550,turn on the stove below the pan
+970,989,62,25,76688ef096954010b9817985986ccb3a,374450,376950,now we need to put oil in the pan
+971,990,62,26,4b2b4a97970b40e091a72eef60c4a5c4,380500,382000,so grab the oil
+972,991,62,27,a78f9103967447f1972fd5526d22c182,384950,386450,and put it in the pan
+973,992,62,28,c9feea544a034b3bb6290a5f8e651036,395800,399800,so now we need to put the onions and tomatoes in the pan
+974,993,62,29,f37237346bab4fe992b5ce14fc4e6dbe,403400,406150,so pick up the cutting board and take it to the pan
+975,994,62,30,f15aa3ef707a4279b264e0032de79d5e,409850,412200,put the tomatoes and onions in the pan
+976,995,62,31,d84114202e1c45e3b3da0df8a6cd7b6d,423550,426400,now we need to put salt
+977,996,62,32,397d89f1c7584b9ab8cca8a3dd0dc8bd,430940,433650,we need to put salt in the pan
+978,997,62,33,7b247cfec6fe45dc8626ebc3b30cf9d1,435150,437050,so grab the seasoning
+979,998,62,34,e66da28e8627475fa8d09ad704bba523,438650,440750,grab the salt from over here
+980,999,62,35,22bc99d5e33e4be381f8a04179cf592e,443400,444700,and put it in the pan
+981,1000,62,36,5d9ea10da36c43d890872e8247c48463,454650,456550,now we need to add pepper
+982,1001,62,37,2022c16fd02a4918af256fd28f740d65,460350,461700,so grab the pepper
+983,1002,62,38,5a577482937d4ea9b6f819e219ca46e4,464600,465750,put it in the pan
+984,1003,62,39,9806a5db15384ee1b3219d332419d135,476600,479150,now we need to stir the pan
+985,1004,62,40,0971ad1e8394450abb9e3783e1f3a04a,482650,483950,grab the spoon
+986,1005,62,41,8ff74b63cf13403da6178eec4d5fa562,488060,490500,stir the pan pan
+987,1006,62,42,07ef78a188274d5c9574e928fdd84e01,506650,509050,now we need to cut the potato
+988,1007,62,43,c1e8990932504bc18bdc02da75d9592e,510600,513250,we have to slice the tomato I mean potato
+989,1008,62,44,c7a45dc9863f4283ba956685012c1e64,514600,516050,grab the potato
+990,1009,62,45,1452654fec0549ca9c986cae3b9173ae,519250,520350,grab the knife
+991,1009,62,46,d11f4a41ee5947118489545bbb9ede85,521400,522550,cut the potato
+992,1010,62,47,ddb52318dd3e42b29b8b7a7c65e34331,530800,532650,now we have to cut the carrot
+993,1012,62,48,e7ad738d4e654affbd856ebabcdc89e1,548200,550100,now we have to cut the celery
+994,1013,62,49,3e7a382a4eef44dcac1fd3ebc2d37e7c,566750,569350,now we need to take the lid off the pot
+995,1014,62,50,d826e081e80d4a84a131842be5394a25,573500,574600,pick up the lid
+996,1015,62,51,f9218fda45e5493bb5acd113ce734f73,578100,579360,take it off the pot
+997,1016,62,52,78c1fc615e01463bbdd33b36dc361bd4,589750,594640,now we're going to add the vegetables to the pot
+998,1017,62,53,ce4204ee4e9449cabe450b53a2cdc05c,604400,606100,put the vegetables in the pot
+999,1018,62,54,c1e556b5ca9843f3ae389ac5dadac26a,620650,626760,now we're going to turn turn up the pot or the pan
+1000,1019,62,55,880683aa735c48d8834ec4c0802e4ab7,631400,633100,turn up the temperature on the pan
+1001,1020,62,56,75122b43a88d429194fcc18afd8eb7fc,644000,646700,put the vegetables from the pan in the pot
+1002,1021,62,57,310b61e370254293a0777337b3b6d893,651650,653400,put the vegetables in the pot
+1003,1022,62,58,7600985e052d4097aa54105a9897c0a0,665750,668100,we're going to add seasoning to the pot
+1004,1023,62,59,a68b8d51f23e4a778b9846be6ca5932a,672300,673650,pick up the seasoning
+1005,1024,62,60,9d8dda97718c4acfbdbc917a63d69838,676400,677550,put it in the pot
+1006,1025,62,61,87776111a671483ba8c2458dcc319a3c,694550,696150,now we're going to stir the pot
+1007,1026,62,62,9b8cb6329b8347e6955df31ffea82cb0,698050,699700,we're going to mix the pot
+1008,1027,62,63,ee73f0aa28da4ef2b2ca26ef3739fb2e,721000,723050,now we're going to put the lid on the pot
+1009,1028,62,64,2d2dae58c2ce45738edd52777eb485d5,741550,743800,now we're going to turn up the temperature
+1010,1028,62,65,8814e919b78f454e88b7c226a49bfe2d,744850,745600,on the stove
+1011,1029,62,66,ba0cf17a1b124bb4848cfbf9ec97b1c9,757900,759650,now take the lid off the pot
+1012,1030,62,67,a9b7fcf84bd744f6832e470782baadb0,774700,778420,now put some soup in a bowl
+1013,1031,62,68,c0634f702b284ea78358cf08790d67a1,783470,784900,so take the bowl
+1014,1031,62,69,cabccd30d759454880fb8a3243d496c6,786600,787850,take the ladle
+1015,1031,62,70,1f671a027fb84241a4bd9469bd60b5ac,788650,790650,and put some soup in the bowl
+1016,1032,62,71,6f80a538e3574e09b6a9f1a343fa6551,817050,819650,now take the pot off the stove
+1017,1032,62,72,12c4f54067cf4f989fb14cb87e06e8e5,820500,821800,and put it in the sink
+1018,1033,62,73,4cd13c0a2ee34164b4672cb07d8e745c,841350,843550,and take the ladle and the 
+1019,1033,62,74,e51aafa6bcb44bfd89e7407b39a9adb2,846300,847550,take the ladle
+1020,1034,62,75,0cc40290ed454e1f89e7c4cf551ce891,850000,851950,ok we're going to wipe down the counter
+1021,1035,62,76,4128918bbfb14c80adab84fdff6dae73,857050,859100,ok we're going to wipe down the counter
+1022,1036,63,0,4da0be1ac68045e1bb1a9e2d75fade5c,396500,399650,can you turn on the stove
+1023,1037,63,1,fe7942005e854cee844c432bc7f5ca95,407750,409000,can you
+1024,1037,63,2,c3343901235f43c5b4c382e6d6de755e,410100,411900,turn around
+1025,1039,63,3,67f79dd6baf44438b6840c045788592f,429150,431850,can you put the lid on the pot
+1026,1040,63,4,e984accb8499447cbf8ad958b0fe6b2f,435700,442450,can you turn around and put the lid on the pot
+1027,1042,63,5,6366df197137441596b3f7273f7c2a82,454950,459550,can you put the onion on the cutting board
+1028,1043,63,6,93d865b5287b4cba93a191e6fdf235a2,460408,462308,can you turn around ok
+1029,1044,63,7,d8f529794e4b44de9c679bfd4f86a453,464600,468550,uh pick up an onion
+1030,1044,63,8,a1140d545bc3486fae5bc149e19d5772,468700,471900,and put it on the cutting board
+1031,1047,63,9,f53f9c8d979f4db99a437743e2b6fc8a,502800,505300,pick up the carrot
+1032,1048,63,10,12bfbc8fe8d540bcbdac6142c076457a,507300,511650,can you pick up the carrot and put in on the cutting board
+1033,1050,63,11,443423d6ad354080b4f16e5cf3ffd188,540900,543650,can you cut the tomato
+1034,1052,63,12,9f68a7d7beb047c1bab75b49bde25423,554850,558300,can you cut the tomato
+1035,1055,63,13,2da21bec6a0e4104abf7fa701d7bf7e6,584660,587720,can you
+1036,1055,63,14,c0dc5061c60e4bc4a2cb1f75f30a08b6,588650,590300,turn around
+1037,1056,63,15,f3d7f79aede24b3d8246303b3ef01079,594100,596900,and turn on the stove
+1038,1057,63,16,ab34d811f6c14c648f90b01ee7a2859f,608100,611080,can you pour in the pan
+1039,1058,63,17,e2e79344116044339d1179cb3eafdab5,616992,620252,uh pour the oil in the pan
+1040,1059,63,18,9a11cdd20527464c9c32f0b1577a5dbe,631768,636188,put the onion or
+1041,1059,63,19,eee570e7b7ee414c80ba44efa4e50129,636420,639760,put the vegetables in the pan
+1042,1061,63,20,f6db069852a349a4ba339b474e7c650f,653740,656720,put it in the pan
+1043,1063,63,21,979814da13764171aff3cfc574b71cac,678620,681430,uh put salt in
+1044,1064,63,22,a931006c0a184e4c8d82e287077708c4,696300,698800,put in pepper
+1045,1065,63,23,903478c7b2fa47ff9de31dcca4a30ad9,703600,705500,uh put it in the pan
+1046,1066,63,24,db9633de48844fc1a14b950fabafde60,721350,724150,stir the vegetables
+1047,1067,63,25,6ec1c93caaf547ee8fffa578928252b7,728000,732050,uh with a spoon stir the vegetables
+1048,1068,63,26,4529dbbe7304495db08dcf449a116a9f,754600,756850,cut the potato
+1049,1069,63,27,8ce2ec1b5f1c43729c7ba850c0030b92,761700,764050,pick up the potato
+1050,1070,63,28,127a192c274e451fb97af65b4702fb98,766000,769300,pick up the potato
+1051,1071,63,29,98aa7a027c6b43e092e311fc6373deb8,789220,791180,cut the carrot
+1052,1072,63,30,550a3971eba54b88a71710adee7fe644,796870,799140,cut the carrot
+1053,1073,63,31,904718de3f164e59a466bab7d921bb61,824700,825800,cut the celery
+1054,1074,63,32,0b9257fde995437ba8df0973552cc9d9,829512,832052,pick up the celery
+1055,1076,63,33,dbde70bf27ae45ad8823255de02a64e2,853780,857500,take the uh take the lid off the pot
+1056,1077,63,34,710f5cd56b4b486899c2d19ddfe386f0,864350,865700,take off the lid
+1057,1078,63,35,a40450ebb1eb483d80fc271a4209bad8,868448,871788,take off the lid
+1058,1079,63,36,4b8ad7ce728d4ac8bdfb5844af544653,884450,888750,pour in the vegetables on the board into the pot
+1059,1080,63,37,79d2480fb4294e44afdc5bdd183f8b68,902050,903700,put them in the pot
+1060,1081,63,38,fbe3c81681af4589b18c04f699b50151,924060,926600,turn on the stove turn off the stove
+1061,1082,63,39,3794d3154e754908bcd8cb1f32db32f0,927888,930308,turn off the stove
+1062,1084,63,40,9e8996502a1d42f48fe93c5c43cfe352,973100,975700,turn the stove off
+1063,1085,63,41,e92d7882068f42f28f0569429c58715c,988900,994000,put the vegetables in the pot
+1064,1086,63,42,727499b3df8f4ea0a86fa0ee4c415a3f,997700,1003750,uh put those vegetables in the pot
+1065,1087,63,43,356c6fff805e4027afb6511cd9b84e1f,1019900,1023800,put in pepper
+1066,1088,63,44,0fda185b6b574355993c169ac5eee98e,1027250,1030400,put it in the pot
+1067,1091,63,45,57ee9075ea9b4a2da616933688d225fa,1060700,1062150,turn around
+1068,1092,63,46,b01ceb42b73148498bbe728709c83d0f,1064100,1066300,turn around
+1069,1093,63,47,f6e5d4bf38f9409fad044a0890122a31,1087150,1090900,put the lid back on the pot
+1070,1094,63,48,8cd5b37f8e034e608748a365e01646bb,1104900,1106950,turn the stove off
+1071,1095,63,49,6f964671e9084124880dd2173047d41b,1120650,1125300,take the lid off off the pot
+1072,1096,63,50,88e60f9cf9d64055a9f41a0b584fb0d2,1136550,1140900,pour soup in a bowl
+1073,1097,63,51,46c5693b7af94e1f9153b534c6b80930,1155100,1157700,pour put the soup in the bowl
+1074,1098,63,52,32f0b9692e144799ab5db148ccd5092b,1183700,1186700,put the pot in the sink
+1075,1099,63,53,4aa39b0b028545b29c767643a1a653ec,1212680,1216200,put the spoons in the sink too
+1076,1100,63,54,0f66dd465c4747db9f38e03a9ab34ec1,1218192,1223532,put the dirty dishes in the sink
+1077,1101,63,55,ff2346041a8e44a9a5cbd19466c441f5,1228272,1230892,turn around
+1078,1102,64,0,28ca79f7c9844b0d807e75b75d071f9c,205550,206750,so turn on the stove
+1079,1103,64,1,59ec5807215f48319a0a1f9da16de9d6,209550,210600,so turn right
+1080,1104,64,2,2de40fcea60842e8b0cf92eaf0da3c47,212350,213400,turn on the stove
+1081,1105,64,3,297406dda6324b7abd0bd680b8958b8c,219200,220100,so
+1082,1105,64,4,5addad98892b4beb9d0e5a9f7dfa9163,220850,222400,find the knob and turn on the stove
+1083,1106,64,5,e7910f99c8cc4f12850cb110eec91857,234100,237030,so pick up the pot and put the lid on
+1084,1107,64,6,0b5eba3b7b69465b9d9694cef4eb7de1,239250,240750,so turn around turn right
+1085,1108,64,7,226f589eaaf54417bc763c131178ba98,242050,243850,"find the lid, pick up the lid"
+1086,1109,64,8,9bb07e7ff3314b5692b1dc7d7c8b5a90,246550,247500,put on the yeah there you go
+1087,1110,64,9,b24dd97cc56546e88666bf75b997c0f4,258350,260350,pick up the onion and put it on the board
+1088,1111,64,10,50795ac2736e47288cd07d90fdf51b5c,262300,263350,so turn around
+1089,1112,64,11,24962222f3564f48b23dcf2af63293d6,268650,269850,pick up the onion
+1090,1113,64,12,95c8c99655424e2a951e6480780c528f,287550,289700,so pick up the carrot and put it on the board
+1091,1114,64,13,c33a2d15a86b40df8a3ff6599d2bbbd6,293900,295100,pick up the carrot
+1092,1116,64,14,b8b0a4acdd3e44809158472145731472,304150,305750,pick up the carrot from the top
+1093,1117,64,15,6d71240f8abc48fe888b43cc1011450a,313200,315500,"so move your arm forward, pick up the carrot"
+1094,1118,64,16,11342ad6c90a431aa197fcdad0933f12,322800,326050,so pick alright so pick up the knife and cut the onion
+1095,1119,64,17,f9317597c0124645971a38b180d17a71,341050,344000,"so pick up the tomato, put it on the board, and cut it"
+1096,1120,64,18,16a21ed14da246c2b116926aeb281f1e,345550,346900,pick up the tomato
+1097,1121,64,19,93339f37516f4bd49fcba9d086b52812,352300,353650,pick up the red fruit
+1098,1122,64,20,0805a44017d64f14ae156f0ae97b7a87,361650,364600,so on your right pick up the fruit
+1099,1123,64,21,66343d550a8d48d0896461be04349b0e,368150,370300,"the fruit is red, pick the pick up the red fruit"
+1100,1124,64,22,f30c32f1c1e64e5ab7f48d39b2648d42,373000,374150,put it on the board
+1101,1124,64,23,37415f7e8c4f4f7a8591aee2db8681fa,374850,376550,pick up the knife cut the tomato
+1102,1125,64,24,37415f7e8c4f4f7a8591aee2db8681fa,374850,376550,pick up the knife cut the tomato
+1103,1126,64,25,e0f14e08501f4970844772655c68ab5d,386000,388150,ok turn on the stove
+1104,1127,64,26,9fe6e2a22c6d4efb80f1a034ab5bad5f,391350,393250,turn right turn on the stove
+1105,1128,64,27,b216b36b3f0847a0b457622f8e51b2ee,403050,404250,turn on the stove
+1106,1129,64,28,12a12269d88648d992c480baf34c4d19,416700,417800,so turn back
+1107,1130,64,29,a65d92f9a9ee4e639292d756a3771314,419650,421000,turn back toward me
+1108,1131,64,30,15a48bca954b424e9fd18295a738fdf7,425600,427350,find the dial turn on the stove
+1109,1132,64,31,c1064d0b55eb4b818d2d5aa659cc442d,439800,441550,so turn around
+1110,1133,64,32,bb7652b4f6fe442dbf92f156b16c6859,444600,446650,move left pick up the oil
+1111,1134,64,33,ad7f0c3f76fa44e5a93faecada34216b,450200,452750,pour it in the pan and turn on the stove
+1112,1135,64,34,7c75555e21094589b9a9470c5b262856,460750,462850,take the onion and put it in the pan
+1113,1136,64,35,885cd14987034f498e92e719641f9ab1,464950,466350,so pick up the onion
+1114,1137,64,36,a74941e815d744b9bf22c221013bcb54,473450,474250,ok
+1115,1137,64,37,12bd896ef16b4fada9e8bd0051f415d8,474790,475750,turn right
+1116,1137,64,38,3dc0ac9d597a4c92b182eab0a9c61b5a,476352,478612,that's left whatever yeah
+1117,1138,64,39,3c20490e47f54ad7afeb2ec3a9ffeb09,479200,481400,pick up the onion put it in the pan
+1118,1139,64,40,2ebcf3d0c9e741348fee2d222346c4db,484200,485350,only the onion
+1119,1140,64,41,784e6b4d7f444f609f2b9f9d3335da7f,496450,497500,turn right
+1120,1141,64,42,478ee03432f14d90a1c0077ff0ff869c,498950,500150,shift down left
+1121,1141,64,43,1e8bd5bfdf9543c4b21eb60388b8e8cc,500650,502700,pick up the pepper put it in the pan
+1122,1142,64,44,1e8bd5bfdf9543c4b21eb60388b8e8cc,500650,502700,pick up the pepper put it in the pan
+1123,1143,64,45,a312a91215b4473f89a78af21c698d23,509000,511450,pick up the first jar on your left
+1124,1144,64,46,ba101c0b119f4fa5a150c36621cfce97,519950,521300,put that down
+1125,1145,64,47,91e1927177a446e2970b9f2080b679bd,521600,522850,pick up the next ok
+1126,1146,64,48,634c268a1aac40f795cf0096ef8481ec,527100,528050,so
+1127,1146,64,49,1879bd3a406f464fbac79ff52226004b,528450,531350,turn around pick up the salt and put it in the pan
+1128,1147,64,50,e0917e8e8e544d3dac659b953515e450,535900,539050,farthest left jar pick it up put it in the pan
+1129,1148,64,51,b444738f93b5431bbe55056fc381e943,553100,554150,ok
+1130,1148,64,52,62a64639030943a78e62602bf7a867db,555350,557250,so turn right again
+1131,1149,64,53,22bec09a844d4d68acf197b530d87004,561650,563050,pick up the spoon
+1132,1150,64,54,38c5dc9e470e4aacb598d89cad37d010,565850,567600,stir the onions in the pan
+1133,1151,64,55,8e539caedd9f4f8293cad62fd6f9eb75,571800,574750,so move left one container yup stir the onions
+1134,1152,64,56,1434ec1884d847f5b5c13d5b58f2d0e0,586350,588250,pick up the potato and cut it
+1135,1154,64,57,2b00cd3a4cbd4d5a874aa2a9ec4fcf5e,608700,610450,pick up a carrot and cut it
+1136,1155,64,58,8f827266d7894b4a8a7f6debf76e6d48,625950,627850,pick up the celery and cut it
+1137,1156,64,59,2844da4f486f4541b02d86fa8d94e806,648150,650350,turn around pick up the pot lid
+1138,1157,64,60,82f20014c4004d73a9ac4d4b74e17271,655550,657950,the pot's on your right pick up the lid
+1139,1158,64,61,ca5bb850aabc49a9b1eb642f1c8fd29c,671900,674500,pick up the celery and put it in the pot
+1140,1159,64,62,cbb79de836934dc69fd7c15e58fec017,679700,681700,so pick up pick up the tray
+1141,1160,64,63,5c5f5c6325804084bc7b7cc242f3e9e5,685100,686200,turn right
+1142,1161,64,64,47dfe687fa144111992c19a4b2e3deb4,687800,689550,put the celery in the pot
+1143,1162,64,65,5bed42669b4e4f10a96dd3a9cbab88a6,696400,699000,put the green vegetable in the pot
+1144,1163,64,66,0aa4e951e0864dddb85303241214716e,710800,714450,are you turning off of turn around turn off the stove
+1145,1164,64,67,684c62763b3d4472a36de659401ede5e,718470,721350,so reach for the knob turn off the stove
+1146,1166,64,68,b112b72adcae40a4a452d0b34d124f9f,733950,736950,turn around pick up the pan put it in the pot
+1147,1167,64,69,57257d314139449b90f979c4425a929b,740350,741600,pick up the pan
+1148,1168,64,70,9fbabc48e0d5489c93b1d4742dd052b2,744700,746050,and pour in the pot
+1149,1169,64,71,275e3cd5af0f4329b4514a59f65296ff,758200,759350,so turn around
+1150,1170,64,72,c993ab89adc14037ba262154a560e2ab,760650,762500,put the spices in the pot
+1151,1171,64,73,793433f1a5d04d06b2331d4bb2841a89,783800,785550,stirring it ok
+1152,1171,64,74,1d3f351b00bf477292c7a13498794381,785900,787900,turn around and stir the pot
+1153,1172,64,75,6ebe88001e194753b51e2d4fbabca3e5,790400,791550,so turn around
+1154,1173,64,76,660138c35b6d461e82ba02b17f511c49,793100,794150,turn right
+1155,1174,64,77,ff08e3bdde734942be6fa4d7344685eb,816250,818300,turn around put the lid on the pot
+1156,1175,64,78,548dcd11fd6a47ca99849fa242fce8ff,838250,840100,turn around turn on the heat
+1157,1176,64,79,1d6ba60dc19e4d30868aa740321eb3c0,843550,844750,so turn the heat up
+1158,1177,64,80,9d49c0f921c045c7a253d7b3447272de,854950,857100,turn around take the lid off the pot
+1159,1178,64,81,4d7de413bce24f59ac2fd2fa0ca17e39,875150,878540,find a bowl and put the soup in a bowl
+1160,1179,64,82,424f28af18bf48779ffa5ec811c87645,890400,892700,pick up a spoon to put the soup in the bowl
+1161,1180,64,83,c01faf48b9774cd9bc95b7f844af553e,917950,920100,pick up the pot and put it in the sink
+1162,1181,64,84,8fbf50a76c4d4124a1d96c8dbf9d3399,939100,941350,take the pan put it back on the stove
+1163,1182,64,85,f6391e7c27ea4107be951fa78fb583a4,942750,943850,pan is the top
+1164,1182,64,86,a0aaa089eb454566a6d44b7331051b85,945500,946750,to your right
+1165,1183,64,87,4d03479acce34586b3eeb4d891526918,948150,950000,so to your right pick up the pan
+1166,1184,64,88,6f5b31e4d251421bacff1f3610c17e30,952100,953850,alright move move right
+1167,1185,64,89,9e45c3b0daff435f88441366c789787e,961200,962550,so move to the right
+1168,1186,64,90,a3baac923ad244cda8e85a86fe4eceeb,963712,964852,so
+1169,1186,64,91,e4e6204e2d584ed785ddc42b8f8f8158,965900,968350,so use your right hand pick up the pan
+1170,1187,64,92,6a6d310d07874cfa9af32400b6c3f7fd,973800,974850,so turn around
+1171,97,70,0,6cfdf2a646884c71b26e0b9fcfcbc3f4,280450,282850,oh ok no Baxter turn on the stove
+1172,98,70,1,cb4775fad5d9482d81cd20982a9a8e3f,313650,316550,uh Baxter take the lid and put it on the pot
+1173,99,70,2,4365de4239774ee6b03d253968aa1eeb,345100,347500,okay Baxter take the onion
+1174,100,70,3,d6036351234b4bfab828cccd6b1d5c3f,378150,380600,Baxter put the onion on the cutting board
+1175,101,70,4,3e8f7c1373ef4e5b99af5e9d550b20a7,454450,456020,and use it to cut the onion
+1176,102,70,5,478aa22640524255aae4d0d23c06e5c5,463300,465200,Baxter pick up the tomato
+1177,103,70,6,ca3a7d2755e34fb3845c8c9a29d48357,470300,472450,Baxter pick up the tomato
+1178,104,70,7,705de92d8dbc4bce8513897c5166c0b2,472800,474850,oh Baxter pick up the red thing
+1179,105,70,8,dfc93a7b6b8a431f922ba1f86ba687c7,479550,480500,the red thing
+1180,106,70,9,379695ce299249d18d7aacba65dbe2c1,503050,504500,Baxter turn on the stove
+1181,107,70,10,a7e920fcc53f46aea6a67e7470a586c7,534600,537050,and pour some in it in the pot
+1182,108,70,11,a37e7b4400c040de8f7f5668dbe63db7,544200,549500,Baxter take the chopped onions and red stuff and put them in the pot
+1183,109,70,12,36ee790f65b647f89bd4cb09f659b4f6,585100,588450,take some seasoning and put it in the pot
+1184,110,70,13,eea799fe11b444f2843585eba8642230,609300,612700,put some pepper and put it it in the uh pot
+1185,111,70,14,780e77ebb303449985947a6c347196b7,633450,634850,take a spoon
+1186,111,70,15,9e4835384cff463d8a1d38bb5ffc8fea,636488,638628,and stir the pot
+1187,112,70,16,3bd4665a72ab4dc28d97aa71ab87d479,657850,660000,ok Baxter take the potato
+1188,113,70,17,ed846efa0a744416a5db43e7600679fa,664300,666350,use the knife to cut the potato
+1189,114,70,18,4547e3316eb849e994518a82397da208,696900,699130,and cut it into tinier pices
+1190,115,70,19,e696d9e40b82482a913406eb564a6737,717950,719900,and cut into tinier pieces
+1191,116,70,20,55975df5a03a4dd7b2f3871635f070ca,738250,740100,and take the lid off the pot
+1192,117,70,21,a3afe00ae0c547a7bcea1cb0fcbd4c2c,755550,760200,okay Baxter take the cutting board and dump it into the pot
+1193,118,70,22,f532dfc8506f43d3a4a175894641f161,790450,792950,and turn the fire off from the first pot
+1194,119,70,23,8e7eebc693bc429fa79e4027d3c797be,803600,808000,uh Baxter take the first pot and dump it into the second pot
+1195,120,70,24,0b0cbf1a374d41a18d33759a01a9e116,831250,837890,okay Baxter uh take some  seasoning on your right and pour it into the second pot
+1196,121,70,25,ca152f795f7842b981fae8058b036793,866450,869100,okay Baxter stir the pot
+1197,123,70,26,168be3f0b974467c83615d3a56bc0dc6,876550,879850,okay no Baxter approach the stove
+1198,124,70,27,443dedf1ee4541f78d63b44f38033a78,882850,886500,Baxter take a spoon and stir the pot
+1199,125,70,28,aba92fd16ec4407ca436a8b7c001b77b,892350,894800,Baxter turn 180 degrees
+1200,126,70,29,8ca3f2eb0b4e4d909c28cc124724dfd5,901250,903800,Baxter turn this turn the pot
+1201,127,70,30,f07d79b53bfa458ebb6b526ff9c58d13,925450,927950,Baxter put the lid on the pot
+1202,128,70,31,79384e6ee73045d0890930d268a4f539,942950,945850,ok Baxter turn off the stove
+1203,129,70,32,b883b526f0c241ab815735af337c56b0,957750,960100,Baxter take the lid off the pot
+1204,130,70,33,c87cceabac934c95b3956e0b80c8ebeb,979850,984200,ok Baxter take a bowl and put some soup in the bowl

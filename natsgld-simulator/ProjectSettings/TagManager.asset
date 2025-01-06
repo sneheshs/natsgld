@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickup
+  - Baxter_face_normal_blinking
+  - Baxter_face_confused
+  - NG_Banner_1
+  - NG_Banner_2
+  - Baxter
+  - Baxter_base
+  - Animation_Status
+  - Animation_Control
+  - Baxter_Face_Animation
+  - Animation_Status_Move
+  - Animation_Control_Move
+  - Camera_Angle
+  - Animation_Name
+  - BaxterOG
+  - LGripPos
+  - RGripPos
+  - Baxter_leftArm_joint4
+  - Baxter_rightArm_joint4
+  - Baxter_monitor
+  - Baxter_base_visible
+  - Baxter_upperBody
+  - LHTarget
+  - RHTarget
+  - LShoulderTarget
+  - RShoulderTarget
+  - LookTarget
+  - BaseTarget
+  - InPot
+  - OnBoard
+  - Onion2
+  - InBowl
+  - MagicPoof
+  - FxTemporaire
+  - SceneFader
+  - CameraPoseList
+  - Board
+  - Knife
+  - Video_Player
+  - NG_VideoPlayer
+  - Banner_Video
+  - Tomato_Cut_Board
+  - Potato_Cut_Board
+  - Celery_Cut_Board
+  - Carrot_Cut_Board
+  - Onion_Cut_Board
+  - All_Cut_Pieces_Pot
+  - Apple_Uncut
+  - Potato_Uncut
+  - Celery_Uncut
+  - Tomato_Uncut
+  - Carrot_Uncut
+  - Onion_Uncut
+  - Vegetables_Cut_Pan
+  - Vegetables_Cut_Pot
+  - Oil_Default_Hidden_Pan
+  - Soup_Default_Hidden_Bowl
+  - Baxter_Camera
+  - top_left_scene_view
+  - front_scene_view
+  - left_stove_view
+  - right_stove_view
+  - back_right_counter_view
+  - AnimationContainer
+  - Baxter_leftArm_joint1
+  - Baxter_rightArm_joint1
+  - CounterTopFrontBrown
+  - CounterTopFrontWhite
+  - CounterTopBack
+  - Oil_Bottle
+  - LGripper
+  - RGripper
+  - Uncut_Onion_04
+  - Uncut_Onion_05
+  - Carrot_Uncut_02
+  - PoseControlLeft
+  - PoseControlRight
+  - PoseControl
+  - OZ_Banner
+  - PoseControlStartStop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Food
+  - Utensils
+  - Cabinets
+  - Pots and Pans
+  - Spices
+  - Appliances
+  - Robot
+  - Floors and Walls
+  - IgnoreAll
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

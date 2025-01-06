@@ -1,0 +1,443 @@
+<!--
+MIT License
+
+Copyright (c) 2025 Snehesh Shrestha
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    /*.button {
+        border: none;
+        color: black;
+        padding: 16px 32px;
+        text-align: center;
+        width: 30%;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 36px;
+        margin: 4px 2px;
+        transition-duration: 0.3s;
+        cursor: pointer;
+    }
+    */
+
+    .button {
+
+        text-align: center;
+        text-decoration: none;
+        font-size: 15px;
+
+        transition-duration: 0.1s;
+        cursor: pointer;
+
+        color: white;
+        background-color: white;
+
+        border: 2px solid #4CAF50;
+        padding: 0.5% 0.5%;
+        margin: 1px 1px;
+        height: 40px;
+        width: 48%;
+
+        display: inline-block;
+    }
+
+    .button:hover {
+        /*background-color: #4CAF50;*/
+        background-color: white;
+        color: black;
+    }
+
+    .button:active {
+      background-color: #3e9141;
+      transform: translateY(2px);
+    }
+
+    .user_emotion_button {
+      border: 2px solid #4c92af;
+      background-color: #4c92af;
+    }
+
+    .user_emotion_button:active {
+      background-color: #376c82;
+    }
+
+    .user_actions_button {
+      border: 2px solid #4c75af;
+      background-color: #4c75af;
+    }
+
+    .user_actions_button:active {
+      background-color: #324d72;
+    }
+
+    .robot_control_button {;
+      border: 2px solid #924caf;
+      background-color: #924caf;
+    }
+
+    .robot_control_button:active {
+      background-color: #924caf;
+    }
+
+    .admin_controls_button {
+      border: 2px solid #af4c7b;
+      background-color: #af4c7b;
+    }
+
+    .admin_controls_button:active {
+      background-color: #773253;
+    }
+
+    .robot_face_button {
+      border: 3px solid #af4c4c;
+      background-color: #af4c4c;
+    }
+
+    .robot_face_button:active {
+      background-color: #af4c4c;
+    }
+
+    .user_communication_button {
+      border: 1px solid #af894c;
+      background-color: #af894c; 
+    }
+
+    .user_communication_button:active {
+      background-color: #725931;
+    }
+
+    .abstract_button {
+      border: 3px solid #a1af4c;
+      background-color: #a1af4c;
+    }
+
+    .abstract_button:active {
+      background-color: #646d2f;
+    }
+
+    .align-center {
+        display: block;
+        /*margin: 1.0em auto;*/
+        text-align: center;
+    }
+
+    fieldset {
+      font-size: 18px;
+      border: solid 2px black;
+      -webkit-border-radius: 8px;
+      -moz-border-radius: 8px;
+      border-radius: 8px;
+      padding: 2px;
+      height: 100%;
+      width: 100%;
+    }
+
+
+    th, td {
+      border: 1px solid black;
+      padding: 0px;
+      margin: 0px;
+    }
+
+    table {
+        padding: 0px;
+        margin: 0px;
+        border: 1px solid black;
+        width: 100%;
+        height: 100%;
+        border-collapse: collapse;
+        border-spacing: 0px;
+    }
+
+    fieldset {
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        margin: 0px;
+    }
+
+
+    .btn:focus {
+      outline: none;
+    }
+
+    .video_cell {
+        width: 480px;
+        height: 394px;
+        border: 1px solid black;
+        padding: 0px;
+        margin: 0px;
+        border-spacing: 0px;
+    }
+
+
+    .btn-primary {
+        color: #fff;
+        background-color: #337ab7;
+        border-color: #2e6da4;
+        padding: 3px;
+        margin: 3px;
+    }
+
+    .btn-primary:focus {
+        color: #fff;
+        background-color: #286090;
+        border-color: #122b40
+    }
+
+    .btn-primary:hover {
+        color: #fff;
+        background-color: #286090;
+        border-color: #204d74
+    }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script> -->
+
+</head>
+<body style="padding: 0px; margin: 0px;" onkeypress="keypress_happened(event)">
+    <script>
+        $(document).ready( function()
+        {
+            checkUpdate();
+
+            function checkUpdate() {
+               setTimeout(checkUpdate, 1000);
+
+               $.ajax("{{ url_for('divupdate') }}").done(function (reply)
+               {
+                  $('#container').html(reply);
+               });
+            }
+        });
+    </script>
+
+    <table>
+        <tr>
+            <td colspan="3">
+                <fieldset>
+                  <fieldset style="width: 50%; height: 100%; float: left;" class="align-center">
+                    <legend>User Emotion</legend>
+                    {% for btn in commands.get('User Emotions') %}
+                      {% set btn_value = btn.split('|') %}
+                    <button class="button user_emotion_button" value="{{ btn_value[1] }}">
+                        {{ btn_value[0] }}
+                    </button>
+                    {% endfor %}                    
+                  </fieldset>
+
+                  <fieldset style="width: 50%; height: 100%; float: right;" class="align-center">
+                    <legend>User Actions</legend>
+                    {% for btn in commands.get('User Actions') %}
+                      {% set btn_value = btn.split('|') %}
+                    <button class="button {{ btn }} user_actions_button" value="{{ btn_value[1] }}">
+                        {{ btn_value[0] }}
+                    </button>
+                    {% endfor %}
+                  </fieldset>
+                </fieldset>
+            </td>
+        </tr>
+
+        <tr>
+            <td id="video_left_cell">
+                <fieldset style="width: 100%; height: 100%; float: left;" class="align-center">
+                  <legend>Robot Control</legend>
+                  {% for btn in commands.get('Robot Control') %}
+                    {% set btn_value = btn.split('|') %}
+                  <button class="button {{ btn }} robot_control_button" value="{{ btn_value[1] }}">
+                    {{ btn_value[0] }}
+                  </button>
+                  {% endfor %}
+                </fieldset>
+            </td>
+
+            <td id="video_cell">
+                <iframe id="video_frame" style="border: none; display: block;"></iframe>
+            </td>
+
+            <td id="video_right_cell">
+                <fieldset style="width: 100%; height: 100%; float: left;" class="align-center">
+                  <legend>Admin Controls</legend>
+                  {% for btn in commands.get('Admin Controls') %}
+                    {% set btn_value = btn.split('|') %}
+                  <button class="button {{ btn }} admin_controls_button" value="{{ btn_value[1] }}">
+                    {{ btn_value[0] }}
+                  </button>
+                  {% endfor %}
+
+                    <div id="container"></div>
+                </fieldset>
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <fieldset class="align-center">
+                  <legend>Robot Face</legend>
+                  {% for btn in commands.get('Robot Face') %}
+                    {% set btn_value = btn.split('|') %}
+                  <button class="button {{ btn }} robot_face_button" value="{{ btn_value[1] }}">
+                    {{ btn_value[0] }}
+                  </button>
+                  {% endfor %}
+                </fieldset>
+            </td>
+
+            <td>
+                <fieldset class="align-center">
+                  <legend>User Communication</legend>
+                  {% for btn in commands.get('User Communication') %}
+                    {% set btn_value = btn.split('|') %}
+                  <button class="button {{ btn }} user_communication_button" value="{{ btn_value[1] }}">
+                    {{ btn_value[0] }}
+                  </button>
+                  {% endfor %}
+                </fieldset>
+            </td>
+
+        </tr>
+    </table>
+
+    <script>
+
+    /* Code from w3schools.com sample https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_event_key_keycode */
+    function keypress_happened(event)
+    {
+      var x = event.which || event.keyCode;
+      if (x == 78 || x == 110)
+      {
+        xhr.open("GET", "/NEXT", true); //Get is good enough
+        xhr.send();
+      }
+    }
+
+
+    // TODO: Need to save cookie to kill the interval function after update
+    // This is a polling method that will keep polling every 5 seconds
+    // // Should make it only start if the web video server is there is nothing
+    // var intervalHandle = setInterval(function() { checkUpdates(); }, 1000);
+    var xhr = new XMLHttpRequest();
+    xhr.onload = function() 
+    {
+      // alert(xhr.responseText);
+      if (xhr.responseText == 'Update')
+      {
+        clearInterval(intervalHandle);
+        resize_video();
+      } 
+
+      else if (xhr.responseText == 'NewScene') 
+      {
+        location.reload();
+      }
+    };
+
+    function checkUpdates()
+    {
+      xhr.open('GET', '/refresh');
+      xhr.send();
+    }
+    
+    addEventListener("DOMContentLoaded", function()
+    {
+      var actionButtons = document.querySelectorAll(".button");
+      for (var i=0; i<actionButtons.length; i++) {
+        var button = actionButtons[i];
+        button.addEventListener("click", function(e) {
+
+          var clickedButton = e.target;
+          var command = clickedButton.value;
+
+          var request = new XMLHttpRequest();
+          request.onload = function() {
+              // Process
+              //alert(request.responseText);
+          };
+          //Get is good enough
+          request.open("GET", "/" + command, true);
+          request.send();
+        });
+      }
+    }, true);
+    </script>
+
+    <script type="text/javascript">
+        //Size the video frame to fit the browser when loaded
+        $( document ).ready(function() { resize_video(); });
+        // $( document ).ready(function() { table_adjustment(); });
+
+        //Resize the video frame to fit the browser whenever the current window size change
+        $(window).resize(function() { resize_video(); });
+
+        function resize_video()
+        {
+          vid_percent = 50;
+          ratio = 100/vid_percent;
+          wid = $(window).width();
+          w = Math.round(wid/ratio);
+          h = Math.round((720/1280) * (wid/ratio));
+
+          w_side = Math.round((wid-(wid/ratio))/2)-1;
+
+          //Old HTML Style
+
+          // //Update iframe width and height
+          // $("#video_frame")[0].setAttribute("width", w.toString() + "px");
+          // $("#video_frame")[0].setAttribute("height", h.toString() + "px");
+          // $("#video_frame").attr('src', "http://0.0.0.0:8080/stream?topic=/zed2/left/image_rect_color&width="+ w.toString() +"&height=" + h.toString());
+
+          // //Update cell width and height to match the iframe
+          // $("#video_cell")[0].setAttribute("width", w.toString() + "px");
+          // $("#video_cell")[0].setAttribute("height", h.toString() + "px");
+
+
+
+          // //Update the cell to the side of the video cell
+          // $("#video_left_cell")[0].setAttribute("width", w_side.toString() + "px");
+          // $("#video_left_cell")[0].setAttribute("height", h.toString() + "px");
+          // $("#video_right_cell")[0].setAttribute("width", w_side.toString() + "px");
+          // $("#video_right_cell")[0].setAttribute("height", h.toString() + "px");
+
+
+          //HTML5 Style
+
+          //Update iframe width and height
+          $("#video_frame").css({"width" : w.toString()+"px", "height" : h.toString() +"px"});
+          $("#video_frame").attr('src', "http://0.0.0.0:8080/stream?topic=/zed1/zed1/left/image_rect_color&width="+ w.toString() +"&height=" + h.toString());
+          // $("#video_frame").attr('src', "http://localhost:8080/stream_viewer?topic=/usb_cam/image_raw&width="+ w.toString() +"&height=" + h.toString());
+
+          //Update cell width and height to match the iframe
+          $("#video_cell").css({"width" : w.toString()+"px", "height" : h.toString()+"px", "padding":"0px"});
+
+          //Update the cell to the side of the video cell
+          $("#video_left_cell").css({"width" : w_side.toString()+"px", "height" : h.toString() +"px"});
+          $("#video_right_cell").css({"width" : w_side.toString()+"px", "height" : h.toString() +"px"});
+        }
+    </script>
+
+
+
+</body>
+</html>

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/PanTurnOffGasAnimation.unity
+    guid: 6b8ab3e516a2e4652bfcab4456b873a2
+  - enabled: 1
+    path: Assets/Scene/CuttingCarrotAnimation.unity
+    guid: 3c46893a7d1b08b448ca214ad0cfa495
+  - enabled: 1
+    path: Assets/Scene/CuttingOnionAnimation.unity
+    guid: 332849e1348934884aaa5642f281c7b7
+  - enabled: 1
+    path: Assets/Scene/CuttingAppleAnimation.unity
+    guid: 42f32126c4a0144aca3aeb7206592157
+  - enabled: 1
+    path: Assets/Scene/CuttingCucumberAnimation.unity
+    guid: fee5bdef91613964db9491de1ea8d2de
+  - enabled: 1
+    path: Assets/Scene/CuttingGarlicAnimation.unity
+    guid: 79e762baddf34432a8a6b47a1ded9804
+  - enabled: 1
+    path: Assets/Scene/CuttingPotatoAnimation.unity
+    guid: 21dbd6d622a1c40efac07bc600bb81fe
+  - enabled: 1
+    path: Assets/Scene/TwistPepperAnimation.unity
+    guid: 5201155f36872463f9ca056336c14001
+  - enabled: 1
+    path: Assets/Scene/CleanUpAnimation.unity
+    guid: b2cee13ffbf6d1c47a37ed604246b9f4
+  - enabled: 1
+    path: Assets/Scene/CuttingCeleryAnimation.unity
+    guid: 3d125a2a34b1342caae4bb8d42c1c7be
+  - enabled: 1
+    path: Assets/Scene/PourToPanAnimation.unity
+    guid: d15d28c29647787448681e84ddb0ba52
+  - enabled: 1
+    path: Assets/Scene/AddSaltAnimation.unity
+    guid: f2b221cdf31ce439590c741ee3a5f2d6
+  - enabled: 1
+    path: Assets/Scene/PourFromBoardToPotAnimation.unity
+    guid: ffec528aeafe4a8468c77dda125c8224
+  - enabled: 1
+    path: Assets/Scene/LidOnWaterAnimation.unity
+    guid: a75a224a3e11d48c19d90c43f45cd041
+  - enabled: 1
+    path: Assets/Scene/OiltoPanAnimation.unity
+    guid: 1afb55ba659b84029a9b4a17c44e11f0
+  - enabled: 1
+    path: Assets/Scene/PanTurnOnGasAnimation.unity
+    guid: d429fa70b6e3b4331a83ba8956c30c78
+  - enabled: 1
+    path: Assets/Scene/PickUpCarrotAnimation.unity
+    guid: 6e73de464660b4db9bfd186aa4c6e8bf
+  - enabled: 1
+    path: Assets/Scene/PickUpOnionAnimation.unity
+    guid: f246b3a53bba941babb592e10255c9a4
+  - enabled: 1
+    path: Assets/Scene/ShallowPourAnimation.unity
+    guid: 2148d6e739b7447c1849b7b4815ba1f5
+  - enabled: 1
+    path: Assets/Scene/PotTurnOnGasAnimation.unity
+    guid: 3cd6c337ee4de4961a11e06ceee4d633
+  - enabled: 1
+    path: Assets/Scene/LidOnSoupAnimation.unity
+    guid: 9fd1487a05795418bbdecbb221205ab2
+  - enabled: 1
+    path: Assets/Scene/StirringPotAnimation.unity
+    guid: 9734cdf0656f146749f80b400578417a
+  - enabled: 1
+    path: Assets/Scene/StirringPanAnimation.unity
+    guid: 1a480d895540142569be67604056c678
+  - enabled: 1
+    path: Assets/Scene/LidOffPourAnimation.unity
+    guid: 31510633beeb24ed3a7a1e0132b9a331
+  - enabled: 1
+    path: Assets/Scene/CuttingTomatoAnimation.unity
+    guid: e1255c1729dd24ece8ab0f069978cf1e
+  - enabled: 1
+    path: Assets/Scene/BasilToPotAnimation.unity
+    guid: e9ca270a7d18642cda6644908ad217ab
+  - enabled: 1
+    path: Assets/Scene/LidOffServeAnimation.unity
+    guid: 3a638373ae50a46a5a126d004608952b
+  - enabled: 1
+    path: Assets/Scene/PourFromPotToBowlAnimation.unity
+    guid: cf86460f2eb904abbb3b81b759cdc1e4
+  - enabled: 1
+    path: Assets/Scene/PotTurnOffGasAnimation.unity
+    guid: fdaee32bc58174208ac1a76bcda25c11
+  - enabled: 1
+    path: Assets/Scene/BasicMovementsAnimation.unity
+    guid: f9b0379d098384f6caf8a4f38a34cfc7
+  - enabled: 1
+    path: Assets/Scene/WelcomeAnimation.unity
+    guid: 949850c78a6c34b4eac9d95685707c65
+  - enabled: 1
+    path: Assets/Scene/OneSceneAnimation.unity
+    guid: aa3bd256146f1554da0e37fd3f801818
+  m_configObjects: {}

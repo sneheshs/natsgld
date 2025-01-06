@@ -1,0 +1,112 @@
+<!--
+MIT License
+
+Copyright (c) 2025 Snehesh Shrestha
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+
+<script type="text/javascript" src="http://static.robotwebtools.org/EventEmitter2/current/eventemitter2.min.js"></script>
+<script type="text/javascript" src="http://static.robotwebtools.org/roslibjs/current/roslib.min.js"></script>
+
+<script type="text/javascript" type="text/javascript">
+  // VARIABLES
+  // -----------------
+  var WHITE = "#FFFFFF";
+  var RED = "#FF0000";
+  var BLUE = "#0000FF";
+  var counter = 0;
+
+  // Connecting to ROS
+  // -----------------
+  var ros = new ROSLIB.Ros({
+    url : 'ws://192.168.0.192:9090'
+  });
+
+  ros.on('connection', function() {
+    document.getElementById('rosmsgs').innerText = 'Connected to websocket server.';
+  });
+
+  ros.on('error', function(error) {
+    document.getElementById('rosmsgs').innerText = 'Error connecting to websocket server: ' + error;
+  });
+
+  ros.on('close', function() {
+    document.getElementById('rosmsgs').innerText = 'Connection to websocket server closed.';
+  });
+
+  // Publishing Clapper
+  // ------------------
+  var clapper = new ROSLIB.Topic({
+    ros : ros,
+    name : '/ng/clapper',
+    messageType : 'std_msgs/String'
+  });
+  
+  function send_clapper(msg)
+  {
+    var ros_msg = new ROSLIB.Message({'data': msg});
+    clapper.publish(ros_msg);
+    document.getElementById('rosmsgs').innerText = "ROS Published: " + msg;
+  }
+
+  // Keyboard Listener
+  // ------------------
+  document.addEventListener('keydown', keyHandler);
+
+  function keyHandler(e) {
+  	if (e.keyCode == 32 || e.keyCode == 13) 
+  	{
+	    if (counter == 0)
+	    {
+	      document.body.style.backgroundColor = RED;
+	      send_clapper("START");
+	      counter++;
+	    }
+	    else if (counter == 1)
+	    {
+	      document.body.style.backgroundColor = BLUE;
+	      send_clapper("CLAP");
+	      counter++;
+	    }
+	    else
+	    {
+	      document.body.style.backgroundColor = WHITE;
+	      send_clapper("DONE");
+	      counter = 0;
+	    }
+    }
+}
+
+</script>
+</head>
+
+<body>
+  <center>
+    <h1>NG Web Clapper</h1>
+    <div id="instruction">Use ANY keyboard key as the clapper</div>
+    <br/>
+    <div id="rosmsgs"> </div>
+  </center>
+</body>
+</html>
