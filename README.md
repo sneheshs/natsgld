@@ -9,11 +9,14 @@ A Dataset with Speech, Gesture, Logic, and Demonstration for Robot Learning in N
 
 ## Demo Videos
 
-#### Overview Video
-<video src="demo/NATSGLD-Demo-Video-Compressed.mp4" width="960" height="540" controls></video>
+#### Overview Video [Download](demo/NATSGLD-Demo-Video-Compressed.mp4)
+[![NatSGLD Overview Video](https://img.youtube.com/vi/gVx3UEleljk/0.jpg)](https://youtu.be/gVx3UEleljk)
 
-#### Speech and Gesture to LTL Video
+
+#### Speech, Gesture, and LTL Video [Download](demo/NatSGLD_Sample_SpeechGestureLTL_Compressed.mp4)
 <video src="demo/NatSGLD_Sample_SpeechGestureLTL_Compressed.mp4" width="960" height="540" controls></video>
+[![Speech Gesture and LTL Video](https://img.youtube.com/vi/4F1TJ1XZsbY/0.jpg)](https://youtu.be/4F1TJ1XZsbY)
+
 
 
 ## Dataset Details
