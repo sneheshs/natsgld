@@ -2,8 +2,8 @@
 This repository uses the [L2CS-Net](https://github.com/Ahmednull/L2CS-Net) pipeline to generate gaze data.
 
 
-#### Demo Video
-<video src="../../../demo/NATSGLD_Demo_Gaze.mp4" width="540" height="960" controls></video>
+#### Demo Video [Download](../../../demo/NATSGLD_Demo_Gaze.mp4)
+[![NatSGLD Gaze Demo](https://img.youtube.com/vi/Nd5ytJ4pWWc/0.jpg)](https://youtube.com/shorts/Nd5ytJ4pWWc)
 
 ## Setup Instructions
 
