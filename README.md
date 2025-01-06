@@ -17,7 +17,6 @@ Recent advances in multimodal Human-Robot Interaction (HRI) datasets emphasize t
 
 
 #### Speech, Gesture, and LTL Video [Download](demo/NatSGLD_Sample_SpeechGestureLTL_Compressed.mp4)
-<video src="demo/NatSGLD_Sample_SpeechGestureLTL_Compressed.mp4" width="960" height="540" controls></video>
 [![Speech Gesture and LTL Video](https://img.youtube.com/vi/4F1TJ1XZsbY/0.jpg)](https://youtu.be/4F1TJ1XZsbY)
 
 
